@@ -1,8 +1,8 @@
 # Beginner PVE Equipment
 
-- ##### Basic Concepts
-- ##### Shops Guide
-- ##### Equipment List
+- ##### [Basic Concepts](https://github.com/guroteske/al-guides/blob/master/Beginner%20Equipment.md#basic-concepts-1)
+- ##### [Shops Guide](https://github.com/guroteske/al-guides/blob/master/Beginner%20Equipment.md#shops)
+- ##### [Equipment List](https://github.com/guroteske/al-guides/blob/master/Beginner%20Equipment.md#equipment-list--early-game-farming-locations)
 
 ## Basic Concepts
 ### Very Important, Please Read:
@@ -49,103 +49,103 @@ This is a list of easily accessible blue rarity equipment. In general, upgrading
 Because blue equipment requires such a small number of blueprints to craft, farming for core blue equipment, where possible, is highly recommended.
 
 #### [120mm Twin](https://azurlane.koumakan.jp/Twin_120mm_(QF_Mark_XII))
-![DD]()
+![DD Gun]()
 - **Source:** Royal Equipment Boxes
 - **Relevant Ships:** Destroyers and Battleships
 - Easily the strongest damage-focused blue-rarity destroyer gun. While the purple rarity 127mm guns can compete with the purple rarity 120mm twin, their blue rarity variants shoot normal shells, reducing their damage by even greater amount than the natural damage reduction of using a lower tech level version of a weapon. Unfortunately, this gun can only be acquired from boxes.
 
-#### [152mm Single]()
-![CL]()
+#### [152mm Single](https://azurlane.koumakan.jp/Single_152mm_(6%22/53_caliber_gun))
+![CL Gun]()
 - **Source:** 3-2
 - **Relevant Ships:** Light Cruisers
 - A Russian gun and as such not available in any equipment boxes. If you want this gun, you'll need to farm for it. While it has incredibly high damage output, it has equally high spread, and achieving your max damage potential is next to impossible. When compared to other readily accessible alternatives, however, its sheer damage makes up for its poor hitrate. When one shell already hits harder than just about any other gun you could be using, it doesn't matter that you're only going to hit with one shell.
 
-#### [152mm Twin]()
-![CL]()
+#### [152mm Twin](https://azurlane.koumakan.jp/Twin_152mm_(6%22/53_caliber_gun))
+![CL Gun]()
 - **Source:** Eagle Equipment Boxes, 3-4
 - **Relevant Ships:** Light Cruisers and Battleships
 - A surprisingly potent low-rarity gun, useful as both a main gun for light cruisers and an aux gun for battleships. While it is a shotgun, it has a relatively low spread compared to some of the alternatives, and decent damage per volley with a fast reload speed.
 
-#### [150mm Twin TbtsK]()
-![CL]()
+#### [150mm Twin TbtsK](https://azurlane.koumakan.jp/Twin_150mm_(TbtsK_C/36))
+![CL Gun]()
 - **Source:** Ironblood Equipment Boxes
 - **Relevant Ships:** Light Cruisers and Battleships
 - With its purple rarity T3 variant being the strongest readily-accessible CL gun, it should be no surprise that the T2 TbtsK is also one of the best blue guns for CLs. Unfortunately, it's limited to boxes while its T3 variant is farmable.
 
-#### [203mm Mounted]() and [203mm Twin SKC]
-![CA]() ![CA]()
+#### [203mm Mounted](https://azurlane.koumakan.jp/Twin_203mm_(3rd_Year_Type)) and [203mm Twin SKC](https://azurlane.koumakan.jp/Twin_203mm_(SK_C/34))
+![CA Gun]() ![CA Gun]()
 - **Source:** Sakura and Ironblood Equipment Boxes
 - **Relevant Ships:** Heavy Cruisers
 - With the relative lack of available heavy cruiser guns, ships will be reliant on the lower rarity variants of the readily available HE and AP guns respectively. While it makes little difference which you choose early game, HE heavy cruiser guns deal significantly more damage against light armour while AP guns deal significantly more damage against medium and heavy armour.
 
-#### [203mm Triple]()
-![CA]()
+#### [203mm Triple](https://azurlane.koumakan.jp/Triple_203mm_(8%22/55_caliber_gun))
+![CA Gun]()
 - **Source:** Eagle Equipment Boxes, 1-4
 - **Relevant Ships:** Heavy Cruisers
 - The farmable alternative to the 203mm mounted. Worse in nearly every respect, given that it's a shotgun, but stronger than any white equipment you could be using, and 1-4 is one of the best farming spots early game so it's likely you'll end up with a few of these if you choose to farm 1-4.
 
-#### [356mm Twin]()
-![BB]()
+#### [356mm Twin](https://azurlane.koumakan.jp/Twin_356mm_(41st_Year_Type))
+![BB Gun]()
 - **Source:** Sakura Equipment Boxes, 1-4
 - **Relevant Ships:** Battleships
 - The best early-game battleship gun in the game. While its damage output seems low (and it is), it still hits hard enough to deal with just about any early-game threat. More importantly is the reload. Reload functions on a curve, with 100 reload stat being the equivalent of the equipment's base reload speed which can be viewed on the equipment card or the wiki. Because of the way this curve works, reload values below 100 disproportionately slow down the reload speed of a gun compared to how values above 100 speed it up. This means guns with a fast base speed such as the 356mm twin suffer less from the low reload stat of early-game battleships
 
-#### [406mm Mk6]()
-![BB]()
+#### [406mm Mk6](https://azurlane.koumakan.jp/Triple_406mm_(16%22/45_caliber_Mark_6))
+![BB Gun]()
 - **Source:** Eagle Equipment Boxes
 - **Relevant Ships:** Battleships
 - The blue rarity variant of the infamous 'strongest gun in the game'. While its relatively long base reload speed means it's more negatively impacted by low reload values than other, faster guns, its sheer damage output is higher than any other blue rarity battleship gun. Once again, this gun is unfortunately not farmable, but if you open one from a box, it's well worth using, especially for boss killing.
 
-#### [533mm Triple Torpedoes]()
-![DD]()
+#### [533mm Triple Torpedoes](https://azurlane.koumakan.jp/533mm_Triple_Torpedo_Mount)
+![Torpedo]()
 - **Source:** Eagle and Royal Equipment Boxes, 2-4
 - **Relevant Ships:** General Vanguard
 - Torpedoes follow a logical progression where, in addition to the increase in rarity with tech level, there's also a lower rarity variant that launches one fewer torpedo. The universal series torpedoes have a gold quintuple launcher, purple quadruple launcher, and this, the blue triple launcher. However, each of these is tech level 3, and because base damage is tied to tech level, the blue triple launcher actually deals the same damage per torpedo as the gold quintuple launcher, which means they deal more damage than the blue (and therefore T2) quad launcher, and even more than that compared to the blue (T1) quint launcher. As explained with battleship guns above, their fast base reload speed means they're also less negatively impacted by low reload values on your ships compared to the alternatives. When all of these factors are combined, there's little reason to run any other blue rarity torpedoes.
 
-#### [F4U Corsair]()
-![CV]()
+#### [F4U Corsair](https://azurlane.koumakan.jp/F4U_Corsair)
+![Fighter]()
 - **Source:** Eagle Equipment Boxes
 - **Relevant Ships:** Carriers and Light Carriers
 - Planes and their mechanics are another can of worms. With fighters especially, you'll want to look out for planes that are equipped with bombs, which you can see in the loadout for the plane listed on the equipment card. While higher tech level bombs deal more damage, meaning you would ideally want a T3 fighter, there isn't a single T3 blue rarity fighter equipped with bombs, leaving the T2 Corsair as the next best option.
 
-#### [SBD Dauntless]()
-![CV]()
+#### [SBD Dauntless](https://azurlane.koumakan.jp/SBD_Dauntless)
+![Dive Bomber]()
 - **Source:** Eagle Equipment Boxes, 3-1
 - **Relevant Ships:** Carriers and Light Carriers
 - The strongest T3 blue rarity dive bomber. Relatively easy to farm, but often skipped due to other maps in chapter 3 having overall more appealing equipment and ship drops.
 
-#### [SB2C Helldiver]()
-![CV]()
+#### [SB2C Helldiver](https://azurlane.koumakan.jp/SB2C_Helldiver)
+![Dive Bomber]()
 - **Source:** Eagle Equipment Boxes
 - **Relevant Ships:** Carriers and Light Carriers
 - While higher tech level bombs deal more damage, the Helldiver's loadout is so much stronger than the Dauntless in the first place that it ends up pulling ahead even with the reduced damage. While the T2 variant is not farmable, the T3 variant is, and in chapter 3, one of many reasons the Dauntless is not a terribly appealing option.
 
-#### [Ju-87c 'Stuka']()
-![CV]()
+#### [Ju-87c 'Stuka'](https://azurlane.koumakan.jp/Junkers_Ju-87C)
+![Dive Bomber]()
 - **Source:** Ironblood Equipment Boxes
 - **Relevant Ships:** Carriers and Light Carriers
 - Generally regarded as a weaker dive bomber than the Helldiver, the Stuka's damage output is not too far behind, putting its T2 variant in a similar position to the Helldiver's where it can pull ahead of the alternatives despite having a damage penalty.
 
-#### [TBD Devastator]() and [Nakajima B5N]()
-![CV]() ![CV]()
+#### [TBD Devastator](https://azurlane.koumakan.jp/TBD_Devastator) and [Nakajima B5N](https://azurlane.koumakan.jp/Nakajima_B5N)
+![Torpedo Bomber]() ![Torpedo Bomber]()
 - **Source:** Eagle and Sakura Equipment Boxes, 2-4
 - **Relevant Ships:** Carriers and Light Carriers
 - The strongest farmable blue rarity torpedo bombers, conveniently both farmed in the same spot. Japanese torpedo bombers launch torpedoes that are aimed at their target while other nations' bombers launch a parallel spread of torpedoes. Other than that, the differences between these two planes is minimal
 
-#### [Barracuda]() and [Tenzan]()
-![CV]() ![CV]()
+#### [Barracuda](https://azurlane.koumakan.jp/Fairey_Barracuda) and [Tenzan](https://azurlane.koumakan.jp/Nakajima_B6N_Tenzan)
+![Torpedo Bomber]() ![Torpedo Bomber]()
 - **Source:** Royal and Sakura Equipment Boxes
 - **Relevant Ships:** Carriers and Light Carriers
-- As with the blue rarity dive bombers, the increased base damage of these torpedo bombers makes up for the damage penalty they suffer from being low tech level. Both are functionally upgrades over the Devastator and B5N respectively.
+- As with the recommended blue rarity dive bombers, the increased base damage of these torpedo bombers makes up for the damage penalty they suffer from being low tech level. Both are functionally upgrades over the Devastator and B5N respectively.
 
-#### [Fire Extinguisher]()
-![AUX]()
+#### [Fire Extinguisher](https://azurlane.koumakan.jp/Fire_Extinguisher)
+![Auxiliary]()
 - **Source:** All Equipment Boxes, 2-3
 - **Relevant Ships:** All Ships
 - The fire extinguisher reduces the chance of catching fire, reduces the duration of burns, and reduces the damage of burns. While its true usefulness isn't apparent until late-game, fire extinguishers still provide a substantial boost to hitpoints and as there is no higher rarity auxiliary equipment that does the same thing, it will continue to be useful indefinitely.
 
-#### [Naval Camo]() [Hydraulic Rudder]()
-![AUX]() ![AUX]()
+#### [Naval Camo](https://azurlane.koumakan.jp/Naval_Camouflage) and [Hydraulic Rudder](https://azurlane.koumakan.jp/Hydraulic_Steering_Gear)
+![Auxiliary]() ![Auxiliary]()
 - **Source:** All Equipment Boxes, 2-2 and 2-1
 - **Relevant Ships:** All Ships
 - The strongest readily available evasion-boosting auxiliary equips. While mostly used on cruisers, they can be useful on any ship early-game, when auxiliary equipment is rare. Similar to the fire extinguisher, there are no higher rarity versions, but there is an evasion boosting aux acquired through research that functionally obsoletes these. Other than sprite and farming location, these equips are identical.
@@ -155,38 +155,38 @@ Because blue equipment requires such a small number of blueprints to craft, farm
 - Did you join during an event? Consider yourself in luck. Farming event maps is one of the most efficient things you could do, regardless of what the event actually drops. Aside from potentially having useful blueprints or ship drops, clearing an event map will reward you with a chunk of event currency, which can be used to purchase a number of useful consumables from the event shop, which typically includes retrofit blueprints and equipment boxes.
 
 #### 1-4
-- **Useful Equipment:** 203mm triple, 120mm single, 356mm twin
+- **Useful Equipment:** 203mm Triple, 120mm Single, 356mm Twin
 - **Useful Ships:** Renown
 - The only true farming map in chapter 1, as no other map drops blueprints. The heavy cruiser and battleship guns are practically guaranteed to be stronger than anything else you might have available. Renown isn't an especially flashy ship, but she performs adequately early game and is worth using if you pick her up. The 120mm single whose blueprints drop in this map, while not useful as an early-game weapon, is a potent end-game weapon for certain ships due to its high rate of fire.
 
 #### 2-2
-- **Useful Equipment:** naval camo, four separate blue rarity anti-air guns
+- **Useful Equipment:** Naval Camo, Blue Anti-Air Guns
 - **Useful Ships:** Laffey, Javelin, Ayanami (JP), Z23 (CN/EN), Shouhou, Arizona
 - One of the absolute best grinding spots for newer players. Starting in chapter 2, the starter ships are available as map drops, with the starter ship collection providing both a gold rarity quintuple torpedo launcher and the fourth starter ship. Arizona and Shouhou are both healers, with Arizona in particular being the only healing battleship in the game. While most blue rarity map drop ships either aren't notable enough to warrant mention, or are readily accessible otherwise, Shouhou only drops in chapter 2 and is an incredibly potent ship, both early and late game. The blue anti-air guns that drop here, while not particular noteworthy, are still useful for the upcoming chapter 3, which has some of the first maps that test your ability to survive in high-aviation fights.
 
 #### 2-3
-- **Useful Equipment:** anti-air radar, fire extinguisher
-- **Useful Ships:** starter collection, Shouhou, Nelson, Norfolk
+- **Useful Equipment:** Anti-Air Radar, Fire Extinguisher
+- **Useful Ships:** Starter Collection, Shouhou, Nelson, Norfolk
 - Another great map to prepare yourself for chapter 3. If you manage to cobble one or two together, the anti-air radar will substantially increase your ability to deal with enemy carriers. Nelson, and her sister Rodney, aren't especially strong ships later in the game, but they're useful early game due to their ease of access, ability to equip CL aux guns, and barrage. Norfolk is noteworthy not for her efficacy as a ship, but because she comes stock with a relatively very powerful blue anti-air gun.
 
 #### 2-4
-- **Useful Equipment:** 150mm single SKC, anti-air radar, 533mm triple torpedoes, TBD Devastator, Nakajima B5N
-- **Useful Ships:** starter collection, Shouhou, Rodney
+- **Useful Equipment:** 150mm Single SKC, Anti-Air Radar, 533mm Triple Torpedoes, TBD Devastator, Nakajima B5N
+- **Useful Ships:** Starter Collection, Shouhou, Rodney
 - The 150mm single is the fastest CL gun worth using. Similar to the 120mm single from 1-4, it's not especially useful early game, but if you manage to build one, it's worth holding onto for when it does become useful. Rodney is functionally identical to Nelson. Kent and Suffolk, unfortunately, lack the stock blue aa gun of their sister.
 
 #### 3-2
-- **Useful Equipment:** steam catapult, 127mm single, SB2C Helldiver, 152mm single
-- **Useful Ships:** starter collection, Charles Ausburne, Souryuu and Hiryuu (Dragons)
+- **Useful Equipment:** Steam Catapult, 127mm Single, SB2C Helldiver, 152mm Single
+- **Useful Ships:** Starter Collection, Charles Ausburne, Souryuu and Hiryuu (Dragons)
 - Easily one of the best early-game farming maps. What 2-2 gives you in ship drops, 3-2 gives you in equipment drops. Every single piece of gear here is useful with the exception of the 102mm destroyer gun. while 3-1 and 3-3 give okay drops, any blueprint acquired from those maps is a blueprint not acquired from 3-2. For ship drops, Charles Ausburne is part of the Beaver collection, and the hardest to acquire, being a purple rarity ship. Dragons are often overlooked compared to the Foxes from 3-4, but are significantly easier to acquire, have comparable performance in PvE, and have remodels which make them substantially better for late-game PvE.
 
 #### 3-4
-- **Useful Equipment:** toolbox, F4U Corsair, 152mm twin
-- **Useful Ships:** starter collection, Akagi and Kaga (Foxes)
+- **Useful Equipment:** Toolbox, F4U Corsair, 152mm twin
+- **Useful Ships:** Starter Collection, Akagi and Kaga (Foxes)
 - The most popular early-game farming maps. While the equipment can be useful, 3-2 is a more efficient map to farm if that's what you're after. The main reason 3-4 is a popular farming spot is the Foxes. Overall not as efficient a spot to farm as 3-2. While Foxes are strong, they're significantly harder to farm than Dragons, and can be acquired through chapter 3's SOS mission.
 
 #### 4-2
-- **Useful Equipment:** 152mm triple, 120mm twin, 40mm quad pom-pom, 203mm mounted, 150mm twin TbtsK
-- **Useful Ships:** starter collection, Shiranui
+- **Useful Equipment:** 152mm Triple, 120mm Twin, 40mm Quad Pom-Pom, 203mm Mounted, 150mm Twin TbtsK
+- **Useful Ships:** Starter Collection, Shiranui
 - As with 3-2, every single equipment drop from here is useful. All five drops are T3 and only the pom-pom has a readily accessible replacement. Shiranui, similar to Shouhou, is a low-rarity ship that only drops in chapter 4. While she's not as universally useful as Shouhou, she's still an incredibly capable ship you should keep an eye out for while farming.
 
 #### Chapter 5 and why you should not farm here
