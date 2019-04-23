@@ -1,8 +1,8 @@
 # Beginner PVE Equipment
 
-- ##### [Basic Concepts](https://github.com/guroteske/al-guides/blob/master/Beginner%20Equipment.md#basic-concepts-1)
-- ##### [Shops Guide](https://github.com/guroteske/al-guides/blob/master/Beginner%20Equipment.md#shops)
-- ##### [Equipment List](https://github.com/guroteske/al-guides/blob/master/Beginner%20Equipment.md#equipment-list--early-game-farming-locations)
+- ##### [Basic Concepts](Beginner%20Equipment.md#basic-concepts-1)
+- ##### [Shops Guide](Beginner%20Equipment.md#shops)
+- ##### [Equipment List](Beginner%20Equipment.md#equipment-list--early-game-farming-locations)
 
 ## Basic Concepts
 ### Very Important, Please Read:
@@ -48,56 +48,48 @@ This is a list of easily accessible blue rarity equipment. In general, upgrading
 
 Because blue equipment requires such a small number of blueprints to craft, farming for core blue equipment, where possible, is highly recommended.
 
-#### [120mm Twin](https://azurlane.koumakan.jp/Twin_120mm_(QF_Mark_XII))
-![DD Gun](/resources/120mm%20twin.png)
+#### [120mm Twin <br/> ![DD Gun](/resources/120mm%20twin.png)](https://azurlane.koumakan.jp/Twin_120mm_(QF_Mark_XII))
 - **Source:** Royal Equipment Boxes
 - **Relevant Ships:** Destroyers and Battleships
 - Easily the strongest damage-focused blue-rarity destroyer gun. While the purple rarity 127mm guns can compete with the purple rarity 120mm twin, their blue rarity variants shoot normal shells, reducing their damage by even greater amount than the natural damage reduction of using a lower tech level version of a weapon. Unfortunately, this gun can only be acquired from boxes.
 
-#### [152mm Single](https://azurlane.koumakan.jp/Single_152mm_(6%22/53_caliber_gun))
-![CL Gun]()
+#### [152mm Single <br/> ![CL Gun](/resources/152mm%20single.png)](https://azurlane.koumakan.jp/Single_152mm_(6%22/53_caliber_gun))
 - **Source:** 3-2
 - **Relevant Ships:** Light Cruisers
 - A Russian gun and as such not available in any equipment boxes. If you want this gun, you'll need to farm for it. While it has incredibly high damage output, it has equally high spread, and achieving your max damage potential is next to impossible. When compared to other readily accessible alternatives, however, its sheer damage makes up for its poor hitrate. When one shell already hits harder than just about any other gun you could be using, it doesn't matter that you're only going to hit with one shell.
 
-#### [152mm Twin](https://azurlane.koumakan.jp/Twin_152mm_(6%22/53_caliber_gun))
-![CL Gun]()
+#### [152mm Twin <br/> ![CL Gun](/resources/152mm%20twin.png)](https://azurlane.koumakan.jp/Twin_152mm_(6%22/53_caliber_gun))
 - **Source:** Eagle Equipment Boxes, 3-4
 - **Relevant Ships:** Light Cruisers and Battleships
 - A surprisingly potent low-rarity gun, useful as both a main gun for light cruisers and an aux gun for battleships. While it is a shotgun, it has a relatively low spread compared to some of the alternatives, and decent damage per volley with a fast reload speed.
 
-#### [150mm Twin TbtsK](https://azurlane.koumakan.jp/Twin_150mm_(TbtsK_C/36))
-![CL Gun]()
+#### [150mm Twin TbtsK <br/> ![CL Gun](/resources/150mm%20twin%20tbtsk.png)](https://azurlane.koumakan.jp/Twin_150mm_(TbtsK_C/36))
 - **Source:** Ironblood Equipment Boxes
 - **Relevant Ships:** Light Cruisers and Battleships
 - With its purple rarity T3 variant being the strongest readily-accessible CL gun, it should be no surprise that the T2 TbtsK is also one of the best blue guns for CLs. Unfortunately, it's limited to boxes while its T3 variant is farmable.
 
 #### [203mm Mounted](https://azurlane.koumakan.jp/Twin_203mm_(3rd_Year_Type)) and [203mm Twin SKC](https://azurlane.koumakan.jp/Twin_203mm_(SK_C/34))
-![CA Gun]() ![CA Gun]()
+[![CA Gun](/resources/203mm%20mounted.png)](https://azurlane.koumakan.jp/Twin_203mm_(3rd_Year_Type)) [![CA Gun](/resources/203mm%20skc.png)](https://azurlane.koumakan.jp/Twin_203mm_(SK_C/34))
 - **Source:** Sakura and Ironblood Equipment Boxes
 - **Relevant Ships:** Heavy Cruisers
 - With the relative lack of available heavy cruiser guns, ships will be reliant on the lower rarity variants of the readily available HE and AP guns respectively. While it makes little difference which you choose early game, HE heavy cruiser guns deal significantly more damage against light armour while AP guns deal significantly more damage against medium and heavy armour.
 
-#### [203mm Triple](https://azurlane.koumakan.jp/Triple_203mm_(8%22/55_caliber_gun))
-![CA Gun]()
+#### [203mm Triple <br/> ![CA Gun](/resources/203mm%20triple.png)](https://azurlane.koumakan.jp/Triple_203mm_(8%22/55_caliber_gun))
 - **Source:** Eagle Equipment Boxes, 1-4
 - **Relevant Ships:** Heavy Cruisers
 - The farmable alternative to the 203mm mounted. Worse in nearly every respect, given that it's a shotgun, but stronger than any white equipment you could be using, and 1-4 is one of the best farming spots early game so it's likely you'll end up with a few of these if you choose to farm 1-4.
 
 #### [356mm Twin](https://azurlane.koumakan.jp/Twin_356mm_(41st_Year_Type))
-![BB Gun]()
 - **Source:** Sakura Equipment Boxes, 1-4
 - **Relevant Ships:** Battleships
 - The best early-game battleship gun in the game. While its damage output seems low (and it is), it still hits hard enough to deal with just about any early-game threat. More importantly is the reload. Reload functions on a curve, with 100 reload stat being the equivalent of the equipment's base reload speed which can be viewed on the equipment card or the wiki. Because of the way this curve works, reload values below 100 disproportionately slow down the reload speed of a gun compared to how values above 100 speed it up. This means guns with a fast base speed such as the 356mm twin suffer less from the low reload stat of early-game battleships
 
 #### [406mm Mk6](https://azurlane.koumakan.jp/Triple_406mm_(16%22/45_caliber_Mark_6))
-![BB Gun]()
 - **Source:** Eagle Equipment Boxes
 - **Relevant Ships:** Battleships
 - The blue rarity variant of the infamous 'strongest gun in the game'. While its relatively long base reload speed means it's more negatively impacted by low reload values than other, faster guns, its sheer damage output is higher than any other blue rarity battleship gun. Once again, this gun is unfortunately not farmable, but if you open one from a box, it's well worth using, especially for boss killing.
 
 #### [533mm Triple Torpedoes](https://azurlane.koumakan.jp/533mm_Triple_Torpedo_Mount)
-![Torpedo]()
 - **Source:** Eagle and Royal Equipment Boxes, 2-4
 - **Relevant Ships:** General Vanguard
 - Torpedoes follow a logical progression where, in addition to the increase in rarity with tech level, there's also a lower rarity variant that launches one fewer torpedo. The universal series torpedoes have a gold quintuple launcher, purple quadruple launcher, and this, the blue triple launcher. However, each of these is tech level 3, and because base damage is tied to tech level, the blue triple launcher actually deals the same damage per torpedo as the gold quintuple launcher, which means they deal more damage than the blue (and therefore T2) quad launcher, and even more than that compared to the blue (T1) quint launcher. As explained with battleship guns above, their fast base reload speed means they're also less negatively impacted by low reload values on your ships compared to the alternatives. When all of these factors are combined, there's little reason to run any other blue rarity torpedoes.
