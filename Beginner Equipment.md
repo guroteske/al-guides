@@ -49,7 +49,7 @@ This is a list of easily accessible blue rarity equipment. In general, upgrading
 Because blue equipment requires such a small number of blueprints to craft, farming for core blue equipment, where possible, is highly recommended.
 
 #### [120mm Twin](https://azurlane.koumakan.jp/Twin_120mm_(QF_Mark_XII))
-![DD Gun]()
+![DD Gun](/resources/120mm%20twin.png)
 - **Source:** Royal Equipment Boxes
 - **Relevant Ships:** Destroyers and Battleships
 - Easily the strongest damage-focused blue-rarity destroyer gun. While the purple rarity 127mm guns can compete with the purple rarity 120mm twin, their blue rarity variants shoot normal shells, reducing their damage by even greater amount than the natural damage reduction of using a lower tech level version of a weapon. Unfortunately, this gun can only be acquired from boxes.
