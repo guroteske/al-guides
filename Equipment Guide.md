@@ -4,7 +4,7 @@ This guide is meant to serve as both an in-depth guide to end-game equipment and
  - **A-rank** equipment is either easier to acquire than S-rank equipment and good enough for general use, or is more difficult to obtain while not providing enough of an appreciable difference in performance to be worth recommending in all cases
  - **B-rank** equipment might not be strong enough to warrant a recommendation for general use, but occupies a specific niche that might make it best-in-slot for select scenarios or when equipped to certain ships
 
-## Destroyer Guns
+## Destroyer (DD) Guns
 **General Primaries** <br/>
 [![138mm Single](/resources/138mm%20single%20gr_s.png)]()
 [![120mm Twin](/resources/120mm%20twin%20gr_a.png)]()
@@ -30,5 +30,49 @@ This guide is meant to serve as both an in-depth guide to end-game equipment and
  - **[127mm Single Mk30]()** is a decent and accessible gun for ships with strong barrages and high gunnery statistics. Its strongest use-case is an alternative to the 100mm T98 when fighting heavy armour bosses and the increased gunnery dpm makes up for the loss of barrage dpm.
  - **[120mm Single QF Mark IX]()** and **[76mm Single]()** are the fastest destroyer guns in the game and used on an incredibly small handful of ships who are willing to sacrifice nearly all gunnery dpm for faster barrage triggers and/or skill procs. The 120mm trades a very small amount of reload speed compared to the 76mm for higher base damage and longer range.
  
- **Main Fleet Auxiliaries** <br/>
+ **Vanguard Auxiliaries** <br/>
+ [![138mm Single]()]()
+ [![]()]()
+ [![]()]()
+ [![]()]()
+ [![]()]()
  
+ **Main Fleet Auxiliaries** <br/>
+ [![]()]()
+ [![]()]()
+ [![]()]()
+ [![]()]()
+ [![]()]()
+ 
+ ## Light Cruiser (CL) Guns
+**General Primaries** <br/>
+[![]()]()
+[![]()]()
+[![]()]()
+[![]()]()
+[![]()]()
+
+**Main Fleet Auxiliaries** <br/>
+[![]()]()
+[![]()]()
+[![]()]()
+[![]()]()
+[![]()]()
+[![]()]()
+
+## Heavy Cruiser (CA) Guns
+- something something ammo types
+
+**General Primaries** <br/>
+[![]()]()
+[![]()]()
+[![]()]()
+[![]()]()
+[![]()]()
+
+**Miscellaneous Primaries** <br/>
+[![]()]()
+[![]()]()
+[![]()]()
+
+## Main Fleet (BB/BC/BM/BBV) Guns
