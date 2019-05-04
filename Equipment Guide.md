@@ -76,3 +76,77 @@ This guide is meant to serve as both an in-depth guide to end-game equipment and
 [![]()]()
 
 ## Main Fleet (BB/BC/BM/BBV) Guns
+
+**Direct Damage** <br/>
+[![]()]()
+[![]()]()
+[![]()]()
+[![]()]()
+
+**Speed** <br/>
+[![]()]()
+[![]()]()
+[![]()]()
+
+**Hybrid** <br/>
+[![]()]()
+[![]()]()
+
+**Misc.** <br/>
+[![]()]()
+[![]()]()
+
+## Torpedoes
+
+**Surface Torpedoes** <br/>
+[![]()]()
+[![]()]()
+[![]()]()
+[![]()]()
+[![]()]()
+[![]()]()
+
+**Submarine Torpedoes** <br/>
+[![]()]()
+[![]()]()
+[![]()]()
+
+## Carrier (CV/CVL) Aircraft
+
+**Fighters** <br/>
+[![]()]()
+[![]()]()
+[![]()]()
+[![]()]()
+[![]()]()
+[![]()]()
+
+**Dive Bombers** <br/>
+[![]()]()
+[![]()]()
+[![]()]()
+[![]()]()
+
+**Torpedo Bombers** <br/>
+[![]()]()
+[![]()]()
+[![]()]()
+[![]()]()
+[![]()]()
+
+## Anti-Air (AA) Guns
+
+**Damage Guns** <br/>
+[![]()]()
+[![]()]()
+[![]()]()
+[![]()]()
+[![]()]()
+
+**Accelerator Guns** <br/>
+[![]()]()
+[![]()]()
+[![]()]()
+[![]()]()
+[![]()]()
+[![]()]()
