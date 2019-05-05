@@ -31,34 +31,34 @@ This guide is meant to serve as both an in-depth guide to end-game equipment and
  - **[120mm Single QF Mark IX]()** and **[76mm Single]()** are the fastest destroyer guns in the game and used on an incredibly small handful of ships who are willing to sacrifice nearly all gunnery dpm for faster barrage triggers and/or skill procs. The 120mm trades a very small amount of reload speed compared to the 76mm for higher base damage and longer range.
  
  **Vanguard Auxiliaries** <br/>
- [![138mm Single]()]()
- [![100mm Twin]()]()
- [![120mm Twin]()]()
- [![127mm Single]()]()
- [![127mm Twin]()]()
+ [![138mm Single](/resources/138mm%20single%20gr_s.png)]()
+ [![100mm Twin](/resources/100mm%20twin%20gr_s.png)]()
+ [![120mm Twin](/resources/120mm%20twin%20gr_a.png)]()
+ [![127mm Single](/resources/127mm%20single%20gr_a.png)]()
+ [![127mm Twin](/resources/127mm%20twin%20gr_a.png)]()
  
  **Main Fleet Auxiliaries** <br/>
- [![128mm Twin]()]()
- [![120mm Twin]()]()
- [![127mm Twin]()]()
- [![100mm Twin]()]()
- [![138mm Single]()]()
+ [![128mm Twin](/resources/128mm%20twin%20gr_s.png)]()
+ [![120mm Twin](/resources/120mm%20twin%20gr_s.png)]()
+ [![127mm Twin](/resources/127mm%20twin%20gr_a.png)]()
+ [![100mm Twin](/resources/100mm%20twin%20gr_b.png)]()
+ [![138mm Single](/resources/138mm%20single%20gr_b.png)]()
  
  ## Light Cruiser (CL) Guns
 **General Primaries** <br/>
-[![pr152mm Triple HE]()]()
-[![pr152mm Triple AP]()]()
-[![150mm Twin TbtsK]()]()
-[![150mm Single]()]()
-[![155mm Triple]()]()
+[![pr152mm Triple HE](/resources/pr152mm%20triple%20he%20gr_s%20TENTATIVE.png)]()
+[![pr152mm Triple AP](/resources/pr152mm%20triple%20ap%20gr_s.png)]()
+[![150mm Twin TbtsK](/resources/150mm%20twin%20tbtsk%20gr_a.png)]()
+[![150mm Single SKC](/resources/150mm%20single%20skc%20gr_b.png)]()
+[![155mm Triple](/resources/155mm%20triple%20gr_b.png)]()
 
 **Main Fleet Auxiliaries** <br/>
-[![pr152mm Triple AP]()]()
-[![152mm Triple]()]()
-[![155mm Triple]()]()
-[![pr152mm Triple HE]()]()
-[![152mm Twin]()]()
-[![150mm Twin TbtsK]()]()
+[![pr152mm Triple AP](/resources/pr152mm%20triple%20ap%20gr_s.png)]()
+[![152mm Triple HE](/resources/152mm%20triple%20he%20gr_s.png)]()
+[![155mm Triple](/resources/155mm%20triple%20)]()
+[![pr152mm Triple HE](/resources/pr152mm%20triple%20he%20gr_a%20TENTATIVE.png)]()
+[![152mm Twin AP](/resources/152mm%20twin%20ap%20gr_a.png)]()
+[![150mm Twin TbtsK](/resources/150mm%20twin%20tbtsk%20gr_b.png)]()
 
 ## Heavy Cruiser (CA) Guns
 - something something ammo types
