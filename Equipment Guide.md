@@ -32,121 +32,122 @@ This guide is meant to serve as both an in-depth guide to end-game equipment and
  
  **Vanguard Auxiliaries** <br/>
  [![138mm Single]()]()
- [![]()]()
- [![]()]()
- [![]()]()
- [![]()]()
+ [![100mm Twin]()]()
+ [![120mm Twin]()]()
+ [![127mm Single]()]()
+ [![127mm Twin]()]()
  
  **Main Fleet Auxiliaries** <br/>
- [![]()]()
- [![]()]()
- [![]()]()
- [![]()]()
- [![]()]()
+ [![128mm Twin]()]()
+ [![120mm Twin]()]()
+ [![127mm Twin]()]()
+ [![100mm Twin]()]()
+ [![138mm Single]()]()
  
  ## Light Cruiser (CL) Guns
 **General Primaries** <br/>
-[![]()]()
-[![]()]()
-[![]()]()
-[![]()]()
-[![]()]()
+[![pr152mm Triple HE]()]()
+[![pr152mm Triple AP]()]()
+[![150mm Twin TbtsK]()]()
+[![150mm Single]()]()
+[![155mm Triple]()]()
 
 **Main Fleet Auxiliaries** <br/>
-[![]()]()
-[![]()]()
-[![]()]()
-[![]()]()
-[![]()]()
-[![]()]()
+[![pr152mm Triple AP]()]()
+[![152mm Triple]()]()
+[![155mm Triple]()]()
+[![pr152mm Triple HE]()]()
+[![152mm Twin]()]()
+[![150mm Twin TbtsK]()]()
 
 ## Heavy Cruiser (CA) Guns
 - something something ammo types
 
 **General Primaries** <br/>
-[![]()]()
-[![]()]()
-[![]()]()
-[![]()]()
-[![]()]()
+[![pr203mm Triple HE]()]()
+[![pr203mm Twin no.3]()]()
+[![pr203mm Triple SKC]()]()
+[![203mm Twin HE]()]()
+[![203mm Twin SKC]()]()
 
 **Miscellaneous Primaries** <br/>
-[![]()]()
-[![]()]()
-[![]()]()
+[![Submarine 203mm Twin]()]()
+[![310mm Triple]()]()
+[![283mm Triple]()]()
 
 ## Main Fleet (BB/BC/BM/BBV) Guns
+ - why timeframe grouping
 
-**Direct Damage** <br/>
-[![]()]()
-[![]()]()
-[![]()]()
-[![]()]()
+**>20s** <br/>
+[![406mm Triple Mk6]()]()
+[![pr381mm Triple]()]()
+[![380mm Quad]()]()
+[![pr410mm Triple]()]()
+[![406mm Triple MkI]()]()
 
-**Speed** <br/>
-[![]()]()
-[![]()]()
-[![]()]()
+**18-20s** <br/>
+[![pr406mm Twin SKC]()]()
+[![pr457mm Twin]()]()
+[![410mm Twin]()]()
 
-**Hybrid** <br/>
-[![]()]()
-[![]()]()
-
-**Misc.** <br/>
-[![]()]()
-[![]()]()
+**<18s** <br/>
+[![381mm Twin Kai]()]()
+[![380mm Twin SKC]()]()
+[![283mm Triple]()]()
 
 ## Torpedoes
 
 **Surface Torpedoes** <br/>
-[![]()]()
-[![]()]()
-[![]()]()
-[![]()]()
-[![]()]()
-[![]()]()
+[![533mm Quint]()]()
+[![610mm Quad]()]()
+[![533mm Quint Homing]()]()
+[![533mm Quad]()]()
+[![533mm Quad Homing]()]()
+[![550mm Triple]()]()
 
 **Submarine Torpedoes** <br/>
-[![]()]()
-[![]()]()
-[![]()]()
+[![G7e]()]()
+[![Mk16]()]()
+[![T95]()]()
 
 ## Carrier (CV/CVL) Aircraft
 
 **Fighters** <br/>
-[![]()]()
-[![]()]()
-[![]()]()
-[![]()]()
-[![]()]()
-[![]()]()
+[![F4U Corsair (VF-17)]()]()
+[![F6F Hellcat]()]()
+[![Reppuu]()]()
+[![Seafang]()]()
+[![Sea Fury]()]()
+[![Me-155]()]()
+[![Zero M52]()]()
 
 **Dive Bombers** <br/>
-[![]()]()
-[![]()]()
-[![]()]()
-[![]()]()
+[![SB2C Helldiver]()]()
+[![Ju-87c]()]()
+[![Suisei]()]()
+[![Firefly]()]()
 
 **Torpedo Bombers** <br/>
-[![]()]()
-[![]()]()
-[![]()]()
-[![]()]()
-[![]()]()
+[![Ryuusei]()]()
+[![Torpedo Squadron 8]()]()
+[![Barracuda]()]()
+[![Swordfish (818)]()]()
+[![Firebrand]()]()
 
 ## Anti-Air (AA) Guns
+ - basic outline about distinction between damage and acceleration
 
 **Damage Guns** <br/>
-[![]()]()
-[![]()]()
-[![]()]()
-[![]()]()
-[![]()]()
+[![40mm Quad Bofors]()]()
+[![40mm 8x Pom-Pom]()]()
+[![113mm Twin]()]()
+[![100mm Twin High-Angle]()]()
+[![105mm Twin SKC]()]()
 
 **Accelerator Guns** <br/>
-[![]()]()
-[![]()]()
-[![]()]()
-[![]()]()
-[![]()]()
-[![]()]()
+[![40mm Twin Bofors STAAG]()]()
+[![40mm Twin Bofors T98]()]()
+[![40mm Twin Bofors Hazemeyer]()]()
+[![37mm Twin]()]()
+[![20mm Twin Oerlikon]()]()
+[![25mm Triple]()]()
