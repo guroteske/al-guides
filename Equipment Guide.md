@@ -55,7 +55,7 @@ This guide is meant to serve as both an in-depth guide to end-game equipment and
 **Main Fleet Auxiliaries** <br/>
 [![pr152mm Triple AP](/resources/pr152mm%20triple%20ap%20gr_s.png)]()
 [![152mm Triple HE](/resources/152mm%20triple%20he%20gr_s.png)]()
-[![155mm Triple](/resources/155mm%20triple%20)]()
+[![155mm Triple](/resources/155mm%20triple%20gr_s.png)]()
 [![pr152mm Triple HE](/resources/pr152mm%20triple%20he%20gr_a%20TENTATIVE.png)]()
 [![152mm Twin AP](/resources/152mm%20twin%20ap%20gr_a.png)]()
 [![150mm Twin TbtsK](/resources/150mm%20twin%20tbtsk%20gr_b.png)]()
