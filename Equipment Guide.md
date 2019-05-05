@@ -81,7 +81,7 @@ This guide is meant to serve as both an in-depth guide to end-game equipment and
 **>20s** <br/>
 [![406mm Triple Mk6](/resources/406mm%20triple%20mk6%20gr_s.png)]()
 [![pr381mm Triple](/resources/pr381mm%20triple%20gr_a.png)]()
-[![380mm Quad](/resources/381mm%20quad%20gr_a.png)]()
+[![380mm Quad](/resources/380mm%20quad%20gr_a.png)]()
 [![pr410mm Triple](/resources/pr410mm%20triple%20gr_a.png)]()
 [![406mm Triple MkI](/resources/406mm%20triple%20mki%20gr_b.png)]()
 
