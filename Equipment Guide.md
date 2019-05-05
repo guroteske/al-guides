@@ -140,7 +140,7 @@ This guide is meant to serve as both an in-depth guide to end-game equipment and
 **Damage Guns** <br/>
 [![40mm Quad Bofors](/resources/40mm%20quad%20bofors%20gr_s.png)]()
 [![40mm 8x Pom-Pom](/resources/40mm%208x%20pom-pom%20gr_s.png)]()
-[![113mm Twin](/resources/113%20twin%20gr_s.png)]()
+[![113mm Twin](/resources/113mm%20twin%20gr_s.png)]()
 [![100mm Twin High-Angle](/resources/100mm%20twin%20high-angle%20gr_a.png)]()
 [![105mm Twin SKC](/resources/105mm%20twin%20skc%20gr_a.png)]()
 
