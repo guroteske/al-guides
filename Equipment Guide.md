@@ -148,6 +148,6 @@ This guide is meant to serve as both an in-depth guide to end-game equipment and
 [![40mm Twin Bofors STAAG]()]()
 [![40mm Twin Bofors T98]()]()
 [![40mm Twin Bofors Hazemeyer]()]()
-[![37mm Twin]()]()
+[![37mm Twin ACAD]()]()
 [![20mm Twin Oerlikon]()]()
 [![25mm Triple]()]()
