@@ -64,90 +64,90 @@ This guide is meant to serve as both an in-depth guide to end-game equipment and
 - something something ammo types
 
 **General Primaries** <br/>
-[![pr203mm Triple HE]()]()
-[![pr203mm Twin no.3]()]()
-[![pr203mm Triple SKC]()]()
-[![203mm Twin HE]()]()
-[![203mm Twin SKC]()]()
+[![pr203mm Triple HE](/resources/pr203mm%20triple%20he%20gr_s.png)]()
+[![pr203mm Mounted no.3](/resources/pr203mm%20mounted%20no3%20gr_s.png)]()
+[![pr203mm Triple SKC](/resources/pr203mm%20triple%20skc%20gr_s.png)]()
+[![203mm Mounted](/resources/203mm%20mounted%20gr_a.png)]()
+[![203mm Twin SKC](/resources/203mm%20twin%20skc%20gr_a.png)]()
 
 **Miscellaneous Primaries** <br/>
-[![Submarine 203mm Twin]()]()
-[![310mm Triple]()]()
-[![283mm Triple]()]()
+[![Submarine 203mm Twin](/resources/sub%20203mm%20twin.png)]()
+[![310mm Triple](/resources/pr310mm%20triple.png)]()
+[![283mm Triple](/resources/283mm%20triple.png)]()
 
 ## Main Fleet (BB/BC/BM/BBV) Guns
  - why timeframe grouping
 
 **>20s** <br/>
-[![406mm Triple Mk6]()]()
-[![pr381mm Triple]()]()
-[![380mm Quad]()]()
-[![pr410mm Triple]()]()
-[![406mm Triple MkI]()]()
+[![406mm Triple Mk6](/resources/406mm%20triple%20mk6%20gr_s.png)]()
+[![pr381mm Triple](/resources/pr381mm%20triple%20gr_a.png)]()
+[![380mm Quad](/resources/381mm%20quad%20gr_a.png)]()
+[![pr410mm Triple](/resources/pr410mm%20triple%20gr_a.png)]()
+[![406mm Triple MkI](/resources/406mm%20triple%20mki%20gr_b.png)]()
 
 **18-20s** <br/>
-[![pr406mm Twin SKC]()]()
-[![pr457mm Twin]()]()
-[![410mm Twin]()]()
+[![pr406mm Twin SKC](/resources/pr406mm%20twin%20skc%20gr_s%20TENTATIVE.png)]()
+[![pr457mm Twin](/resources/pr457mm%20twin%20gr_a%20TENTATIVE.png)]()
+[![410mm Twin](/resources/410mm%20twin%20gr_a.png)]()
 
 **<18s** <br/>
-[![381mm Twin Kai]()]()
-[![380mm Twin SKC]()]()
-[![283mm Triple]()]()
+[![pr381mm Twin Kai](/resources/pr381mm%20twin%20kai%20gr_s.png)]()
+[![380mm Twin SKC](/resources/380mm%20twin%20skc%20gr_b.png)]()
+[![283mm Triple](/resources/283mm%20triple%20gr_b.png)]()
 
 ## Torpedoes
 
 **Surface Torpedoes** <br/>
-[![533mm Quint]()]()
-[![610mm Quad]()]()
-[![533mm Quint Homing]()]()
-[![533mm Quad]()]()
-[![533mm Quad Homing]()]()
-[![550mm Triple]()]()
+[![533mm Quint](/resources/533mm%20quint%20torpedoes%20gr_s.png)]()
+[![610mm Quad](/resources/610mm%20quad%20torpedoes%20gr_s.png)]()
+[![533mm Quint Homing](/resources/533mm%20quint%20homing%20torpedoes%20gr_s.png)]()
+[![533mm Quad](/resources/533mm%20quad%20torpedoes%20gr_a.png)]()
+[![533mm Quad Homing](/resources/533mm%20quad%20homing%20torpedoes%20gr_a.png)]()
+[![550mm Triple](/resources/550mm%20triple%20torpedoes%20gr_b.png)]()
 
 **Submarine Torpedoes** <br/>
-[![G7e]()]()
-[![Mk16]()]()
-[![T95]()]()
+[![G7e Acoustic Torpedoes](/resources/g7e%20acoustic%20torpedoes%20gr_s.png)]()
+[![Mk16 Torpedoes](/resources/mk16%20torpedoes%20gr_s.png)]()
+[![T95 Oxygen Torpedoes](/resources/t95%20oxygen%20torpedoes%20gr_a.png)]()
 
 ## Carrier (CV/CVL) Aircraft
 
 **Fighters** <br/>
-[![F4U Corsair (VF-17)]()]()
-[![F6F Hellcat]()]()
-[![Reppuu]()]()
-[![Seafang]()]()
-[![Sea Fury]()]()
-[![Me-155]()]()
-[![Zero M52]()]()
+[![F4U Corsair (VF-17)](/resources/f4u%20corsair%20vf-17%20gr_s.png)]()
+[![F6F Hellcat](/resources/f6f%20hellcat%20gr_s.png)]()
+[![Reppuu](/resources/reppuu%20gr_s.png)]()
+[![Seafang](/resources/seafang%20gr_a.png)]()
+[![Sea Fury](/resources/sea%20fury%20gr_a.png)]()
+[![Me-155](/resources/me-155%20gr_b.png)]()
+[![Zero M52](/resources/zero%20m52%20gr_b.png)]()
 
 **Dive Bombers** <br/>
-[![SB2C Helldiver]()]()
-[![Ju-87c]()]()
-[![Suisei]()]()
-[![Firefly]()]()
+[![SB2C Helldiver](/resources/sb2c%20helldiver%20gr_s.png)]()
+[![Ju-87c](/resources/ju-87c%20gr_a.png)]()
+[![Suisei](/resources/suisei%20gr_b.png)]()
+[![Firefly](/resources/firefly%20gr_b.png)]()
 
 **Torpedo Bombers** <br/>
-[![Ryuusei]()]()
-[![Torpedo Squadron 8]()]()
-[![Barracuda]()]()
-[![Swordfish (818)]()]()
-[![Firebrand]()]()
+[![Ryuusei](/resources/ryuusei%20gr_s.png)]()
+[![Torpedo Squadron 8](/resources/vt-8%20gr_s.png)]()
+[![Barracuda](/resources/barracuda%20gr_s.png)]()
+[![Swordfish (818)](/resources/swordfish%20818%20gr_a.png)]()
+[![Firebrand](/resources/firebrand%20gr_a.png)]()
 
 ## Anti-Air (AA) Guns
  - basic outline about distinction between damage and acceleration
 
 **Damage Guns** <br/>
-[![40mm Quad Bofors]()]()
-[![40mm 8x Pom-Pom]()]()
-[![113mm Twin]()]()
-[![100mm Twin High-Angle]()]()
-[![105mm Twin SKC]()]()
+[![40mm Quad Bofors](/resources/40mm%20quad%20bofors%20gr_s.png)]()
+[![40mm 8x Pom-Pom](/resources/40mm%208x%20pom-pom%20gr_s.png)]()
+[![113mm Twin](/resources/113%20twin%20gr_s.png)]()
+[![100mm Twin High-Angle](/resources/100mm%20twin%20high-angle%20gr_a.png)]()
+[![105mm Twin SKC](/resources/105mm%20twin%20skc%20gr_a.png)]()
 
 **Accelerator Guns** <br/>
-[![40mm Twin Bofors STAAG]()]()
-[![40mm Twin Bofors T98]()]()
-[![40mm Twin Bofors Hazemeyer]()]()
-[![37mm Twin ACAD]()]()
-[![20mm Twin Oerlikon]()]()
-[![25mm Triple]()]()
+[![40mm Twin Bofors STAAG](/resources/40mm%20twin%20bofors%20staag%20gr_s.png)]()
+[![40mm Twin Bofors T98](/resources/40mm%20twin%20bofors%20t98%20gr_s%20TENTATIVE.png)]()
+[![40mm Twin Bofors Hazemeyer](/resources/40mm%20twin%20bofors%20hazemeyer%20gr_a.png)]()
+[![37mm Twin ACAD](/resources/37mm%20twin%20acad%20gr_a%20TENTATIVE.png)]()
+[![20mm Twin Oerlikon](/resources/20mm%20twin%20oerlikon%20gr_b.png)]()
+[![25mm Triple](/resources/25mm%20triple%20gr_b.png)]()
