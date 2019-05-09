@@ -37,12 +37,23 @@ This guide is meant to serve as both an in-depth guide to end-game equipment and
  [![127mm Single](/resources/127mm%20single%20gr_a.png)]()
  [![127mm Twin](/resources/127mm%20twin%20gr_a.png)]()
  
+  - **[138mm Single Mle1929]()** gives the highest firepower boost and has very high volume of fire despite its long reload time.
+  - **[100mm Twin Type 98]()** has relatively weak raw damage output. It's not too far behind the more damage focused guns on its own, but its low firepower boost widens the gap slightly more. However, the T98 has the highest volume of fire, which can assist in breaking enemy shields faster, increasing its performance beyond what stats would imply. Additionally, the T98 provides the highest anti-air boost.
+  - **[120mm Twin QF Mark XII]()** has the highest firepower boost of any readily accessible gun with an accurate firing pattern.
+  - **[127mm Single Mk30]()** provides the same firepower boost as the 120mm Twin. While it has a less accurate firing pattern, its HE shells give it an advantage when fighting heavy armour enemies or if the ability to refresh burn DOTs is desired.
+  - **[127mm Twin Mk38]()** provides a split of firepower and anti-air, causing its effective damage output to be lower than its stats would imply. Its HE shells give it the same advantages as the 127mm Single, but with the same downsides.
+ 
  **Main Fleet Auxiliaries** <br/>
  [![128mm Twin](/resources/128mm%20twin%20gr_s.png)]()
  [![120mm Twin](/resources/120mm%20twin%20gr_s.png)]()
  [![127mm Twin](/resources/127mm%20twin%20gr_a.png)]()
  [![100mm Twin](/resources/100mm%20twin%20gr_b.png)]()
  [![138mm Single](/resources/138mm%20single%20gr_b.png)]()
+ 
+  - **[128mm Twin SK C/41]()** is the strongest AP destroyer gun in the game. While its damage output is too weak to justify its use as a main gun, it has applications as an auxiliary gun as its AP shells give it the fastest reaction times of any light-caliber aux gun. However, its low damage may cause it to struggle to deal enough damage to kill suicide boats in the first place.
+  - **[120mm Twin QF Mark XII]()** has weaker interception capabilities than the 128mm Twin, but its high damage per shot allows it to get kills when equipped on ships that might struggle otherwise.
+  - **[127mm Twin Mk38]()** has comparable performance to the 120mm Twin. However, the lower velocity of its HE shells cause it to struggle slightly when firing at extreme angles and it has a lower firepower boost.
+  - **[100mm Twin Type 98]()** and **[138mm Single Mle1929]()** provide the highest stat boosts in anti-air and firepower respectively, and are worth using when interception is a non-concern.
  
  ## Light Cruiser (CL) Guns
 **General Primaries** <br/>
@@ -52,16 +63,29 @@ This guide is meant to serve as both an in-depth guide to end-game equipment and
 [![150mm Single SKC](/resources/150mm%20single%20skc%20gr_b.png)]()
 [![155mm Triple](/resources/155mm%20triple%20gr_b.png)]()
 
+ - **[Prototype 152mm Triple DP Mk17]()** addresses the primary issue holding back HE light cruiser guns: their wide spread. The Dual-Purpose Mk17 has damage stats that, on paper, give it theoretical DPM comparable to the next strongest HE gun, but with ballistic characteristics more in-line with the AP guns that should allow it to actually reach its theoretical DPM in practice. True to its name, it also provides a split between boosting firepower and anti-air, making it the only CL gun to do so.
+ - **[Prototype 152mm Triple BL Mark XXV]()** is the strongest AP CL gun. It has an incredibly fast fire rate, the longest range of any CL gun, high base damage. However, its relatively wide spread for an AP gun may give it negligible accuracy issues at exceptionally long ranges.
+ - **[150mm Twin TbtsK C/36]()** may not look impressive on paper, with low base damage compared to most alternatives. However, it has a hyper-accurate firing pattern and is one of the only CL guns in the game capable of actually dealing its theoretical DPM, and that's without accounting for AP shells' penetration capabilities.
+ - **[150 Single SK C/28]()** is the fastest firing CL gun, and sees use on light cruisers who have exceptionally strong barrages.
+ - **[155mm Triple]()** has incredibly strong stats on paper. However, it has a very wide spread with a fixed pattern, meaning the shells will always be that far apart from each other, which causes it to bracket enemies when fired at even a moderate range. still a potentially useful gun when fighting targets at incredibly close range or who have an incredibly large hitbox, at least until replacing it with a DP Mk17. 
+
 **Main Fleet Auxiliaries** <br/>
 [![pr152mm Triple AP](/resources/pr152mm%20triple%20ap%20gr_s.png)]()
 [![152mm Triple HE](/resources/152mm%20triple%20he%20gr_s.png)]()
 [![155mm Triple](/resources/155mm%20triple%20gr_s.png)]()
-[![pr152mm Triple HE](/resources/pr152mm%20triple%20he%20gr_a%20TENTATIVE.png)]()
 [![152mm Twin AP](/resources/152mm%20twin%20ap%20gr_a.png)]()
+[![pr152mm Triple HE](/resources/pr152mm%20triple%20he%20gr_a%20TENTATIVE.png)]()
 [![150mm Twin TbtsK](/resources/150mm%20twin%20tbtsk%20gr_b.png)]()
 
+ - **[Prototype 152mm Triple BL Mark XXV]()** has the longest range of any CL gun, coupled with a high firepower bonus, making it the best auxiliary gun for general-use. However, it has a random pattern, which can potentially cause issues with interception. Similarly, its exceptionally long range also means it has a high likelihood of being on cooldown from firing at production types, further impacting its interception capabilities.
+ - **[152mm Triple Mk16]()** is exceptional at interception thanks to its high damage per shell, wide spread, and zero second volley time.
+ - **[155mm Triple]()** is relatively weak at interception, thanks to its short range, non-zero volley time, and low shell density. However, it's a very accessible gun with a high firepower boost, making it a useful gun in any situation where interception is non-concern, or the gun itself is capable of handling any incoming threats.
+ - **[152mm Twin BL Mark XXII]()** has comparable interception capabilities to the 152mm Mk16, but it trades raw volume of fire for AP shells, and is useful in certain situations where the penetration capabilities of AP shells is desirable.
+ - **[Prototype 152mm Triple DP Mk17]()** gives a split of anti-air and firepower. Similar to the 155mm, it has a non-zero volley time, which impacts its interception capabilities, but it has a longer range, improving its reaction times, and its tighter spread increases its bullet density. Given its rarity and relatively weak intercpetion, it's not the most useful choice for an aux gun, but it is also the only CL gun that provides a boost to anti-air.
+ - **[150mm Twin TbtsK C/36]()** has a few advantages for interception in specific niche scenarios, but is generally poorly suited for general use. Its hyper-accurate firing pattern allows a ship to pump more concentrated damage into a single target than any other available aux gun. Additionally, its AP shells can penetrate, allowing it to deal with certain patterns of suicide boats that other, non-AP guns might struggle with.
+
 ## Heavy Cruiser (CA) Guns
-- something something ammo types
+ - Unlike other vanguard caliber guns where no one ammo type is strictly superior, or if one appears to be superior it's due to characteristics aside from ammo type alone, the armour modifiers on heavy cruiser guns are drastically different enough that you will always want to use HE shells when fighting light armour enemies and AP shells when fighting medium and heavy armour enemies. For clearing fleets, the mixed armour types of the enemies encountered means either ammo type can be viable.
 
 **General Primaries** <br/>
 [![pr203mm Triple HE](/resources/pr203mm%20triple%20he%20gr_s.png)]()
@@ -70,10 +94,18 @@ This guide is meant to serve as both an in-depth guide to end-game equipment and
 [![203mm Mounted](/resources/203mm%20mounted%20gr_a.png)]()
 [![203mm Twin SKC](/resources/203mm%20twin%20skc%20gr_a.png)]()
 
+ - **[Prototype 203mm Triple Mle1934]()** has the fastest fire rate of any HE CA gun and top-tier damage.
+ - **[Prototype 203mm Twin No.3]()** sacrifices a small amount of fire rate and damage per volley compared to the Mle1934 for superior target acquisition and volume of fire. It has the potential to pull ahead in certain situations such as when fighting more mobile targets, or in the presence of shielded enemies.
+ - **[Prototype 203mm Triple SK C/34]()** is the strongest AP CA gun. While it has a relatively wide spread, its fire rate and damage are so heavily improved over the next best alternative that it's worth using in all scenarios.
+ - **[203mm Mounted]()** and **[203mm Twin SK C/34]()** are weaker, but more accessible versions of their respective prototype counterparts.
+
 **Miscellaneous Primaries** <br/>
 [![Submarine 203mm Twin](/resources/sub%20203mm%20twin.png)]()
 [![310mm Triple](/resources/pr310mm%20triple.png)]()
 [![283mm Triple](/resources/283mm%20triple.png)]()
+
+ - **[Submarine Mounted 203mm Twin Mle1924]()** can only be equipped on the submarine Surcouf, and is the only gun she can equip.
+ - **[Prototype 310mm Triple]()** and **[283mm Triple SK C/28]()** both fire arcing shells, similar to a battleship, despite being vanguard guns. This allows them to bypass shields entirely, potentially increasing their damage output in practice. However, as large caliber guns, they can only be equipped on Azuma and the Deutschland class (*Deutschland class's ability to equip 310mm guns currently unconfirmed*).
 
 ## Main Fleet (BB/BC/BM/BBV) Guns
  - why timeframe grouping
