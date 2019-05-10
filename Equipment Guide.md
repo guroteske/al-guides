@@ -108,7 +108,7 @@ This guide is meant to serve as both an in-depth guide to end-game equipment and
  - **[Prototype 310mm Triple]()** and **[283mm Triple SK C/28]()** both fire arcing shells, similar to a battleship, despite being vanguard guns. This allows them to bypass shields entirely, potentially increasing their damage output in practice. However, as large caliber guns, they can only be equipped on Azuma and the Deutschland class (*Deutschland class's ability to equip 310mm guns currently unconfirmed*).
 
 ## Main Fleet (BB/BC/BM/BBV) Guns
- - why timeframe grouping
+ - Due to the burst-damage nature of battleship main guns, they're grouped together based on their expected reload speeds. The highest direct damage guns tend to have firing timers longer than 20s, while the fastest guns have firing timers shorter than 18s and are generally best suited for use on ships with powerful skills that proc on main gun fire. This leaves a select handful of guns that fall into the 18-20s band. These guns have the potential to outdamage the slower guns under the right circumstances, while also still being fast enough to function well on ships with proc-on-fire skills. <br/><br/> In general, battleships used for trash clearing will also prefer a gun with a faster fire rate due to their more smooth damage curve and the tendency for higher damage guns to overkill trash mobs.
 
 **>20s** <br/>
 [![406mm Triple Mk6](/resources/406mm%20triple%20mk6%20gr_s.png)]()
@@ -117,15 +117,29 @@ This guide is meant to serve as both an in-depth guide to end-game equipment and
 [![pr410mm Triple](/resources/pr410mm%20triple%20gr_a.png)]()
 [![406mm Triple MkI](/resources/406mm%20triple%20mki%20gr_b.png)]()
 
+ - **[406mm Triple Mk6]()** has the strongest overall shelling output of any battleship main gun. The de facto standard damage-focused battleship gun.
+ - **[Prototype 381mm Triple BL MkIII]()** sacrifices some shelling damage compared to the Mk6 for a faster reload speed and higher firepower bonus. Useful on ships who value the firepower boost more than the raw damage output, or for battleships that need to fire before other battleships in order to make use of proc-on-fire buffs, debuffs, or other effects.
+ - **[380mm Quad Mle1935]()** is the signature gun of Jean Bart and the only gun she uses. Its high alpha damage and volume of fire give it potential use on other ships, especially for clearing fleets, but its non-zero volley time drastically reduces its efficacy against non-stationary bosses.
+ - **[Prototype 410mm Triple]()** has comparable base stats to the Mk6, but fires AP shells. While this reduces its value as a general-use gun, it's a potent gun when fighting bosses with medium or heavy armour.
+ - **[406mm Triple BL MkI]()** is nearly identical to the Mk6, but fires normal shells. Similar to the prototype 410mm, this makes it a poor choice for general use. However, its increased firepower bonus allows it to pull ahead of the Mk6 when equipped to battleships that ignore shell types, such as Massachusetts.
+
 **18-20s** <br/>
 [![pr406mm Twin SKC](/resources/pr406mm%20twin%20skc%20gr_s%20TENTATIVE.png)]()
 [![pr457mm Twin](/resources/pr457mm%20twin%20gr_a%20TENTATIVE.png)]()
 [![410mm Twin](/resources/410mm%20twin%20gr_a.png)]()
 
+ - **[Prototype 406mm Twin Drh LC/34]()** shoots HE shells, uncharacteristic for an Ironblood gun. It has the highest damage per shell of any HE BB gun, meaning it will inflict the most damaging burn effects on enemies, while having a near optimal firing timer in order to maximise burn uptime. It will perform well on battleships with exceptionally high gun efficiencies in order to best take advantage of this burn damage, on battleships who have both strong shelling output and a strong proc-on-fire ability, or battleships with a relatively weak proc-on-fire ability that still provides a source of additional, incidental secondary damage.
+ - **[Prototype 457mm Twin Mk A]()** sports an impressive base damage per shell in excess of 200, more than 30% higher than the next strongest damage-focused guns including the Mk6, while also having a higher firepower bonus than any other gun in the game. While its prototype AP shells deal increased damage against all targets compared to other AP guns, they still limit its general usefulness. In a vacuum, this gun should be the absolute strongest AP gun, but falling within the firing band it does means battleships equipped with this gun may struggle to take advantage of damage buffs and debuffs granted by other ships in the fleet, allowing a slower gun to pull ahead in damage.
+ - **[410mm Twin]()** is a more readily accessible alternative to the 406mm Drh LC/34. Nearly identical attributes, but a lower firepower bonus thanks to its purple rarity and a negligibly slower fire rate.
+
 **<18s** <br/>
 [![pr381mm Twin Kai](/resources/pr381mm%20twin%20kai%20gr_s.png)]()
 [![380mm Twin SKC](/resources/380mm%20twin%20skc%20gr_b.png)]()
 [![283mm Triple](/resources/283mm%20triple%20gr_b.png)]()
+
+ - **[Prototype 381mm Twin BL MkII]()** is the fastest firing battleship main gun with HE shells. It shines on ships with strong proc-on-fire skills and in trash clearing fleets.
+ - **[380mm Twin SK C/34]()** is nearly identical to, but slightly worse than the 381mm twin, except it shoots AP shells. A weaker choice for general use, given the already limited applications of AP shells. However, its damage output against medium and heavy armour pulls ahead of the 381mm twin, and is worth using if another BB is present to keep burn DOTs up.
+ - **[283mm Triple SK C/34]()** is the absolute fastest firing battleship main gun in the game, with the cost of sub-100 base damage and normal shells. Worthless for general use, but has some niche applications where the increase in fire rate is significant enough to make up for its shortcomings, such as when your ships significantly outlevel a given map.
 
 ## Torpedoes
 
