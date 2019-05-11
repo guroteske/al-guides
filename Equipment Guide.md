@@ -151,10 +151,22 @@ This guide is meant to serve as both an in-depth guide to end-game equipment and
 [![533mm Quad Homing](/resources/533mm%20quad%20homing%20torpedoes%20gr_a.png)]()
 [![550mm Triple](/resources/550mm%20triple%20torpedoes%20gr_b.png)]()
 
+ - **[533mm Quintuple Torpedoes]()** have the highest volume of fire, average reload speed, and high alpha damage, making them the strongest torpedoes for general use on both auto and manual play.
+ - **[610mm Quadruple Torpedoes]()** have the highest alpha damage of all torpedoes. Their long reload speed and low volume of fire makes missing with these torpedoes incredibly punishing, and as such, they're poorly suited for auto play, but are ideal for killing bosses on manual play.
+ - **[533mm Quint Homing Torpedoes]()** sacrifice reload speed and damage for a mild homing effect and give the highest torpedo bonus. They have solid performance on auto and have niche use on manual, when either the homing effect or stat boost are desired.
+ - **[533mm Quadruple Torpedoes]()** have the same base torpedo damage as their quintuple counterpart and a significantly faster reload speed, but have a lower stat bonus and only launch four torpedoes per volley. Mostly used to stagger torpedo volleys on auto, or as a transitional equip until stronger torpedo mounts can be acquired.
+ - **[533mm Quad Homing Torpedoes]()** are a significantly weaker version of the quintuple homing mount. While they fire at a comparable speed to the 533mm quintuple mount and gain the homing effect, they're severely held back by their low damage per torpedo and low volume of fire. Functionally useless on manual play and provide little to no benefit over the stronger mounts on auto.
+ - **[550mm Triple Torpedoes]()** occupy the unique niche of having the fastest reload speed of any relevant torpedo launcher. However, while they have high base damage, the fact that they only launch three torpedoes per volley cuts significantly into both alpha damage and volume of fire, on top of being exceedingly difficult to acquire.
+
 **Submarine Torpedoes** <br/>
 [![G7e Acoustic Torpedoes](/resources/g7e%20acoustic%20torpedoes%20gr_s.png)]()
 [![Mk16 Torpedoes](/resources/mk16%20torpedoes%20gr_s.png)]()
 [![T95 Oxygen Torpedoes](/resources/t95%20oxygen%20torpedoes%20gr_a.png)]()
+
+ - **[G7e Acoustic Homing Torpedoes]()** have a similar homing effect to their surface damage counterparts, but still deal competitive damage while reloading faster than any other submarine torpedoes. Given the linear, targeted nature of submarine-launched torpedoes, the homing effect of G7e torpedoes gives them the best overall reliability.
+ - **[Submarine Mounted Mk16 Torpedoes]()** have the longest reload speed, but also launch three torpedoes per volley instead of two, and have the highest base torpedo damage. Mk16 torpedoes are integral in maximising the amount of damage dealt by your submarines, but generally require equipped submarines to have extended combat time in order to offset their long reload time.
+ - **[Submarine Type 95 Oxygen Torpedoes]()** offer slightly increased damage compared to the G7e, but trade the homing effect for drastically increased torpedo velocity. Overall, this does less to assist torpedo accuracy than the homing effect, and the difference in velocity between T95 torpedoes and other submarine torpedoes can cause issues with torpedo targeting that cut harshly into damage dealt.
+ - As all three submarine torpedo launchers are the same rarity with the same stat bonus, they contribute the same amount to a ship's combat power rating, which is the primary factor in the potency of roaming submarines' HP reduction effect. As such, the difference between the three torpedoes are only relevant when planning to call submarines into live combat.
 
 ## Carrier (CV/CVL) Aircraft
 
@@ -167,11 +179,25 @@ This guide is meant to serve as both an in-depth guide to end-game equipment and
 [![Me-155](/resources/me-155%20gr_b.png)]()
 [![Zero M52](/resources/zero%20m52%20gr_b.png)]()
 
+ - For fighters, the damage stat displayed in-game is the anti-air damage dealt by the fighter's equipped guns and is not indicative of the amount of surface damage it will deal. For that, you will need to look at a given plane's loadout to see what bombs, if any, it is equipped with. For general use, fighter-bombers are preferred due to their ability to contribute surface damage to the fight, and the strongest payload for any fighter is 2x 500lb bombs.
+ - **[F4U Corsair (VF-17 Squadron)]()** is the fastest fighter-bomber, and has unique bombs with slightly increased base damage. It has relatively weak anti-air guns, but gives a fleet-wide anti-air boost upon airstrike launch.
+ - **[F6F Hellcat]()** has the strongest interception capabilities of any fighter-bomber. While it is relatively slow to launch, the difference between it and other fighters with the same payload is relatively small and unlikely to have any real impact, making it the strongest general-use fighter.
+ - **[A7M Reppuu]()** is the fastest permanently available fighter-bomber, both in its reload speed and flight speed. Its fast speed allows it to bait out enemy anti-air fire in PVP which, coupled with its high kamikaze damage, makes it an ideal fighter for PVP usage.
+ - **[Supermarine Seafang]()** and **[Hawker Sea Fury]()** are the last gold rarity fighters with the 2x 500lb payload. While they're more than strong enough for general use, they fall behind the other listed planes in some respect, making them weaker overall.
+ - **[Me-155a]()** has no bombs and therefore deals no surface, but is the second fastest fighter overall, the fastest gold rarity fighter, and has superior anti-air guns to the Hellcat. Potentially worth using when fighting enemies with heavy aviation presence, especially on carriers with weak fighter slots, but ill-advised on carriers with strong fighter slots who will generally benefit more from a fighter-bomber.
+ - **[Zero Fighter Model 52]()** is a relatively fast fighter that still deals some damage, although its 2x 100lb payload has slightly under half the base damage of a 2x 500lb payload and a significantly smaller blast radius. Mostly used for very specific reload tuning setups.
+
 **Dive Bombers** <br/>
 [![SB2C Helldiver](/resources/sb2c%20helldiver%20gr_s.png)]()
 [![Ju-87c](/resources/ju-87c%20gr_a.png)]()
 [![Suisei](/resources/suisei%20gr_b.png)]()
 [![Firefly](/resources/firefly%20gr_b.png)]()
+
+ - Bomb damage does not scale linearly with payload weight, and larger bombs only provide a small increase in damage. As such, quantity of bombs is generally preferred to quality of bombs.
+ - **[SB2C Helldiver]()** has the strongest bomb loadout of any dive bomber by a wide margin, but is also the slowest. Strongest dive bomber for general use, especially on carriers with strong dive bombers.
+ - **[Ju-87c 'Stuka']()** is the only other bomber that can compete with the Helldiver in terms of raw damage potential. It reloads slightly faster, but its 100lb bombs have a small blast radius, which can cut into overall reliability.
+ - **[D4Y Suisei]()** has a relatively weak payload, but is the fastest true dive bomber. It has niche use in reload tuning and can be a strong choice on carriers with weak dive bombers, or in situations where a stronger dive bomber would overkill enemies.
+ - **[Fairey Firefly]()** has an average reload speed with average damage, but its main appeal is its anti-air guns. Equipped with the same autocannons found on Royal fighters, the Firefly is capable of dealing fighter-tier anti-air damage, but as a dive bomber, is incapable of the same automatic interception as a real fighter, its guns only being beneficial after launching a full airstrike.
 
 **Torpedo Bombers** <br/>
 [![Ryuusei](/resources/ryuusei%20gr_s.png)]()
@@ -179,6 +205,12 @@ This guide is meant to serve as both an in-depth guide to end-game equipment and
 [![Barracuda](/resources/barracuda%20gr_s.png)]()
 [![Swordfish (818)](/resources/swordfish%20818%20gr_a.png)]()
 [![Firebrand](/resources/firebrand%20gr_a.png)]()
+
+ - **[B7A Ryuusei]()** launches torpedoes that converge on a point rather than in a parallel spread. While typically used for its superior damage capabilities against bosses where all torpedoes will hit the target, Ryuusei can be a strong general use torpedo bomber. If it misses its intended target, the torpedoes will fan out, similar to a torpedo volley launched by surface ships, and are still capable of hitting auxiliary targets.
+ - **[Torpedo Squadron 8]()** is a very unique piece of equipment. It launches incredibly weak TBD Devastators for the first airstrike of its equipped carrier. However, for every subsequent airstrike, the Devastators are replaced with TBF Avengers which have the highest base damage of any parallel torpedo bomber.
+ - **[Fairey Barracuda]()** has the fastest reload speed of any torpedo bomber. While its torpedoes have higher damage per torpedo than a Ryuusei, it will rarely land all of its torpedoes on a given target. Despite this, Barracudas are still a strong general use torpedo bomber, especially on carriers with weak torpedo bombers.
+ - **[Fairey Swordfish (818 Squadron)]()** trades some of the Barracuda's damage for the ability to slow enemies hit by its torpedoes. While weaker than a Barracuda if your fleet is incapable of capitalising on the slow-down effect, the utility it provides can be incredibly powerful when paired with battleships or another carrier equipped with a Ryuusei.
+ - **[Blackburn Firebrand]()** has the same damage output as the Barracuda, but with a slower reload speed. Similar to the Firefly dive bomber however, it's equipped with fighter anti-air guns and is capable of dealing massive damage to enemy planes after launching an airstike.
 
 ## Anti-Air (AA) Guns
  - basic outline about distinction between damage and acceleration
