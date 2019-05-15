@@ -50,6 +50,7 @@ This guide is meant to serve as both an in-depth guide to end-game equipment and
  [![100mm Twin](/resources/100mm%20twin%20gr_b.png)]()
  [![138mm Single](/resources/138mm%20single%20gr_b.png)]()
  
+  - While DD guns can typically deal with any solo suicide boats, they will struggle immensely compared to CL guns, especially when fighting high-densities of suicide boats. Light caliber guns have an inherently shorter range and lower base damage, which hold them back when the most valuable stats for interception are range and base damage. Consider using battleships that can mount CL auxiliary guns whenever suicide boats are an active concern.
   - **[128mm Twin SK C/41]()** is the strongest AP destroyer gun in the game. While its damage output is too weak to justify its use as a main gun, it has applications as an auxiliary gun as its AP shells give it the fastest reaction times of any light-caliber aux gun. However, its low damage may cause it to struggle to deal enough damage to kill suicide boats in the first place.
   - **[120mm Twin QF Mark XII]()** has weaker interception capabilities than the 128mm Twin, but its high damage per shot allows it to get kills when equipped on ships that might struggle otherwise.
   - **[127mm Twin Mk38]()** has comparable performance to the 120mm Twin. However, the lower velocity of its HE shells cause it to struggle slightly when firing at extreme angles and it has a lower firepower boost.
@@ -63,6 +64,7 @@ This guide is meant to serve as both an in-depth guide to end-game equipment and
 [![150mm Single SKC](/resources/150mm%20single%20skc%20gr_b.png)]()
 [![155mm Triple](/resources/155mm%20triple%20gr_b.png)]()
 
+ - For any vanguard ship that can choose between equipping a DD or CL gun, always equip them with a DD gun. Light caliber guns have higher base dpm, and their faster fire rate leads to faster barrages and/or skill procs.
  - **[Prototype 152mm Triple DP Mk17]()** addresses the primary issue holding back HE light cruiser guns: their wide spread. The Dual-Purpose Mk17 has damage stats that, on paper, give it theoretical DPM comparable to the next strongest HE gun, but with ballistic characteristics more in-line with the AP guns that should allow it to actually reach its theoretical DPM in practice. True to its name, it also provides a split between boosting firepower and anti-air, making it the only CL gun to do so.
  - **[Prototype 152mm Triple BL Mark XXV]()** is the strongest AP CL gun. It has an incredibly fast fire rate, the longest range of any CL gun, high base damage. However, its relatively wide spread for an AP gun may give it negligible accuracy issues at exceptionally long ranges.
  - **[150mm Twin TbtsK C/36]()** may not look impressive on paper, with low base damage compared to most alternatives. However, it has a hyper-accurate firing pattern and is one of the only CL guns in the game capable of actually dealing its theoretical DPM, and that's without accounting for AP shells' penetration capabilities.
@@ -105,10 +107,10 @@ This guide is meant to serve as both an in-depth guide to end-game equipment and
 [![283mm Triple](/resources/283mm%20triple.png)]()
 
  - **[Submarine Mounted 203mm Twin Mle1924]()** can only be equipped on the submarine Surcouf, and is the only gun she can equip.
- - **[Prototype 310mm Triple]()** and **[283mm Triple SK C/28]()** both fire arcing shells, similar to a battleship, despite being vanguard guns. This allows them to bypass shields entirely, potentially increasing their damage output in practice. However, as large caliber guns, they can only be equipped on Azuma and the Deutschland class (*Deutschland class's ability to equip 310mm guns currently unconfirmed*).
+ - **[Prototype 310mm Triple]()** and **[283mm Triple SK C/28]()** both fire arcing shells, similar to a battleship, despite being vanguard guns. This allows them to bypass shields entirely, potentially increasing their damage output in practice. However, as large caliber guns, they can only be equipped on Azuma, while the Deutschland class can only choose the 283mm, whose AP shells make it poorly suited for their niche of bullying light armour targets.
 
 ## Main Fleet (BB/BC/BM/BBV) Guns
- - Due to the burst-damage nature of battleship main guns, they're grouped together based on their expected reload speeds. The highest direct damage guns tend to have firing timers longer than 20s, while the fastest guns have firing timers shorter than 18s and are generally best suited for use on ships with powerful skills that proc on main gun fire. This leaves a select handful of guns that fall into the 18-20s band. These guns have the potential to outdamage the slower guns under the right circumstances, while also still being fast enough to function well on ships with proc-on-fire skills. <br/><br/> In general, battleships used for trash clearing will also prefer a gun with a faster fire rate due to their more smooth damage curve and the tendency for higher damage guns to overkill trash mobs.
+ - Due to the burst-damage nature of battleship main guns, they're grouped together based on their expected reload speeds. The highest direct damage guns tend to have firing timers longer than 20s, while the fastest guns have firing timers shorter than 18s and are generally best suited for use on ships with powerful skills that proc on main gun fire. This leaves a select handful of guns that fall into the 18-20s band. These guns have the potential to outdamage the slower guns under the right circumstances, while also still being fast enough to function well on ships with proc-on-fire skills.<br/><br/>In general, battleships used for trash clearing will also prefer a gun with a faster fire rate due to their more smooth damage curve and the tendency for higher damage guns to overkill trash mobs.
 
 **>20s** <br/>
 [![406mm Triple Mk6](/resources/406mm%20triple%20mk6%20gr_s.png)]()
@@ -193,7 +195,7 @@ This guide is meant to serve as both an in-depth guide to end-game equipment and
 [![Suisei](/resources/suisei%20gr_b.png)]()
 [![Firefly](/resources/firefly%20gr_b.png)]()
 
- - Bomb damage does not scale linearly with payload weight, and larger bombs only provide a small increase in damage. As such, quantity of bombs is generally preferred to quality of bombs.
+ - Bomb damage does not scale linearly with payload weight, and larger bombs only provide a small increase in damage. As such, quantity of bombs is generally preferred to quality of bombs. Additionally, the damage stat shown in-game for any given dive bomber is a meaningless, arbitrary number that is in no way related to the bomber's actual performance.
  - **[SB2C Helldiver]()** has the strongest bomb loadout of any dive bomber by a wide margin, but is also the slowest. Strongest dive bomber for general use, especially on carriers with strong dive bombers.
  - **[Ju-87c 'Stuka']()** is the only other bomber that can compete with the Helldiver in terms of raw damage potential. It reloads slightly faster, but its 100lb bombs have a small blast radius, which can cut into overall reliability.
  - **[D4Y Suisei]()** has a relatively weak payload, but is the fastest true dive bomber. It has niche use in reload tuning and can be a strong choice on carriers with weak dive bombers, or in situations where a stronger dive bomber would overkill enemies.
@@ -213,7 +215,7 @@ This guide is meant to serve as both an in-depth guide to end-game equipment and
  - **[Blackburn Firebrand]()** has the same damage output as the Barracuda, but with a slower reload speed. Similar to the Firefly dive bomber however, it's equipped with fighter anti-air guns and is capable of dealing massive damage to enemy planes after launching an airstike.
 
 ## Anti-Air (AA) Guns
- - basic outline about distinction between damage and acceleration
+ - Anti-air damage works off of a pool Every ship equipped with AA guns contributes damage based off of their AA stat and efficiency, with the reload and range of the fleet AA being based off of the average reload speed and range of all guns in the fleet. As such, there are two main roles for AA guns: damage and acceleration. Due to the limited window of time your fleet has to deal anti-air damage, your main goal with an anti-air setup is to maximise the number of damage ticks, and then maximise the damage per tick. In order to do this, you will generally equip a purely damage focused gun on whoever has the highest effective AA in your fleet, accelerators on every ship with weak effective AA, and pad out damage as necessary by equipping the 40mm quad Bofors on ships with above median effective AA.<br/><br/>In practice, the difference between a fully optimised AA setup and one that uses whatever gold rarity guns you have access to is very minimal. Anti-air damage does not win battles; surface damage wins battles.
 
 **Damage Guns** <br/>
 [![40mm Quad Bofors](/resources/40mm%20quad%20bofors%20gr_s.png)]()
@@ -222,6 +224,11 @@ This guide is meant to serve as both an in-depth guide to end-game equipment and
 [![100mm Twin High-Angle](/resources/100mm%20twin%20high-angle%20gr_a.png)]()
 [![105mm Twin SKC](/resources/105mm%20twin%20skc%20gr_a.png)]()
 
+ - **[40mm Quad Bofors]()** can fill the niche of both an accelerator and damage AA gun, and forms the foundation of a strong AA setup. While a mix of different types of AA guns will always provide the most gains, a setup that uses exclusively quad Bofors will be stronger than any other mono-gun setup.
+ - **[40mm 8x Pom-Pom]()** is one of the strongest damage-focused AA guns, with the second highest base damage per hit and a relatively fast reload speed. While it has a low base range, as range is calculated based on the average range of all AA guns in your fleet, this is generally a non-concern unless you're attempting to utilise more than one Pom-Pom.
+ - **[113mm Twin QF Mk I]()** has the highest base damage and range of any AA gun, but also has the longest reload speed of any gold rarity AA gun. This gun has potential to be incredibly powerful when used responsibly, but poor usage of it will only cut into your tick rate, decreasing your margin of error, and providing very little tangible benefits.
+ - **[100mm Twin High-Angle T98]()** and **[105mm Twin SK C/33]()** are strong guns if you lack other gold AA guns, but have lower damage than both the 113mm and Pom-Pom, making them suboptimal in all scenarios.
+
 **Accelerator Guns** <br/>
 [![40mm Twin Bofors STAAG](/resources/40mm%20twin%20bofors%20staag%20gr_s.png)]()
 [![40mm Twin Bofors T98](/resources/40mm%20twin%20bofors%20t98%20gr_s%20TENTATIVE.png)]()
@@ -229,3 +236,8 @@ This guide is meant to serve as both an in-depth guide to end-game equipment and
 [![37mm Twin ACAD](/resources/37mm%20twin%20acad%20gr_a%20TENTATIVE.png)]()
 [![20mm Twin Oerlikon](/resources/20mm%20twin%20oerlikon%20gr_b.png)]()
 [![25mm Triple](/resources/25mm%20triple%20gr_b.png)]()
+
+ - **[40mm Twin Bofors STAAG]()** is relatively slow for an accelerator gun, but brings relatively high base damage and long range. The STAAG also gives a bonus to accuracy, making it the de facto strongest AA gun for every ship when actual AA damage is a non-concern. Generally speaking, ships with lower base accuracy, such as battleships, have higher priority for this gun than others.
+ - **[40mm Twin Bofors T98]()** is a Japanese Bofors variant. While it lacks the accuracy boost of the STAAG mount, the Type 98 makes up for it by shooting even faster. It's optimal on ships who have low effective AA but whose base accuracy is high enough that the accuracy boost of the STAAG would be wasted, such as low-AA destroyers and light cruisers.
+ - **[40mm Twin Bofors Hazemeyer]()** and **[37mm Twin ACAD Mle1936]()** are simply weaker variants of the STAAG and Type 98 bofors respectively. The Hazemeyer mount is the predecessor to the STAAG mount, and while it shares the same niche, it shoots very slightly more slowly and has half the accuracy boost. Similarly, the French 37mm ACAD fills the same niche as the Bofors Type 98, but is weaker in every respect. Still usable guns, given the rarity of research equipment, but suboptimal.
+ - **[20mm Twin Oerlikon]()** and **[25mm Triple]()** are purple rarity accelerator guns that should only be used for manual play. They both cut into range and tick damage by a very significant margin and are only worth using in order to push your reload speed below the threshold required to gain an extra tick of damage.
