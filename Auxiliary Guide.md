@@ -31,3 +31,8 @@ This guide for auxiliary equipment is split off from the rest due to the relativ
 [![Repair Crane](/resources/)]()
 [![Torpedo Bulge](/resources/)]()
 [![Pearl Tears](/resources/)]()
+
+ - **[Fire Extinguisher]()** provides a moderate boost to HP and reduces the chances of a ship catching fire, reduces damage received when on fire, and reduces the duration of burn effects. 
+ - **[High-Performance Anti-Air Radar]()** increases anti-air stat. Aside from increasing anti-air damage dealt, the anti-air stat also reduces kamikaze damage received when enemy airplanes crash into your main fleet. Also provides a boost to ambush evasion, similar to SG radar (see below); does not stack with SG radar.
+ - **[Repair Crane]()** can only be equipped on repair ships. Every 5s, it heals the most damaged ship in the fleet for a flat 15 HP.
+ - **
