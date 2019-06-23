@@ -3,6 +3,7 @@ This guide is meant to serve as both an in-depth guide to end-game equipment and
  - **S-rank** equipment is going to be best-in-slot for most ships and in most use cases
  - **A-rank** equipment is either easier to acquire than S-rank equipment and good enough for general use, or is more difficult to obtain while not providing enough of an appreciable difference in performance to be worth recommending in all cases
  - **B-rank** equipment might not be strong enough to warrant a recommendation for general use, but occupies a specific niche that might make it best-in-slot for select scenarios or when equipped to certain ships
+ - **Tentative** stamps denote that a given piece of equipment's ranking is, due to limited availability and data, based predominantly on theoretical data
 
 ## Destroyer (DD) Guns
 **General Primaries** <br/>
@@ -69,7 +70,7 @@ This guide is meant to serve as both an in-depth guide to end-game equipment and
  - **[Prototype 152mm Triple BL Mark XXV](https://azurlane.koumakan.jp/Triple_152mm_Prototype_(BL_6%22_Mk_XXV))** is the strongest AP CL gun. It has an incredibly fast fire rate, the longest range of any CL gun, high base damage. However, its relatively wide spread for an AP gun may give it negligible accuracy issues at exceptionally long ranges.
  - **[150mm Twin TbtsK C/36](https://azurlane.koumakan.jp/Twin_150mm_(TbtsK_C/36))** may not look impressive on paper, with low base damage compared to most alternatives. However, it has a hyper-accurate firing pattern and is one of the only CL guns in the game capable of actually dealing its theoretical DPM, and that's without accounting for AP shells' penetration capabilities.
  - **[150 Single SK C/28]()** is the fastest firing CL gun, and sees use on light cruisers who have exceptionally strong barrages.
- - **[155mm Triple](https://azurlane.koumakan.jp/Triple_155mm_(3rd_Year_Type))** has incredibly strong stats on paper. However, it has a very wide spread with a fixed pattern, meaning the shells will always be that far apart from each other, which causes it to bracket enemies when fired at even a moderate range. still a potentially useful gun when fighting targets at incredibly close range or who have an incredibly large hitbox, at least until replacing it with a DP Mk17. 
+ - **[155mm Triple](https://azurlane.koumakan.jp/Triple_155mm_(3rd_Year_Type))** has incredibly strong stats on paper. However, it has a very wide spread with a fixed pattern, meaning the shells will always be that far apart from each other, which causes it to bracket enemies when fired at even a moderate range. Still a potentially useful gun when fighting targets at incredibly close range or who have an incredibly large hitbox, at least until replacing it with a DP Mk17. 
 
 **Main Fleet Auxiliaries** <br/>
 [![pr152mm Triple AP](/resources/pr152mm%20triple%20ap%20gr_s.png)](https://azurlane.koumakan.jp/Triple_152mm_Prototype_(BL_6%22_Mk_XXV))
@@ -241,3 +242,6 @@ This guide is meant to serve as both an in-depth guide to end-game equipment and
  - **[40mm Twin Bofors T98](https://azurlane.koumakan.jp/Twin_40mm_Bofors_High-Angle_Type_98)** is a Japanese Bofors variant. While it lacks the accuracy boost of the STAAG mount, the Type 98 makes up for it by shooting even faster, making it the fastest reloading gold AA gun in the game. It's optimal on ships who have low effective AA but whose base accuracy is high enough that the accuracy boost of the STAAG would be wasted, such as low-AA destroyers and light cruisers.
  - **[40mm Twin Bofors Hazemeyer](https://azurlane.koumakan.jp/Twin_40mm_Bofors_Hazemeyer_Mount_Mk_IV)** and **[37mm Twin ACAD Mle1936](https://azurlane.koumakan.jp/Twin_37mm_ACAD_Mle_1936)** are simply weaker variants of the STAAG and Type 98 bofors respectively. The Hazemeyer mount is the predecessor to the STAAG mount, and while it shares the same niche, it shoots marginally slower and has half the accuracy boost. Similarly, the French 37mm ACAD fills the same niche as the Bofors Type 98, but it is weaker in every respect. Still usable guns, given the rarity of research equipment, but suboptimal.
  - **[20mm Twin Oerlikon](https://azurlane.koumakan.jp/Twin_20mm_AA_Oerlikon)** and **[25mm Triple T96](https://azurlane.koumakan.jp/Triple_25mm_AA_Type_96)** are purple rarity accelerator guns that should only be used for manual play. They both cut into range and tick damage by a very significant margin and are only worth using in order to push your reload speed below the threshold required to gain an extra tick of damage.
+
+## Auxiliary Equipment
+ - More in-depth guide to auxiliary equipment can be found [here.](/Auxiliary%20Guide.md)
