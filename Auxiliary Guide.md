@@ -120,3 +120,20 @@ This guide for auxiliary equipment is split off from the rest due to the relativ
  - **[Unfulfilled Promise]()** can be equipped on either Bismarck or U-556. In either case, it provides a negligible stats boost, with a very small boost to HP and mild boost to evasion. When equipped on Bismarck, it reduces the effects of the Out of Ammo penalty on the main fleet from 50% to 35% and is not worth the opportunity cost involved in equipping it. When equipped on U-556, it increases her hunting range by 1 level and the amount of time she can stay in combat after surfacing by 4s, the equivalent of 40 oxygen. As it does not increase her oxygen directly, can be equipped alongside a snorkel.
  
  - **[Cat Punch]()** provides a moderate boost to HP and, when equipped by Akashi, increases her healing output by 20%.
+
+## Auxiliary Selection Guidelines
+As a general rule of thumb, for standard maps, your fleet will always contain at least one SG Radar. Additional aux will depend on the class of ships in your fleet and the function of the fleet itself. Boss hunting fleets will typically want to go all-out on offensive aux, avoiding defensive aux as much as possible while still maintaining a desirable battle ranking. Trash clearing fleets will generally focus more on defensive auxiliaries. If a vanguard ship can complete a clear of a map with an offensive aux equipped, a cheaper ship will generally be able to clear that map with a more defensive setup.
+
+ - The most generic defensive setup for any vanguard unit will be a repair kit and an improved hydraulic rudder (referred to as a wheelbox setup). While not purely optimal on every unit in every situation, it is going to be optimal for most ships in most scenarios and good enough for any vanguard unit that might have a different, more optimal setup.
+ 
+ - In order to min/max eHP beyond just using a wheelbox setup, you will generally want to shore up a ship's weaknesses, rather than build upon their strengths. Equip HP-boosting aux to ships with low base HP and high base evasion (destroyers); equip evasion-boosting aux to ships with high base HP and low base evasion (heavy cruisers). 
+ 
+ - Ships with high luck stats will generally gain more out of every individual point of evasion due to the way luck interacts with the hitrate calculations. Conversely, ships with low luck will often find HP boosts more desirable.
+ 
+ - The hardcap for evasion is 90%. Ships who boost evasion rate directly (not evasion stat boosting) by significant enough degrees run the risk of hitting this cap and will therefore gain more out of HP boosts.
+ 
+ - Due to the generally reduced pressure placed upon the main fleet, these units will typically want to focus more on offensive auxiliary equipment. When main fleet units do equip defensive aux, they will typically equip specialised equipment to deal with a specific threat, such as a fire extinguisher in maps with heavy enemy shelling, or an anti-air radar in maps with heavy aviation presence.
+ 
+ - The most generic offensive setups are double steam catapults for all carriers and both a T1 shell and SHS (double shells) for battleships. The SHS may be replaced for an HPFCR, especially for clearing fleets.
+ 
+ - As ramming damage cannot be evaded, a ship's eHP might be higher with an HP-focused loadout in maps whose spawn patterns lead to heavy ramming damage even on a heavy cruiser who might typically gain more eHP for other maps with a non-HP loadout. Additionally, bosses in EX stages cannot miss their attacks. While these stages are generally designed for manual play under the assumption that you will manually dodge enemy shelling patterns, HP-boosting aux will provide a safety net evasion-boosting aux cannot.
