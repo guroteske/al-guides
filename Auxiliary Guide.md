@@ -5,13 +5,13 @@ This guide for auxiliary equipment is split off from the rest due to the relativ
 
 ## Defensive Auxiliary Equipment
 **Standard Defensive Auxiliaries**<br/>
-[![Improved Hydraulic Rudder](/resources/)]()
-[![Beaver Badge](/resources/)]()
-[![Repair Kit](/resources/)]()
-[![Pyoko-Pyoko](/resources/)]()
-[![Fuel Filter](/resources/)]()
-[![Naval Camo](/resources/)]()
-[![Hydraulic Rudder](/resources/)]()
+[![Improved Hydraulic Rudder](/resources/improved%20hydraulic%20rudder%20no_gr.png)]()
+[![Beaver Badge](/resources/beaver%20badge%20no_gr.png)]()
+[![Repair Kit](/resources/repair%20kit%20no_gr.png)]()
+[![Pyoko-Pyoko](/resources/pyoko-pyoko%20no_gr.png)]()
+[![Fuel Filter](/resources/fuel%20filter%20no_gr.png)]()
+[![Naval Camo](/resources/naval%20camo%20no_gr.png)]()
+[![Hydraulic Rudder](/resources/hydraulic%20rudder%20no_gr.png)]()
 
  - **[Improved Hydraulic Rudder]()** is the strongest evasion-focused aux. In addition to having the strongest raw stats boost from a defensive standpoint, this rudder has a 30% chance every 20s to evade all attacks for 2 seconds. Limited to one per ship.
  
@@ -26,11 +26,11 @@ This guide for auxiliary equipment is split off from the rest due to the relativ
  - **[Naval Camo]()** and **[Hydraulic Rudder]()** provide the exact same stats boost with no bonus skill effect, with a focus on boosting evasion. Despite their low rarity, they are the strongest evasion-focused auxiliary equips after the improved rudder and beaver badge and are not limited per ship.
 
 **Specialty Auxiliaries**<br/>
-[![Fire Extinguisher](/resources/)]()
-[![Anti-Air Radar](/resources/)]()
-[![Repair Crane](/resources/)]()
-[![Torpedo Bulge](/resources/)]()
-[![Pearl Tears](/resources/)]()
+[![Fire Extinguisher](/resources/fire%20extinguisher%20no_gr.png)]()
+[![Anti-Air Radar](/resources/anti-air%20radar%20no_gr.png)]()
+[![Repair Crane](/resources/repair%20crane%20no_gr.png)]()
+[![Torpedo Bulge](/resources/torpedo%20bulge%20no_gr.png)]()
+[![Pearl Tears](/resources/pearl%20tears%20no_gr.png)]()
 
  - **[Fire Extinguisher]()** provides a moderate boost to HP and reduces the chances of a ship catching fire, reduces damage received when on fire, and reduces the duration of burn effects.
  
@@ -44,9 +44,9 @@ This guide for auxiliary equipment is split off from the rest due to the relativ
 
 ## Offensive Auxiliary Equipment
 **Vanguard Auxiliaries**<br/>
-[![Oxytorp](/resources/)]()
-[![Autoloader](/resources/)]()
-[![FCR](/resources/)]()
+[![Oxytorp](/resources/oxytorp%20no_gr.png)]()
+[![Autoloader](/resources/autoloader%20no_gr.png)]()
+[![FCR](/resources/fcr%20no_gr.png)]()
 
  - **[Type 95 Oxygen Torpedo]()** has a very high torpedo boost with a moderate reload boost. For most ships equipped with torpedoes, it will provide a higher DPM boost than any other aux. However, as this is reliant on your torpedoes actively hitting targets, other auxiliaries may provide a superior effective DPM boost.
  
@@ -55,11 +55,11 @@ This guide for auxiliary equipment is split off from the rest due to the relativ
  - **[Fire Control Radar]()** provides moderate boosts to firepower and accuracy. Of the vanguard units, it can only be equipped to heavy cruisers. It generally pulls ahead of the reloader if the accuracy boost is valuable or if the equipped ship has strong firepower boosts.
 
 **Gunnery Main Fleet Auxiliaries**<br/>
-[![T1 Shell](/resources/)]()
-[![SH Shell](/resources/)]()
-[![HPFCR](/resources/)]()
-[![T98 FDD](/resources/)]()
-[![T91 Shell](/resources/)]()
+[![T1 Shell](/resources/t1%20shell%20no_gr.png)]()
+[![SH Shell](/resources/sh%20shell%20no_gr.png)]()
+[![HPFCR](/resources/hpfcr%20no_gr.png)]()
+[![T98 FDD](/resources/t98%20fdd%20no_gr.png)]()
+[![T91 Shell](/resources/t91%20shell%20no_gr.png)]()
 
  - **[Type 1 Armour-Piercing Shell]()** provides a high firepower boost and mild accuracy boost. Additionally, it increases shelling critical damage. The accuracy boost gives it a strong advantage over other firepower-boosting auxiliaries.
  
@@ -74,9 +74,9 @@ This guide for auxiliary equipment is split off from the rest due to the relativ
  - **[Automated Reloader]()** and **[Fire Control Radar]()** can be used as budget alternatives to the auxiliaries listed above and are more easily repurposed than the T91 AP shell thanks to their ability to be equipped to vanguard ships.
 
 **Aviation Auxiliaries**<br/>
-[![Catapult](/resources/)]()
-[![Homing Beacon](/resources/)]()
-[![AV Gas](/resources/)]()
+[![Catapult](/resources/catapult%20no_gr.png)]()
+[![Homing Beacon](/resources/homing%20beacon%20no_gr.png)]()
+[![AV Gas](/resources/av%20gas%20no_gr.png)]()
 
  - **[Steam Catapult]()** provides the highest raw aviation boost and a minor HP boost.
  
@@ -86,9 +86,9 @@ This guide for auxiliary equipment is split off from the rest due to the relativ
 
 ## Miscellaneous Auxiliary Equipment
 **Accuracy Boosting Auxiliaries**<br/>
-[![SG Radar](/resources/)]()
-[![RWG](/resources/)]()
-[![T94 Director](/resources/)]()
+[![SG Radar](/resources/sg%20radar%20no_gr.png)]()
+[![RWG](/resources/rwg%20no_gr.png)]()
+[![T94 Director](/resources/t94%20director%20no_gr.png)]()
 
  - **[SG Radar]()** is a core auxiliary equip for any fleet. It has a split of evasion and accuracy making it the only true hybrid offensive/defensive aux. More importantly, the SG radar improves your chances of evading ambushes; does not stack with the high-performance AA radar (see above). While slightly weaker than the naval camo in terms of raw eHP, the accuracy boost and ambush evasion make SG radars a generally more useful aux.
  
@@ -97,23 +97,23 @@ This guide for auxiliary equipment is split off from the rest due to the relativ
  - **[Type 94 High-Angle Director]()** has a moderate boost to anti-air and a mild boost to accuracy. Generally not useful as a more dedicated piece of equipment will provide a far more potent boost to either of those stats while also bringing a bonus skill effect.
 
 **Speed Boosting Auxiliaries**<br/>
-[![Gyroscope](/resources/)]()
-[![Boiler](/resources/)]()
+[![Gyroscope](/resources/gyroscope%20no_gr.png)]()
+[![Boiler](/resources/boiler%20no_gr.png)]()
 
  - **[Gyroscope]()** and **[Improved Boiler]()** both provide a movement speed boost, with the gyroscope providing a high accuracy boost and the boiler providing a minor HP boost. In general, the ships that would value the speed boost will value the accuracy boost of the gyroscope over the boiler's HP boost.
 
 **Submarine Auxiliaries**<br/>
-[![Snorkel](/resources/)]()
-[![Battery](/resources/)]()
+[![Snorkel](/resources/snorkel%20no_gr.png)]()
+[![Battery](/resources/battery%20no_gr.png)]()
 
  - **[Improved Snorkel]()** boosts the O2 stat of the equipped submarine, increasing the amount of time they can stay submerged. While not directly offensive, it enables certain submarines to fire off an extra volley with their equipped torpedoes, which provides a greater increase in damage than the large torpedo stat boost of an oxytorp. Only one oxygen-increasing aux can be equipped per submarine.
  
  - **[Improved Storage Battery]()** provides a mild evasion boost and increases a submarine's hunting range by up to 2 levels. Only functions when equipped to the submarine fleet flagship. As meowficers can provide the same increase in hunting range while also boosting stats and not coming with the opportunity cost of occupying an aux slot, the battery is generally not worth investing in.
 
 **Ship-Specific Auxiliaries**<br/>
-[![Z Flag](/resources/)]()
-[![Promise](/resources/)]()
-[![Cat Punch](/resources/)]()
+[![Z Flag](/resources/z%20flag%20no_gr.png)]()
+[![Promise](/resources/promise%20no_gr.png)]()
+[![Cat Punch](/resources/cat%20punch%20no_gr.png)]()
 
  - **[Z Flag]()** when equipped to Mikasa, provides similar stats to an SG radar, but trades the ambush evasion bonus for a fleet-wide firepower and accuracy boost.
  
