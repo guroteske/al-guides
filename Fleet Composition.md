@@ -45,6 +45,3 @@ Given the nature of hardmode locks, there are going to be times where you're for
 
 There's also a certain carrier who can equip auxiliary guns, has an actual firepower stat to bolster that gun's damage, and has a self-centered shelling barrage: Zeppy. While more of a cute gimmick than a necessarily good choice, the chibified Graf Zeppelin is capable of performing as a solo backline unit where other carriers cannot.
 
-#### Basic Duo Backlines
-
-**
