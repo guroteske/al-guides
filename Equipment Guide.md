@@ -59,14 +59,14 @@ This guide is meant to serve as both an in-depth guide to end-game equipment and
  
  ## Light Cruiser (CL) Guns
 **General Primaries** <br/>
-[![pr152mm Triple HE](/resources/pr152mm%20triple%20he%20gr_s%20TENTATIVE.png)](https://azurlane.koumakan.jp/Triple_152mm_(Mark_17_Dual-Purpose_Prototype))
+[![pr152mm Triple HE](/resources/pr152mm%20triple%20he%20gr_s.png)](https://azurlane.koumakan.jp/Triple_152mm_(Mark_17_Dual-Purpose_Prototype))
 [![pr152mm Triple AP](/resources/pr152mm%20triple%20ap%20gr_s.png)](https://azurlane.koumakan.jp/Triple_152mm_Prototype_(BL_6%22_Mk_XXV))
 [![150mm Twin TbtsK](/resources/150mm%20twin%20tbtsk%20gr_a.png)](https://azurlane.koumakan.jp/Twin_150mm_(TbtsK_C/36))
 [![150mm Single SKC](/resources/150mm%20single%20skc%20gr_b.png)]()
 [![155mm Triple](/resources/155mm%20triple%20gr_b.png)](https://azurlane.koumakan.jp/Triple_155mm_(3rd_Year_Type))
 
  - For any vanguard ship that can choose between equipping a DD or CL gun, always equip them with a DD gun. Light caliber guns have higher base dpm, and their faster fire rate leads to faster barrages and/or skill procs.
- - **[Prototype 152mm Triple DP Mk17](https://azurlane.koumakan.jp/Triple_152mm_(Mark_17_Dual-Purpose_Prototype))** addresses the primary issue holding back HE light cruiser guns: their wide spread. The Dual-Purpose Mk17 has damage stats that, on paper, give it theoretical DPM comparable to the next strongest HE gun, but with ballistic characteristics more in-line with the AP guns that should allow it to actually reach its theoretical DPM in practice. True to its name, it also provides a split between boosting firepower and anti-air, making it the only CL gun to do so.
+ - **[Prototype 152mm Triple DP Mk17](https://azurlane.koumakan.jp/Triple_152mm_(Mark_17_Dual-Purpose_Prototype))** addresses the primary issue holding back HE light cruiser guns: their wide spread. The Dual-Purpose Mk17 has damage stats that give it theoretical DPM comparable to the next strongest HE gun, but with ballistic characteristics more in-line with the AP guns that allow it to actually reach its theoretical DPM in practice. True to its name, it also provides a split between boosting firepower and anti-air, making it the only CL gun to do so.
  - **[Prototype 152mm Triple BL Mark XXV](https://azurlane.koumakan.jp/Triple_152mm_Prototype_(BL_6%22_Mk_XXV))** is the strongest AP CL gun. It has an incredibly fast fire rate, the longest range of any CL gun, high base damage. However, its relatively wide spread for an AP gun may give it negligible accuracy issues at exceptionally long ranges.
  - **[150mm Twin TbtsK C/36](https://azurlane.koumakan.jp/Twin_150mm_(TbtsK_C/36))** may not look impressive on paper, with low base damage compared to most alternatives. However, it has a hyper-accurate firing pattern and is one of the only CL guns in the game capable of actually dealing its theoretical DPM, and that's without accounting for AP shells' penetration capabilities.
  - **[150 Single SK C/28]()** is the fastest firing CL gun, and sees use on light cruisers who have exceptionally strong barrages.
@@ -77,14 +77,14 @@ This guide is meant to serve as both an in-depth guide to end-game equipment and
 [![152mm Triple HE](/resources/152mm%20triple%20he%20gr_s.png)](https://azurlane.koumakan.jp/Triple_152mm_(6%22/47_Mk_16))
 [![155mm Triple](/resources/155mm%20triple%20gr_s.png)](https://azurlane.koumakan.jp/Triple_155mm_(3rd_Year_Type))
 [![152mm Twin AP](/resources/152mm%20twin%20ap%20gr_a.png)](https://azurlane.koumakan.jp/Twin_152mm_(BL_6%22_Mk_XXII))
-[![pr152mm Triple HE](/resources/pr152mm%20triple%20he%20gr_a%20TENTATIVE.png)](https://azurlane.koumakan.jp/Triple_152mm_(Mark_17_Dual-Purpose_Prototype))
+[![pr152mm Triple HE](/resources/pr152mm%20triple%20he%20gr_a.png)](https://azurlane.koumakan.jp/Triple_152mm_(Mark_17_Dual-Purpose_Prototype))
 [![150mm Twin TbtsK](/resources/150mm%20twin%20tbtsk%20gr_b.png)](https://azurlane.koumakan.jp/Twin_150mm_(TbtsK_C/36))
 
  - **[Prototype 152mm Triple BL Mark XXV](https://azurlane.koumakan.jp/Triple_152mm_Prototype_(BL_6%22_Mk_XXV))** has the longest range of any CL gun, coupled with a high firepower bonus, making it the best auxiliary gun for general-use. However, it has a random pattern, which can potentially cause issues with interception. Similarly, its exceptionally long range also means it has a high likelihood of being on cooldown from firing at production types, further impacting its interception capabilities.
  - **[152mm Triple Mk16](https://azurlane.koumakan.jp/Triple_152mm_(6%22/47_Mk_16))** is exceptional at interception thanks to its high damage per shell, wide spread, and zero second volley time.
  - **[155mm Triple](https://azurlane.koumakan.jp/Triple_155mm_(3rd_Year_Type))** is relatively weak at interception, thanks to its short range, non-zero volley time, and low shell density. However, it's a very accessible gun with a high firepower boost, making it a useful gun in any situation where interception is non-concern, or the gun itself is capable of handling any incoming threats.
  - **[152mm Twin BL Mark XXII](https://azurlane.koumakan.jp/Twin_152mm_(BL_6%22_Mk_XXII))** has comparable interception capabilities to the 152mm Mk16, but it trades raw volume of fire for AP shells, and is useful in certain situations where the penetration capabilities of AP shells is desirable.
- - **[Prototype 152mm Triple DP Mk17](https://azurlane.koumakan.jp/Triple_152mm_(Mark_17_Dual-Purpose_Prototype))** gives a split of anti-air and firepower. Similar to the 155mm, it has a non-zero volley time, which impacts its interception capabilities, but it has a longer range, improving its reaction times, and its tighter spread increases its bullet density. Given its rarity and relatively weak intercpetion, it's not the most useful choice for an aux gun, but it is also the only CL gun that provides a boost to anti-air.
+ - **[Prototype 152mm Triple DP Mk17](https://azurlane.koumakan.jp/Triple_152mm_(Mark_17_Dual-Purpose_Prototype))** gives a split of anti-air and firepower. Similar to the 155mm, it has a non-zero volley time, which impacts its interception capabilities, but it has a longer range, improving its reaction times, and its tighter spread increases its bullet density. Given its rarity and relatively weak interception, it's not the most useful choice for an aux gun, but it is also the only CL gun that provides a boost to anti-air.
  - **[150mm Twin TbtsK C/36](https://azurlane.koumakan.jp/Twin_150mm_(TbtsK_C/36))** has a few advantages for interception in specific niche scenarios, but is generally poorly suited for general use. Its hyper-accurate firing pattern allows a ship to pump more concentrated damage into a single target than any other available aux gun. Additionally, its AP shells can penetrate, allowing it to deal with certain patterns of suicide boats that other, non-AP guns might struggle with.
 
 ## Heavy Cruiser (CA) Guns
@@ -127,11 +127,11 @@ This guide is meant to serve as both an in-depth guide to end-game equipment and
  - **[406mm Triple BL MkI](https://azurlane.koumakan.jp/Triple_406mm_(BL_16%22_Mk_I))** is nearly identical to the Mk6, but fires normal shells. Similar to the prototype 410mm, this makes it a poor choice for general use. However, its increased firepower bonus allows it to pull ahead of the Mk6 when equipped to battleships that ignore shell types, such as Massachusetts.
 
 **18-20s** <br/>
-[![pr406mm Twin SKC](/resources/pr406mm%20twin%20skc%20gr_s%20TENTATIVE.png)](https://azurlane.koumakan.jp/Twin_406mm_(L/52_Drh_LC/34_Prototype))
+[![pr406mm Twin SKC](/resources/pr406mm%20twin%20skc%20gr_s.png)](https://azurlane.koumakan.jp/Twin_406mm_(L/52_Drh_LC/34_Prototype))
 [![pr457mm Twin](/resources/pr457mm%20twin%20gr_a%20TENTATIVE.png)](https://azurlane.koumakan.jp/Twin_457mm_(Mark_A_Prototype))
 [![410mm Twin](/resources/410mm%20twin%20gr_a.png)](https://azurlane.koumakan.jp/Twin_410mm_(3rd_Year_Type))
 
- - **[Prototype 406mm Twin Drh LC/34](https://azurlane.koumakan.jp/Twin_406mm_(L/52_Drh_LC/34_Prototype))** shoots HE shells, uncharacteristic for an Ironblood gun. It has the highest damage per shell of any HE BB gun, meaning it will inflict the most damaging burn effects on enemies, while having a near optimal firing timer in order to maximise burn uptime. It will perform well on battleships with exceptionally high gun efficiencies in order to best take advantage of this burn damage, on battleships who have both strong shelling output and a strong proc-on-fire ability, or battleships with a relatively weak proc-on-fire ability that still provides a source of additional, incidental secondary damage.
+ - **[Prototype 406mm Twin Drh LC/34](https://azurlane.koumakan.jp/Twin_406mm_(L/52_Drh_LC/34_Prototype))** shoots HE shells, uncharacteristic for an Ironblood gun. It has the highest damage per shell of any HE BB gun, meaning it inflicts the most damaging burn effects on enemies, while having a near optimal firing timer in order to maximise burn uptime. It performs well on battleships with exceptionally high gun efficiencies in order to best take advantage of this burn damage, on battleships who have both strong shelling output and a strong proc-on-fire ability, or battleships with a relatively weak proc-on-fire ability that still provides a source of additional, incidental secondary damage.
  - **[Prototype 457mm Twin Mk A](https://azurlane.koumakan.jp/Twin_457mm_(Mark_A_Prototype))** sports an impressive base damage per shell in excess of 200, more than 30% higher than the next strongest damage-focused guns including the Mk6, while also having a higher firepower bonus than any other gun in the game. While its prototype AP shells deal increased damage against all targets compared to other AP guns, they still limit its general usefulness. In a vacuum, this gun should be the absolute strongest AP gun, but falling within the firing band it does means battleships equipped with this gun may struggle to take advantage of damage buffs and debuffs granted by other ships in the fleet, allowing a slower gun to pull ahead in damage.
  - **[410mm Twin](https://azurlane.koumakan.jp/Twin_410mm_(3rd_Year_Type))** is a more readily accessible alternative to the 406mm Drh LC/34. Nearly identical attributes, but a lower firepower bonus thanks to its purple rarity and a negligibly slower fire rate.
 
@@ -176,24 +176,25 @@ This guide is meant to serve as both an in-depth guide to end-game equipment and
 **Fighters** <br/>
 [![F4U Corsair (VF-17)](/resources/f4u%20corsair%20vf-17%20gr_s.png)](https://azurlane.koumakan.jp/F4U_Corsair_(VF-17_Squadron))
 [![F6F Hellcat](/resources/f6f%20hellcat%20gr_s.png)](https://azurlane.koumakan.jp/F6F_Hellcat)
-[![Reppuu](/resources/reppuu%20gr_s.png)](https://azurlane.koumakan.jp/A7M_Reppuu)
+[![Sea Fury](/resources/sea%20fury%20gr_s.png)](https://azurlane.koumakan.jp/Sea_Fury)
+[![Reppuu](/resources/reppuu%20gr_a.png)](https://azurlane.koumakan.jp/A7M_Reppuu)
 [![Seafang](/resources/seafang%20gr_a.png)](https://azurlane.koumakan.jp/Supermarine_Seafang)
-[![Sea Fury](/resources/sea%20fury%20gr_a.png)](https://azurlane.koumakan.jp/Sea_Fury)
 [![Me-155](/resources/me-155%20gr_b.png)](https://azurlane.koumakan.jp/Messerschmitt_Me-155A)
 [![Zero M52](/resources/zero%20m52%20gr_b.png)](https://azurlane.koumakan.jp/A6M5_Zero)
 
  - For fighters, the damage stat displayed in-game is the anti-air damage dealt by the fighter's equipped guns and is not indicative of the amount of surface damage it will deal. For that, you will need to look at a given plane's loadout to see what bombs, if any, it is equipped with. For general use, fighter-bombers are preferred due to their ability to contribute surface damage to the fight, and the strongest payload for any fighter is 2x 500lb bombs.
  - **[F4U Corsair (VF-17 Squadron)](https://azurlane.koumakan.jp/F4U_Corsair_(VF-17_Squadron))** is the fastest fighter-bomber, and has unique bombs with slightly increased base damage. It has relatively weak anti-air guns, but gives a fleet-wide anti-air boost upon airstrike launch.
  - **[F6F Hellcat](https://azurlane.koumakan.jp/F6F_Hellcat)** has the strongest interception capabilities of any fighter-bomber. While it is relatively slow to launch, the difference between it and other fighters with the same payload is relatively small and unlikely to have any real impact, making it the strongest general-use fighter.
- - **[A7M Reppuu](https://azurlane.koumakan.jp/A7M_Reppuu)** is the fastest permanently available fighter-bomber, both in its reload speed and flight speed. Its fast speed allows it to bait out enemy anti-air fire in PVP which, coupled with its high kamikaze damage, makes it an ideal fighter for PVP usage.
- - **[Supermarine Seafang](https://azurlane.koumakan.jp/Supermarine_Seafang)** and **[Hawker Sea Fury](https://azurlane.koumakan.jp/Sea_Fury)** are the last gold rarity fighters with the 2x 500lb payload. While they're more than strong enough for general use, they fall behind the other listed planes in some respect, making them weaker overall.
+ - **[Hawker Sea Fury](https://azurlane.koumakan.jp/Sea_Fury)** has comparable interception to the Hellcat and reloads slightly faster. Its autocannons have a more narrow firing angle and longer reload speed than the Hellcat's machine guns, but deal slightly increased burst damage.
+ - **[A7M Reppuu](https://azurlane.koumakan.jp/A7M_Reppuu)** is the fastest permanently available fighter-bomber, both in its reload speed and flight speed. While its bomb loadout makes it perfectly serviceable for PVE, it has certain characteristics that make it predominantly worth using in PVP: its fast speed allows it to bait out enemy anti-air fire, and it deals high kamikaze damage.
+ - **[Supermarine Seafang](https://azurlane.koumakan.jp/Supermarine_Seafang)** is the last gold rarity fighter with the 2x 500lb payload. While it's more than strong enough for general use, it falls behind the other listed planes in certain respects, making it weaker overall. Worth upgrading if lacking other gold rarity fighters.
  - **[Me-155a](https://azurlane.koumakan.jp/Messerschmitt_Me-155A)** has no bombs and therefore deals no surface, but is the second fastest fighter overall, the fastest gold rarity fighter, and has superior anti-air guns to the Hellcat. Potentially worth using when fighting enemies with heavy aviation presence, especially on carriers with weak fighter slots, but ill-advised on carriers with strong fighter slots who will generally benefit more from a fighter-bomber.
  - **[Zero Fighter Model 52](https://azurlane.koumakan.jp/A6M5_Zero)** is a relatively fast fighter that still deals some damage, although its 2x 100lb payload has slightly under half the base damage of a 2x 500lb payload and a significantly smaller blast radius. Mostly used for very specific reload tuning setups.
 
 **Dive Bombers** <br/>
 [![SB2C Helldiver](/resources/sb2c%20helldiver%20gr_s.png)](https://azurlane.koumakan.jp/SB2C_Helldiver)
 [![Ju-87c](/resources/ju-87c%20gr_a.png)](https://azurlane.koumakan.jp/Junkers_Ju-87C)
-[![Suisei](/resources/suisei%20gr_b.png)](https://azurlane.koumakan.jp/D4Y_Suisei)
+[![Suisei](/resources/suisei%20gr_a.png)](https://azurlane.koumakan.jp/D4Y_Suisei)
 [![Firefly](/resources/firefly%20gr_b.png)](https://azurlane.koumakan.jp/Fairey_Firefly)
 
  - Bomb damage does not scale linearly with payload weight, and larger bombs only provide a small increase in damage. As such, quantity of bombs is generally preferred to quality of bombs. Additionally, the damage stat shown in-game for any given dive bomber is a meaningless, arbitrary number that is in no way related to the bomber's actual performance.
@@ -204,15 +205,17 @@ This guide is meant to serve as both an in-depth guide to end-game equipment and
 
 **Torpedo Bombers** <br/>
 [![Ryuusei](/resources/ryuusei%20gr_s.png)](https://azurlane.koumakan.jp/Aichi_B7A_Ryuusei)
+[![Swordfish (818)](/resources/swordfish%20818%20gr_s.png)](https://azurlane.koumakan.jp/Fairey_Swordfish_(818_Squadron))
 [![Torpedo Squadron 8](/resources/vt-8%20gr_s.png)](https://azurlane.koumakan.jp/Torpedo_Squadron_8_(VT-8))
-[![Barracuda](/resources/barracuda%20gr_s.png)](https://azurlane.koumakan.jp/Fairey_Barracuda)
-[![Swordfish (818)](/resources/swordfish%20818%20gr_a.png)](https://azurlane.koumakan.jp/Fairey_Swordfish_(818_Squadron))
+[![Tenzan](/resources/tenzan%20gr_a.png)](https://azurlane.koumakan.jp/Nakajima_B6N_Tenzan)
+[![Barracuda](/resources/barracuda%20gr_a.png)](https://azurlane.koumakan.jp/Fairey_Barracuda)
 [![Firebrand](/resources/firebrand%20gr_a.png)](https://azurlane.koumakan.jp/Blackburn_Firebrand)
 
  - **[B7A Ryuusei](https://azurlane.koumakan.jp/Aichi_B7A_Ryuusei)** launches torpedoes that converge on a point rather than in a parallel spread. While typically used for its superior damage capabilities against bosses where all torpedoes will hit the target, Ryuusei can be a strong general use torpedo bomber. If it misses its intended target, the torpedoes will fan out, similar to a torpedo volley launched by surface ships, and are still capable of hitting auxiliary targets.
+ - **[Fairey Swordfish (818 Squadron)](https://azurlane.koumakan.jp/Fairey_Swordfish_(818_Squadron))** trades some of the Barracuda's damage for the ability to slow enemies hit by its torpedoes. While weaker than a Barracuda if your fleet is incapable of capitalising on the slow-down effect, the utility it provides can be incredibly powerful when paired with battleships. Predominantly used against bosses that move too fast for a Ryuusei to be reliable.
  - **[Torpedo Squadron 8](https://azurlane.koumakan.jp/Torpedo_Squadron_8_(VT-8))** is a very unique piece of equipment. It launches incredibly weak TBD Devastators for the first airstrike of its equipped carrier. However, for every subsequent airstrike, the Devastators are replaced with TBF Avengers which have the highest base damage of any parallel torpedo bomber.
- - **[Fairey Barracuda](https://azurlane.koumakan.jp/Fairey_Barracuda)** has the fastest reload speed of any torpedo bomber. While its torpedoes have higher damage per torpedo than a Ryuusei, it will rarely land all of its torpedoes on a given target. Despite this, Barracudas are still a strong general use torpedo bomber, especially on carriers with weak torpedo bombers.
- - **[Fairey Swordfish (818 Squadron)](https://azurlane.koumakan.jp/Fairey_Swordfish_(818_Squadron))** trades some of the Barracuda's damage for the ability to slow enemies hit by its torpedoes. While weaker than a Barracuda if your fleet is incapable of capitalising on the slow-down effect, the utility it provides can be incredibly powerful when paired with battleships or another carrier equipped with a Ryuusei.
+ - **[B6N Tenzan](https://azurlane.koumakan.jp/Nakajima_B6N_Tenzan)** is a weaker, but more accessible alternative to the Ryuusei.
+ - **[Fairey Barracuda](https://azurlane.koumakan.jp/Fairey_Barracuda)** has the fastest reload speed of any torpedo bomber. While its torpedoes have higher damage per torpedo than a Ryuusei, it will rarely land all of its torpedoes on a given target. Predominantly used for trash clearing, especially on carriers with weak torpedo bombers.
  - **[Blackburn Firebrand](https://azurlane.koumakan.jp/Blackburn_Firebrand)** has the same damage output as the Barracuda, but with a slower reload speed. Similar to the Firefly dive bomber however, it's equipped with fighter anti-air guns and is capable of dealing massive damage to enemy planes after launching an airstike.
 
 ## Anti-Air (AA) Guns
@@ -234,7 +237,7 @@ This guide is meant to serve as both an in-depth guide to end-game equipment and
 [![40mm Twin Bofors STAAG](/resources/40mm%20twin%20bofors%20staag%20gr_s.png)](https://azurlane.koumakan.jp/Twin_40mm_Bofors_STAAG_Mk_II)
 [![40mm Twin Bofors T98](/resources/40mm%20twin%20bofors%20t98%20gr_s%20TENTATIVE.png)](https://azurlane.koumakan.jp/Twin_40mm_Bofors_High-Angle_Type_98)
 [![40mm Twin Bofors Hazemeyer](/resources/40mm%20twin%20bofors%20hazemeyer%20gr_a.png)](https://azurlane.koumakan.jp/Twin_40mm_Bofors_Hazemeyer_Mount_Mk_IV)
-[![37mm Twin ACAD](/resources/37mm%20twin%20acad%20gr_a%20TENTATIVE.png)](https://azurlane.koumakan.jp/Twin_37mm_ACAD_Mle_1936)
+[![37mm Twin ACAD](/resources/37mm%20twin%20acad%20gr_a.png)](https://azurlane.koumakan.jp/Twin_37mm_ACAD_Mle_1936)
 [![20mm Twin Oerlikon](/resources/20mm%20twin%20oerlikon%20gr_b.png)](https://azurlane.koumakan.jp/Twin_20mm_AA_Oerlikon)
 [![25mm Triple T96](/resources/25mm%20triple%20gr_b.png)](https://azurlane.koumakan.jp/Triple_25mm_AA_Type_96)
 

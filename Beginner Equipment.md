@@ -6,7 +6,16 @@
 
 ## Basic Concepts
 ### Very Important, Please Read:
-While an understanding of these concepts is not truly necessary to play or enjoy the game, they are important if you wish to understand why certain guns are superior to others, especially when a more surface-level examination would not imply such. If you wish to skip this section, at least read the portion that covers tech level. More than anything else, an understanding of tech level will aid you in making informed decisions about what equipment is worth using.
+While an understanding of these concepts is not truly necessary to play or enjoy the game, they are important if you wish to understand why certain guns are superior to others, especially when a more surface-level examination would not imply such. If you wish to skip this section, at least read the first two sections that cover why equipment is more important than ship selection and tech level. More than anything else, an understanding of tech level will aid you in making informed decisions about what equipment is worth using.
+
+### Why Equipment?
+I've seen many newer players hit a wall and struggle with content, and they'll ask 'What ships should I replace?' Many times, they are using ships generally considered weak and they do have superior options that they could tag in. But what do you do when that player is already using strong ships; when that player replaces their ships but still struggles; when that player is so grossly overleveled they're gaining the maximum damage boost from level advantage?
+
+Invariably, the problem is equipment. Especially for a player who might come from another game where equipment selection is a more secondary concern, or perhaps even non-existent, it's easy to not realise how incredibly impactful equipment selection is. What ultimately sets ships apart in the late-game is their skillset more than anything else per se, and a newer player is most likely running ships still at skill level 1. When stripped of their skills, all that sets ships apart is their equipment and their statline, which only serves to enhance the equipment you give them.
+
+Another piece of advice I see frequently given to new players is just to overlevel your ships and rely on level advantage. While this will technically work, and work for quite awhile, it will stop working at some point. My goal as a guide creator is to grant players the knowledge necessary to make informed decisions on their own and rely on tactics that will always remain effective. If you learn how to fight at level parity early on, you will always be capable of fighting at level parity.
+
+If you only take one piece of advice away from this guide it should be this: always upgrade your damn equipment.
 
 ### Tech Level
 Perhaps one of the least obvious concepts for a newer player, tech level is also one of the most important when it comes to choosing what equipment to use. Tech level can be viewed in the upper right corner of an equipment's stat card. For most equipment in the game, tech level ranges from T1 to T3, with a higher tech level version of a piece of equipment being stronger in every aspect and one rarity higher. Tech level 0 also exists and is functionally identical to tech 3, except that tech 0 equipment is unique and has no lower-rarity variant.
@@ -173,8 +182,8 @@ Because blue equipment requires such a small number of blueprints to craft, farm
 
 #### 4-2
 - **Useful Equipment:** 152mm Triple, 120mm Twin, 40mm Quad Pom-Pom, 203mm Mounted, 150mm Twin TbtsK
-- **Useful Ships:** Starter Collection, Shiranui
-- As with 3-2, every single equipment drop from here is useful. All five drops are T3 and only the pom-pom has a readily accessible replacement. Shiranui, similar to Shouhou, is a low-rarity ship that only drops in chapter 4. While she's not as universally useful as Shouhou, she's still an incredibly capable ship you should keep an eye out for while farming.
+- **Useful Ships:** Starter Collection, Shiranui, London
+- As with 3-2, every single equipment drop from here is useful. All five drops are T3 and only the pom-pom has a readily accessible replacement. Shiranui, similar to Shouhou, is a low-rarity ship that only drops in chapter 4. While she's not as universally useful as Shouhou, she's still an incredibly capable ship you should keep an eye out for while farming. London, meanwhile, while less generally useful without her remodel than some of the other early-game farmable ships like Shouhou and Shiranui, becomes incredibly strong with her remodel, and is worth keeping an eye out for and investing in.
 
 #### Chapter 5 and why you should not farm here
 While chapter 5 is the first map that drops gold equipment blueprints, and that can seem tempting at first, chapter 5 is a terribly inefficient spot to farm. Gold blueprints require more copies to craft their respective piece of gear than purple equipment, while only dropping from the boss node, unlike purple blueprints which drop from all nodes. Additionally, T3 upgrade plates, which are required to upgrade equipment past +6, only start to drop starting in chapter 6. It will take an exceptionally long amount of time to actually acquire enough blueprints from a chapter 5 map to craft a piece of equipment, all the while you're not receiving T3 upgrade plates. If your fleets are capable of clearing the chapter 5 maps, your fleets are capable of starting to farm in chapter 6. If you're struggling in chapter 5, you'd be better off dropping back down to 4-2 to farm strong purple equipment instead.
