@@ -205,15 +205,17 @@ This guide is meant to serve as both an in-depth guide to end-game equipment and
 
 **Torpedo Bombers** <br/>
 [![Ryuusei](/resources/ryuusei%20gr_s.png)](https://azurlane.koumakan.jp/Aichi_B7A_Ryuusei)
+[![Swordfish (818)](/resources/swordfish%20818%20gr_s.png)](https://azurlane.koumakan.jp/Fairey_Swordfish_(818_Squadron))
 [![Torpedo Squadron 8](/resources/vt-8%20gr_s.png)](https://azurlane.koumakan.jp/Torpedo_Squadron_8_(VT-8))
-[![Barracuda](/resources/barracuda%20gr_s.png)](https://azurlane.koumakan.jp/Fairey_Barracuda)
-[![Swordfish (818)](/resources/swordfish%20818%20gr_a.png)](https://azurlane.koumakan.jp/Fairey_Swordfish_(818_Squadron))
+[![Tenzan](/resources/tenzan%20gr_a.png)](https://azurlane.koumakan.jp/Nakajima_B6N_Tenzan)
+[![Barracuda](/resources/barracuda%20gr_a.png)](https://azurlane.koumakan.jp/Fairey_Barracuda)
 [![Firebrand](/resources/firebrand%20gr_a.png)](https://azurlane.koumakan.jp/Blackburn_Firebrand)
 
  - **[B7A Ryuusei](https://azurlane.koumakan.jp/Aichi_B7A_Ryuusei)** launches torpedoes that converge on a point rather than in a parallel spread. While typically used for its superior damage capabilities against bosses where all torpedoes will hit the target, Ryuusei can be a strong general use torpedo bomber. If it misses its intended target, the torpedoes will fan out, similar to a torpedo volley launched by surface ships, and are still capable of hitting auxiliary targets.
+ - **[Fairey Swordfish (818 Squadron)](https://azurlane.koumakan.jp/Fairey_Swordfish_(818_Squadron))** trades some of the Barracuda's damage for the ability to slow enemies hit by its torpedoes. While weaker than a Barracuda if your fleet is incapable of capitalising on the slow-down effect, the utility it provides can be incredibly powerful when paired with battleships. Predominantly used against bosses that move too fast for a Ryuusei to be reliable.
  - **[Torpedo Squadron 8](https://azurlane.koumakan.jp/Torpedo_Squadron_8_(VT-8))** is a very unique piece of equipment. It launches incredibly weak TBD Devastators for the first airstrike of its equipped carrier. However, for every subsequent airstrike, the Devastators are replaced with TBF Avengers which have the highest base damage of any parallel torpedo bomber.
- - **[Fairey Barracuda](https://azurlane.koumakan.jp/Fairey_Barracuda)** has the fastest reload speed of any torpedo bomber. While its torpedoes have higher damage per torpedo than a Ryuusei, it will rarely land all of its torpedoes on a given target. Despite this, Barracudas are still a strong general use torpedo bomber, especially on carriers with weak torpedo bombers.
- - **[Fairey Swordfish (818 Squadron)](https://azurlane.koumakan.jp/Fairey_Swordfish_(818_Squadron))** trades some of the Barracuda's damage for the ability to slow enemies hit by its torpedoes. While weaker than a Barracuda if your fleet is incapable of capitalising on the slow-down effect, the utility it provides can be incredibly powerful when paired with battleships or another carrier equipped with a Ryuusei.
+ - **[B6N Tenzan](https://azurlane.koumakan.jp/Nakajima_B6N_Tenzan)** is a weaker, but more accessible alternative to the Ryuusei.
+ - **[Fairey Barracuda](https://azurlane.koumakan.jp/Fairey_Barracuda)** has the fastest reload speed of any torpedo bomber. While its torpedoes have higher damage per torpedo than a Ryuusei, it will rarely land all of its torpedoes on a given target. Predominantly used for trash clearing, especially on carriers with weak torpedo bombers.
  - **[Blackburn Firebrand](https://azurlane.koumakan.jp/Blackburn_Firebrand)** has the same damage output as the Barracuda, but with a slower reload speed. Similar to the Firefly dive bomber however, it's equipped with fighter anti-air guns and is capable of dealing massive damage to enemy planes after launching an airstike.
 
 ## Anti-Air (AA) Guns
