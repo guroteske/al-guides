@@ -91,15 +91,17 @@ This guide is meant to serve as both an in-depth guide to end-game equipment and
  - Unlike other vanguard caliber guns where no one ammo type is strictly superior, or if one appears to be superior it's due to characteristics aside from ammo type alone, the armour modifiers on heavy cruiser guns are drastically different enough that you will always want to use HE shells when fighting light armour enemies and AP shells when fighting medium and heavy armour enemies. For clearing fleets, the mixed armour types of the enemies encountered means either ammo type can be viable.
 
 **General Primaries** <br/>
+[![pr203mm Triple SKC](/resources/pr203mm%20triple%20skc%20gr_s.png)](https://azurlane.koumakan.jp/Triple_203mm_Prototype_(SK_C/34))
+[![203mm Twin M1927](/resources/203mm%20m1927%20gr_s.png)](https://azurlane.koumakan.jp/Twin_203mm_(Model_1927))
 [![pr203mm Triple HE](/resources/pr203mm%20triple%20he%20gr_s.png)](https://azurlane.koumakan.jp/Triple_203mm_Prototype_(Mle_1934))
 [![pr203mm Mounted no.3](/resources/pr203mm%20mounted%20no3%20gr_s.png)](https://azurlane.koumakan.jp/Twin_203mm_Prototype_(No._3))
-[![pr203mm Triple SKC](/resources/pr203mm%20triple%20skc%20gr_s.png)](https://azurlane.koumakan.jp/Triple_203mm_Prototype_(SK_C/34))
 [![203mm Mounted](/resources/203mm%20mounted%20gr_a.png)](https://azurlane.koumakan.jp/Twin_203mm_(3rd_Year_Type))
 [![203mm Twin SKC](/resources/203mm%20twin%20skc%20gr_a.png)](https://azurlane.koumakan.jp/Twin_203mm_(SK_C/34))
 
+ - **[Prototype 203mm Triple SK C/34](https://azurlane.koumakan.jp/Triple_203mm_Prototype_(SK_C/34))** is the strongest AP CA gun. While it has a relatively wide spread, its fire rate and damage are so heavily improved over the next best alternative that it's worth using in all scenarios.
+ - **[203mm Twin M1927](https://azurlane.koumakan.jp/Twin_203mm_(Model_1927))** fires special semi-AP shells, which deal increased damage against medium armour and decreased damage against other armour types compared to standard AP shells. While the gun is slightly hampered by its incredibly long reload and animation times, its unique ammo type allows it to pull ahead in terms of damage dealt against medium armour compared to the prototype SK C/34. Additionally, it has a much more accurate firing pattern that can allow it to pull ahead in certain other situations, especially when utilising manual play in order to compensate for the gun's long animation time.
  - **[Prototype 203mm Triple Mle1934](https://azurlane.koumakan.jp/Triple_203mm_Prototype_(Mle_1934))** has the fastest fire rate of any HE CA gun and top-tier damage.
  - **[Prototype 203mm Twin No.3](https://azurlane.koumakan.jp/Twin_203mm_Prototype_(No._3))** sacrifices a small amount of fire rate and damage per volley compared to the Mle1934 for superior target acquisition and volume of fire. It has the potential to pull ahead in certain situations such as when fighting more mobile targets, or in the presence of shielded enemies.
- - **[Prototype 203mm Triple SK C/34](https://azurlane.koumakan.jp/Triple_203mm_Prototype_(SK_C/34))** is the strongest AP CA gun. While it has a relatively wide spread, its fire rate and damage are so heavily improved over the next best alternative that it's worth using in all scenarios.
  - **[203mm Mounted](https://azurlane.koumakan.jp/Twin_203mm_(3rd_Year_Type))** and **[203mm Twin SK C/34](https://azurlane.koumakan.jp/Twin_203mm_(SK_C/34))** are weaker, but more accessible versions of their respective prototype counterparts.
 
 **Miscellaneous Primaries** <br/>
@@ -118,13 +120,17 @@ This guide is meant to serve as both an in-depth guide to end-game equipment and
 [![pr381mm Triple](/resources/pr381mm%20triple%20gr_a.png)](https://azurlane.koumakan.jp/Triple_381mm_Prototype_(BL_15%22_Mk_III))
 [![380mm Quad](/resources/380mm%20quad%20gr_a.png)](https://azurlane.koumakan.jp/Quadruple_380mm_(Mle_1935))
 [![pr410mm Triple](/resources/pr410mm%20triple%20gr_a.png)](https://azurlane.koumakan.jp/Triple_410mm_Prototype_(10th_Year_Type))
+[![381mm M1934](/resources/381mm%20m1934%20gr_b.png)]()
 [![406mm Triple MkI](/resources/406mm%20triple%20mki%20gr_b.png)](https://azurlane.koumakan.jp/Triple_406mm_(BL_16%22_Mk_I))
+[![356mm Quad](/resources/356mm%20quad%20gr_b.png)]()
 
  - **[406mm Triple Mk6](https://azurlane.koumakan.jp/Triple_406mm_(16%22/45_caliber_Mark_6))** has the strongest overall shelling output of any battleship main gun. The de facto standard damage-focused battleship gun.
  - **[Prototype 381mm Triple BL MkIII](https://azurlane.koumakan.jp/Triple_381mm_Prototype_(BL_15%22_Mk_III))** sacrifices some shelling damage compared to the Mk6 for a faster reload speed and higher firepower bonus. Useful on ships who value the firepower boost more than the raw damage output, or for battleships that need to fire before other battleships in order to make use of proc-on-fire buffs, debuffs, or other effects.
  - **[380mm Quad Mle1935](https://azurlane.koumakan.jp/Quadruple_380mm_(Mle_1935))** is the signature gun of Jean Bart and the only gun she uses. Its high alpha damage and volume of fire give it potential use on other ships, especially for clearing fleets, but its non-zero volley time drastically reduces its efficacy against non-stationary bosses.
  - **[Prototype 410mm Triple](https://azurlane.koumakan.jp/Triple_410mm_Prototype_(10th_Year_Type))** has comparable base stats to the Mk6, but fires AP shells. While this reduces its value as a general-use gun, it's a potent gun when fighting bosses with medium or heavy armour.
+ - **[381mm Triple M1934]()***
  - **[406mm Triple BL MkI](https://azurlane.koumakan.jp/Triple_406mm_(BL_16%22_Mk_I))** is nearly identical to the Mk6, but fires normal shells. Similar to the prototype 410mm, this makes it a poor choice for general use. However, its increased firepower bonus allows it to pull ahead of the Mk6 when equipped to battleships that ignore shell types, such as Massachusetts.
+ - **[356mm Quad]()**
 
 **18-20s** <br/>
 [![pr406mm Twin SKC](/resources/pr406mm%20twin%20skc%20gr_s.png)](https://azurlane.koumakan.jp/Twin_406mm_(L/52_Drh_LC/34_Prototype))
