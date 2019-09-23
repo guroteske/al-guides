@@ -235,7 +235,7 @@ This guide is meant to serve as both an in-depth guide to end-game equipment and
 
 **Accelerator Guns** <br/>
 [![40mm Twin Bofors STAAG](/resources/40mm%20twin%20bofors%20staag%20gr_s.png)](https://azurlane.koumakan.jp/Twin_40mm_Bofors_STAAG_Mk_II)
-[![40mm Twin Bofors T98](/resources/40mm%20twin%20bofors%20t98%20gr_s%20TENTATIVE.png)](https://azurlane.koumakan.jp/Twin_40mm_Bofors_High-Angle_Type_98)
+[![40mm Twin Bofors T98](/resources/40mm%20twin%20bofors%20t98%20gr_s.png)](https://azurlane.koumakan.jp/Twin_40mm_Bofors_High-Angle_Type_98)
 [![40mm Twin Bofors Hazemeyer](/resources/40mm%20twin%20bofors%20hazemeyer%20gr_a.png)](https://azurlane.koumakan.jp/Twin_40mm_Bofors_Hazemeyer_Mount_Mk_IV)
 [![37mm Twin ACAD](/resources/37mm%20twin%20acad%20gr_a.png)](https://azurlane.koumakan.jp/Twin_37mm_ACAD_Mle_1936)
 [![20mm Twin Oerlikon](/resources/20mm%20twin%20oerlikon%20gr_b.png)](https://azurlane.koumakan.jp/Twin_20mm_AA_Oerlikon)
