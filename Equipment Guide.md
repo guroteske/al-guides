@@ -120,17 +120,17 @@ This guide is meant to serve as both an in-depth guide to end-game equipment and
 [![pr381mm Triple](/resources/pr381mm%20triple%20gr_a.png)](https://azurlane.koumakan.jp/Triple_381mm_Prototype_(BL_15%22_Mk_III))
 [![380mm Quad](/resources/380mm%20quad%20gr_a.png)](https://azurlane.koumakan.jp/Quadruple_380mm_(Mle_1935))
 [![pr410mm Triple](/resources/pr410mm%20triple%20gr_a.png)](https://azurlane.koumakan.jp/Triple_410mm_Prototype_(10th_Year_Type))
-[![381mm M1934](/resources/381mm%20m1934%20gr_b.png)]()
+[![381mm M1934](/resources/381mm%20m1934%20gr_a.png)](https://azurlane.koumakan.jp/Triple_381mm_(Model_1934))
 [![406mm Triple MkI](/resources/406mm%20triple%20mki%20gr_b.png)](https://azurlane.koumakan.jp/Triple_406mm_(BL_16%22_Mk_I))
-[![356mm Quad](/resources/356mm%20quad%20gr_b.png)]()
+[![356mm Quad](/resources/356mm%20quad%20gr_b.png)](https://azurlane.koumakan.jp/Quadruple_356mm_(BL_14%22_Mk_VII))
 
  - **[406mm Triple Mk6](https://azurlane.koumakan.jp/Triple_406mm_(16%22/45_caliber_Mark_6))** has the strongest overall shelling output of any battleship main gun. The de facto standard damage-focused battleship gun.
  - **[Prototype 381mm Triple BL MkIII](https://azurlane.koumakan.jp/Triple_381mm_Prototype_(BL_15%22_Mk_III))** sacrifices some shelling damage compared to the Mk6 for a faster reload speed and higher firepower bonus. Useful on ships who value the firepower boost more than the raw damage output, or for battleships that need to fire before other battleships in order to make use of proc-on-fire buffs, debuffs, or other effects.
  - **[380mm Quad Mle1935](https://azurlane.koumakan.jp/Quadruple_380mm_(Mle_1935))** is the signature gun of Jean Bart and the only gun she uses. Its high alpha damage and volume of fire give it potential use on other ships, especially for clearing fleets, but its non-zero volley time drastically reduces its efficacy against non-stationary bosses.
  - **[Prototype 410mm Triple](https://azurlane.koumakan.jp/Triple_410mm_Prototype_(10th_Year_Type))** has comparable base stats to the Mk6, but fires AP shells. While this reduces its value as a general-use gun, it's a potent gun when fighting bosses with medium or heavy armour.
- - **[381mm Triple M1934]()***
+ - **[381mm Triple M1934](https://azurlane.koumakan.jp/Triple_381mm_(Model_1934))*** is something of a sidegrade to the prototype 410mm triple. While its unique gimmick gives it a slight advantage in very short fights, its demerit ensures that it fails to be a superior go-to AP gun. Predominantly used on Littorio for her skill.
  - **[406mm Triple BL MkI](https://azurlane.koumakan.jp/Triple_406mm_(BL_16%22_Mk_I))** is nearly identical to the Mk6, but fires normal shells. Similar to the prototype 410mm, this makes it a poor choice for general use. However, its increased firepower bonus allows it to pull ahead of the Mk6 when equipped to battleships that ignore shell types, such as Massachusetts.
- - **[356mm Quad]()**
+ - **[356mm Quad](https://azurlane.koumakan.jp/Quadruple_356mm_(BL_14%22_Mk_VII))** is a gun that is both incredibly weak and incredibly slow. It's primary use is as a potentially useful option on King George V, when the faster first round of shelling would prove useful. Additionally, it can be used as a more accessible alternative to the prototype 381mm triple for ships like monitors who care more about the firepower boost than the raw shelling damage of their equipped gun.
 
 **18-20s** <br/>
 [![pr406mm Twin SKC](/resources/pr406mm%20twin%20skc%20gr_s.png)](https://azurlane.koumakan.jp/Twin_406mm_(L/52_Drh_LC/34_Prototype))
@@ -212,17 +212,19 @@ This guide is meant to serve as both an in-depth guide to end-game equipment and
 **Torpedo Bombers** <br/>
 [![Ryuusei](/resources/ryuusei%20gr_s.png)](https://azurlane.koumakan.jp/Aichi_B7A_Ryuusei)
 [![Swordfish (818)](/resources/swordfish%20818%20gr_s.png)](https://azurlane.koumakan.jp/Fairey_Swordfish_(818_Squadron))
-[![Torpedo Squadron 8](/resources/vt-8%20gr_s.png)](https://azurlane.koumakan.jp/Torpedo_Squadron_8_(VT-8))
 [![Tenzan](/resources/tenzan%20gr_a.png)](https://azurlane.koumakan.jp/Nakajima_B6N_Tenzan)
-[![Barracuda](/resources/barracuda%20gr_a.png)](https://azurlane.koumakan.jp/Fairey_Barracuda)
+[![Torpedo Squadron 8](/resources/vt-8%20gr_a.png)](https://azurlane.koumakan.jp/Torpedo_Squadron_8_(VT-8))
 [![Firebrand](/resources/firebrand%20gr_a.png)](https://azurlane.koumakan.jp/Blackburn_Firebrand)
+[![Barracuda](/resources/barracuda%20gr_a.png)](https://azurlane.koumakan.jp/Fairey_Barracuda)
+[![Albacore](/resources/albacore%20gr_b%20TENTATIVE.png)](https://azurlane.koumakan.jp/Fairey_Albacore)
 
  - **[B7A Ryuusei](https://azurlane.koumakan.jp/Aichi_B7A_Ryuusei)** launches torpedoes that converge on a point rather than in a parallel spread. While typically used for its superior damage capabilities against bosses where all torpedoes will hit the target, Ryuusei can be a strong general use torpedo bomber. If it misses its intended target, the torpedoes will fan out, similar to a torpedo volley launched by surface ships, and are still capable of hitting auxiliary targets.
  - **[Fairey Swordfish (818 Squadron)](https://azurlane.koumakan.jp/Fairey_Swordfish_(818_Squadron))** trades some of the Barracuda's damage for the ability to slow enemies hit by its torpedoes. While weaker than a Barracuda if your fleet is incapable of capitalising on the slow-down effect, the utility it provides can be incredibly powerful when paired with battleships. Predominantly used against bosses that move too fast for a Ryuusei to be reliable.
- - **[Torpedo Squadron 8](https://azurlane.koumakan.jp/Torpedo_Squadron_8_(VT-8))** is a very unique piece of equipment. It launches incredibly weak TBD Devastators for the first airstrike of its equipped carrier. However, for every subsequent airstrike, the Devastators are replaced with TBF Avengers which have the highest base damage of any parallel torpedo bomber.
  - **[B6N Tenzan](https://azurlane.koumakan.jp/Nakajima_B6N_Tenzan)** is a weaker, but more accessible alternative to the Ryuusei.
- - **[Fairey Barracuda](https://azurlane.koumakan.jp/Fairey_Barracuda)** has the fastest reload speed of any torpedo bomber. While its torpedoes have higher damage per torpedo than a Ryuusei, it will rarely land all of its torpedoes on a given target. Predominantly used for trash clearing, especially on carriers with weak torpedo bombers.
+ - **[Torpedo Squadron 8](https://azurlane.koumakan.jp/Torpedo_Squadron_8_(VT-8))** is a very unique piece of equipment. It launches incredibly weak TBD Devastators for the first airstrike of its equipped carrier. However, for every subsequent airstrike, the Devastators are replaced with TBF Avengers which have the highest base damage of any parallel torpedo bomber.
  - **[Blackburn Firebrand](https://azurlane.koumakan.jp/Blackburn_Firebrand)** has the same damage output as the Barracuda, but with a slower reload speed. Similar to the Firefly dive bomber however, it's equipped with fighter anti-air guns and is capable of dealing massive damage to enemy planes after launching an airstike.
+ - **[Fairey Barracuda](https://azurlane.koumakan.jp/Fairey_Barracuda)** is a relatively fast, parallel spread torpedo bomber with no real stand-out characteristics. Predominantly used for trash clearing, especially on carriers with weak torpedo bombers.
+ - **[Fairey Albacore](https://azurlane.koumakan.jp/Fairey_Albacore)** is the fastest torpedo bomber and deals the same damage per torpedo as the Barracuda, but launches one fewer per plane and sacrifices some aviation boost due to its lower rarity. Given the nature of parallel torpedoes, the loss of one per plane represents a much lower loss in actual damage output relative to the loss in total potential damage. Use with care. 
 
 ## Anti-Air (AA) Guns
  - Anti-air damage works off a pool. Every ship equipped with AA guns contributes damage based off their AA stat and efficiency, with the reload and range of the fleet AA based off the average reload speed and range of all guns in the fleet. As such, there are two main roles for AA guns: damage and acceleration. Due to the limited window of time your fleet has to deal anti-air damage, your main goal with an anti-air setup is to maximise the number of damage ticks, and then maximise the damage per tick. You will generally equip a purely damage focused gun on whoever has the highest effective AA in your fleet, accelerators on every ship with weak effective AA, and pad out damage as necessary by equipping the 40mm quad Bofors on ships with above median effective AA.<br/><br/>In practice, the difference between a fully optimised AA setup and one that uses whatever gold rarity guns you have access to is very minimal. Anti-air damage does not win battles; surface damage wins battles.
@@ -244,12 +246,14 @@ This guide is meant to serve as both an in-depth guide to end-game equipment and
 [![40mm Twin Bofors T98](/resources/40mm%20twin%20bofors%20t98%20gr_s.png)](https://azurlane.koumakan.jp/Twin_40mm_Bofors_High-Angle_Type_98)
 [![40mm Twin Bofors Hazemeyer](/resources/40mm%20twin%20bofors%20hazemeyer%20gr_a.png)](https://azurlane.koumakan.jp/Twin_40mm_Bofors_Hazemeyer_Mount_Mk_IV)
 [![37mm Twin ACAD](/resources/37mm%20twin%20acad%20gr_a.png)](https://azurlane.koumakan.jp/Twin_37mm_ACAD_Mle_1936)
+[![90mm High-Angle](/resources/90mm%20high-angle%20gr_a.png)](https://azurlane.koumakan.jp/Single_90mm_High-Angle_(Model_1939))
 [![20mm Twin Oerlikon](/resources/20mm%20twin%20oerlikon%20gr_b.png)](https://azurlane.koumakan.jp/Twin_20mm_AA_Oerlikon)
 [![25mm Triple T96](/resources/25mm%20triple%20gr_b.png)](https://azurlane.koumakan.jp/Triple_25mm_AA_Type_96)
 
  - **[40mm Twin Bofors STAAG](https://azurlane.koumakan.jp/Twin_40mm_Bofors_STAAG_Mk_II)** is relatively slow for an accelerator gun, but it brings relatively high base damage and long range. The STAAG also gives a bonus to accuracy, making it the de facto strongest AA gun for every ship when actual AA damage is a non-concern. Generally speaking, ships with lower base accuracy, such as battleships, have higher priority for this gun than others.
  - **[40mm Twin Bofors T98](https://azurlane.koumakan.jp/Twin_40mm_Bofors_High-Angle_Type_98)** is a Japanese Bofors variant. While it lacks the accuracy boost of the STAAG mount, the Type 98 makes up for it by shooting even faster, making it the fastest reloading gold AA gun in the game. It's optimal on ships who have low effective AA but whose base accuracy is high enough that the accuracy boost of the STAAG would be wasted, such as low-AA destroyers and light cruisers.
  - **[40mm Twin Bofors Hazemeyer](https://azurlane.koumakan.jp/Twin_40mm_Bofors_Hazemeyer_Mount_Mk_IV)** and **[37mm Twin ACAD Mle1936](https://azurlane.koumakan.jp/Twin_37mm_ACAD_Mle_1936)** are simply weaker variants of the STAAG and Type 98 bofors respectively. The Hazemeyer mount is the predecessor to the STAAG mount, and while it shares the same niche, it shoots marginally slower and has half the accuracy boost. Similarly, the French 37mm ACAD fills the same niche as the Bofors Type 98, but it is weaker in every respect. Still usable guns, given the rarity of research equipment, but suboptimal.
+ - **[90mm High-Angle M1939](https://azurlane.koumakan.jp/Single_90mm_High-Angle_(Model_1939))** is to the Hazemeyer what the Hazemeyer is to the STAAG. While a technically functional anti-air gun, it completely lacks the accuracy boost of the late-war British Bofors guns, while also failing to match the speed of the Japanese Bofors or the 37mm ACAD.
  - **[20mm Twin Oerlikon](https://azurlane.koumakan.jp/Twin_20mm_AA_Oerlikon)** and **[25mm Triple T96](https://azurlane.koumakan.jp/Triple_25mm_AA_Type_96)** are purple rarity accelerator guns that should only be used for manual play. They both cut into range and tick damage by a very significant margin and are only worth using in order to push your reload speed below the threshold required to gain an extra tick of damage.
 
 ## Auxiliary Equipment
