@@ -1,6 +1,6 @@
 # Azur Lane Guides
 
-This repository contains a number of guides aimed at breaking down certain conceptual aspects in order to teach players how to make informed decisions about how to tackle content within the game Azur Lane.
+This repository contains a number of guides aimed at breaking down certain conceptual aspects in order to teach players how to make informed decisions about how to tackle content within the game Azur Lane. All guide content is intended to be viewed in your browser. Downloading the repository can give you access to offline, plain-text copies, but all images, links, and formatting will fail to render.
 
 Current recommended reading order for newbies:
  - [Beginner Equipment Guide](/Beginner%20Equipment.md)
