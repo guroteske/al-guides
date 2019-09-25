@@ -15,3 +15,11 @@ Other useful resources:
  - [Azur Lane Enemy Data](https://al-data.github.io/enemies)
  
 If you have any questions or comments, feel free to post an issue on github, or contact me on discord. I can be found on the Azur Lane English Community server.
+
+```
+CHANGELOG
+---------
+2019-09-25
+  added changelog
+  updated shops guide to beginner equipment.md
+```
