@@ -1,9 +1,11 @@
 # Beginner PVE Equipment
 
 #### Table of Contents
-- [Basic Concepts](Beginner%20Equipment.md#basic-concepts-1)
+- [Basic Concepts](Beginner%20Equipment.md#basic-concepts)
 - [Shops Guide](Beginner%20Equipment.md#shops)
-- [Equipment List](Beginner%20Equipment.md#equipment-list--early-game-farming-locations)
+- [Equipment and Farming Recommendations](Beginner%20Equipment.md#equipment-list--early-game-farming-locations)
+  - [Core Blue Equipment](Beginner%20Guide.md#core-blue-equipment)
+  - [Farming Maps](Beginner%20Guide.md#early-game-farming-maps)
 
 ## Basic Concepts
 ### Very Important, Please Read:
