@@ -3,7 +3,7 @@
 This repository contains a number of guides aimed at breaking down certain conceptual aspects in order to teach players how to make informed decisions about how to tackle content within the game Azur Lane.
 
 Current recommended reading order for newbies:
- - Beginner Equipment Guide
+ - [Beginner Equipment Guide](/Beginner%20Equipment.md)
  - Limit Break Guide
  - Fleet Composition Guide
  - Equipment Guide
