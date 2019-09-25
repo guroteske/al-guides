@@ -24,6 +24,8 @@ CHANGELOG
   updated shops guide to beginner equipment.md
   
 2019-09-24
-  added equipment from italian event to equipment guide.md: fairey albacore, 90mm high-angle, 203mm twin m1927
-  added old, permanent equipment to equipment guide.md: 356mm quad
+  added equipment from italian event to equipment guide.md:
+    fairey albacore, 90mm high-angle, 203mm twin m1927
+  added old, permanent equipment to equipment guide.md:
+    356mm quad
 ```
