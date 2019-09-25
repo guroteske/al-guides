@@ -5,14 +5,14 @@ This guide is meant to serve as both an in-depth guide to end-game equipment and
  - **B-rank** equipment might not be strong enough to warrant a recommendation for general use, but occupies a specific niche that might make it best-in-slot for select scenarios or when equipped to certain ships
  - **Tentative** stamps denote that a given piece of equipment's ranking is, due to limited availability and data, based predominantly on theoretical data
  
- - ##### [Destroyer Guns](Equipment%20Guide.md#destroyer-dd-guns)
- - ##### [Light Cruiser Guns](Equipment%20Guide.md#light-cruiser-cl-guns)
- - ##### [Heavy Cruiser Guns](Equipment%20Guide.md#heavy-cruiser-ca-guns)
- - ##### [Main Fleet Guns](Equipment%20Guide.md#main-fleet-bbbcbmbbv-guns)
- - ##### [Torpedoes](Equipment%20Guide.md#torpedoes)
- - ##### [Aircraft](Equipment%20Guide.md#carrier-cvcvl-aircraft)
- - ##### [Anti-Air Guns](Equipment%20Guide.md#anti-air-aa-guns)
- - ##### [Auxiliary Equipment](/Auxiliary%20Guide.md)
+ - [Destroyer Guns](Equipment%20Guide.md#destroyer-dd-guns)
+ - [Light Cruiser Guns](Equipment%20Guide.md#light-cruiser-cl-guns)
+ - [Heavy Cruiser Guns](Equipment%20Guide.md#heavy-cruiser-ca-guns)
+ - [Main Fleet Guns](Equipment%20Guide.md#main-fleet-bbbcbmbbv-guns)
+ - [Torpedoes](Equipment%20Guide.md#torpedoes)
+ - [Aircraft](Equipment%20Guide.md#carrier-cvcvl-aircraft)
+ - [Anti-Air Guns](Equipment%20Guide.md#anti-air-aa-guns)
+ - [Auxiliary Equipment](/Auxiliary%20Guide.md)
 
 ## Destroyer (DD) Guns
 **General Primaries** <br/>
