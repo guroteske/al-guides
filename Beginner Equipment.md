@@ -5,7 +5,7 @@
 - [Shops Guide](Beginner%20Equipment.md#shops)
 - [Equipment and Farming Recommendations](Beginner%20Equipment.md#equipment-list--early-game-farming-locations)
   - [Core Blue Equipment](Beginner%20Equipment.md#core-blue-equipment)
-  - [Farming Maps](Beginner%20Guide.md#early-game-farming-maps)
+  - [Farming Maps](Beginner%20Equipment.md#early-game-farming-maps)
 
 ## Basic Concepts
 ### Very Important, Please Read:
