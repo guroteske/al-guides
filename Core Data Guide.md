@@ -37,7 +37,7 @@ Cognition chips are a well-justified value proposition. Their core data cost is 
 ## Questionable Equipment
 [![SBD Dauntless (McClusky)](/resources/dauntless%20mcclusky%20no_gr.png)]()
 [![100/150 AV Gas](/resources/av%20gas%20no_gr.png)]()
-[![Type 98 FDD](/resources/t98%20fdd%20no_gr)]()
+[![Type 98 FDD](/resources/t98%20fdd%20no_gr.png)]()
 [![TBM Avenger (ASW)](/resources/tbm%20avenger%20asw%20no_gr.png)]()
  - **SBD Dauntless (McClusky)** - The damage boost against carriers doesn't make up for the loss in base damage compared to a more damage-focused bomber like the SB2C Helldiver with one specific exception: Ark Royal. Ark's dive bomber slot represents a small enough portion of her damage that the damage boost becomes relevant for her and her alone.
  - **100/150 Aviation Gas** - Only useful in PVP.
