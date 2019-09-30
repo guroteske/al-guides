@@ -20,6 +20,10 @@ If you have any questions or comments, feel free to post an issue on github, or 
 ```
 CHANGELOG
 ---------
+2019-09-30
+  added core data guide.md
+  linked enbayft's github repo
+
 2019-09-25
   added changelog
   updated shops guide to beginner equipment.md
