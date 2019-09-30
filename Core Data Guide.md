@@ -11,7 +11,8 @@ In general, core data is best saved for guaranteed equipment, as that equipment 
 Cognition chips are a well-justified value proposition. Their core data cost is relatively low relative to the quantity of chips acquired. However, the actual applicability of cognition chips is going to be a very personal issue, and purchasing chips is likely only worthwhile for the most dedicated players.
 
 ## Recommended Primary Equipment
-[![Prototype 203mm Twin No.3]()]()
+[![Prototype 203mm Twin No.3](/resources/pr203mm%20mounted%20no3%20no_gr.png)]()
+[![Fairey Firefly](/resources/firefly%20no_gr.png)]()
  - **Prototype 203mm Twin No.3** - While arguably obsoleted by the research 203mm Mle1934, the No.3 is still worth buying, especially as a newer player, given the relative boost in power it provides relative to its ease of acquisition.
  - **Fairey Firefly** - A relatively fast dive bomber with exceptionally strong anti-air guns. Has niche usage when airstrike AA and/or faster airstrike reload speed is desired.
  - **Fairey Swordfish (818 Squadron)** - The most generally useful parallel spread torpedo bomber. Its utility makes it a generally superior option to the relatively more difficult to acquire Fairey Barracuda when using a Ryuusei or Tenzan would be impractical. Also strong in PVP.
