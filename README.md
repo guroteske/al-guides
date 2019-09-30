@@ -11,6 +11,7 @@ Current recommended reading order for newbies:
 Other useful resources:
  - [Kawaii Five-O's ship tier guide](https://github.com/YourWaifuIsShip/Azur-Lane-Guides)
  - [MajorProcrastinator's eHP calculator](https://github.com/MajorProcrastinator/Auto-eHP-Calc)
+ - [Enbayft's AL Repository](https://github.com/Enbayft/Random-AL-Stuff)
  - [Azur Lane Wiki](https://azurlane.koumakan.jp/Azur_Lane_Wiki)
  - [Azur Lane Enemy Data](https://al-data.github.io/enemies)
  
@@ -19,6 +20,10 @@ If you have any questions or comments, feel free to post an issue on github, or 
 ```
 CHANGELOG
 ---------
+2019-09-30
+  added core data guide.md
+  linked enbayft's github repo
+
 2019-09-25
   added changelog
   updated shops guide to beginner equipment.md
