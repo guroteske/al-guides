@@ -55,15 +55,15 @@ This guide for auxiliary equipment is split off from the rest due to the relativ
  - **[Fire Control Radar](https://azurlane.koumakan.jp/Fire_Control_Radar)** provides moderate boosts to firepower and accuracy. Of the vanguard units, it can only be equipped to heavy cruisers. It generally pulls ahead of the reloader if the accuracy boost is valuable or if the equipped ship has strong firepower boosts.
 
 **Gunnery Main Fleet Auxiliaries**<br/>
-[![T1 Shell](/resources/t1%20shell%20no_gr.png)](https://azurlane.koumakan.jp/Type_1_Armor_Piercing_Shell)
 [![SH Shell](/resources/sh%20shell%20no_gr.png)](https://azurlane.koumakan.jp/Super_Heavy_Shell)
+[![T1 Shell](/resources/t1%20shell%20no_gr.png)](https://azurlane.koumakan.jp/Type_1_Armor_Piercing_Shell)
 [![HPFCR](/resources/hpfcr%20no_gr.png)](https://azurlane.koumakan.jp/High_Performance_Fire_Control_Radar)
 [![T98 FDD](/resources/t98%20fdd%20no_gr.png)](https://azurlane.koumakan.jp/Type_98_Delayed_Firing_Device)
 [![T91 Shell](/resources/t91%20shell%20no_gr.png)](https://azurlane.koumakan.jp/Type_91_Armor_Piercing_Shell)
-
- - **[Type 1 Armour-Piercing Shell](https://azurlane.koumakan.jp/Type_1_Armor_Piercing_Shell)** provides a high firepower boost and mild accuracy boost. Additionally, it increases shelling critical damage. The accuracy boost gives it a strong advantage over other firepower-boosting auxiliaries.
  
- - **[Super-Heavy Shell](https://azurlane.koumakan.jp/Super_Heavy_Shell)** has a very high firepower boost and increases shelling critical chance. While the lack of an accuracy boost makes it weaker overall than the T1 AP shell, not being able to stack equipment skill effects means both shells used in a pair will generally be the highest damage boost for a battleship.
+ - **[Super-Heavy Shell](https://azurlane.koumakan.jp/Super_Heavy_Shell)** has a very high firepower boost and increases shelling critical chance. While the lack of an accuracy boost reduces its hitrate compared to other aux, the crit boost more than makes up for it. Absolute strongest singular offensive aux for the majority of battleships.
+
+ - **[Type 1 Armour-Piercing Shell](https://azurlane.koumakan.jp/Type_1_Armor_Piercing_Shell)** provides a high firepower boost and mild accuracy boost. Additionally, it increases shelling critical damage. The accuracy boost gives it a strong advantage over other firepower-boosting auxiliaries, but not by a significant enough to make up for the weaker crit skill compared to the SHS in most cases.
  
  - **[High-Performance Fire Control Radar](https://azurlane.koumakan.jp/High_Performance_Fire_Control_Radar)** has stats similar but slightly superior to the standard FCR. It also reduces the reload time of the first round of shelling by 15%. Unlike the standard FCR, HPFCR cannot be equipped to heavy cruisers.
  
@@ -134,7 +134,7 @@ As a general rule of thumb, for standard maps, your fleet will always contain at
  
  - Due to the generally reduced pressure placed upon the main fleet, these units will typically want to focus more on offensive auxiliary equipment. When main fleet units do equip defensive aux, they will typically equip specialised equipment to deal with a specific threat, such as a fire extinguisher in maps with heavy enemy shelling, or an anti-air radar in maps with heavy aviation presence.
  
- - The most generic offensive setups are double steam catapults for all carriers and both a T1 shell and SHS (double shells) for battleships. The SHS may be replaced for an HPFCR, especially for clearing fleets.
+ - The most generic offensive setups are double steam catapults for all carriers and both a T1 shell and SHS (double shells) for battleships. The T1 may be replaced for an HPFCR, especially for clearing fleets.
  
  - In event maps with limited fleet movement, the SG radar can be skipped due to the lack of ambushes. Additionally, equipment that increases the speed stat of the ships in your fleet can increase the range of movement available to your fleet. Note that this only applies to stat-based movement speed. While the Beaver Badge's skill effect will increase the movement speed of your fleet in combat, it will not boost movement speed on the map.
  
