@@ -8,7 +8,7 @@ This guide serves as a collection of ships that are, in my opinion, S-tier for e
  - Backline Artillery
  - Carriers
 
-## Destroyers (DD, 駆逐)
+## Destroyers (DD)
  - Cassin & Downes
  
  - Ayanami
