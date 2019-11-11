@@ -18,6 +18,10 @@ This guide serves as a collection of ships that are, in my opinion, S-tier for e
  - Yukikaze
  
  - Z23
+ 
+ - Cygnet
+ 
+ - Hammann
 
 ## Light Cruisers (CL)
  - Phoenix
