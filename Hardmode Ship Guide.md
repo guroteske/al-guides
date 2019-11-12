@@ -21,6 +21,8 @@ This guide serves as a collection of ships that are, in my opinion, S-tier for e
  
  - Cygnet
  
+ - Javelin
+ 
  - Hammann
 
 ## Light Cruisers (CL)
@@ -37,6 +39,8 @@ This guide serves as a collection of ships that are, in my opinion, S-tier for e
  - Leipzig
    
  - Neptune
+ 
+ - Ajax
 
 ## Heavy Cruisers (CA)
  - Portland
@@ -90,5 +94,7 @@ This guide serves as a collection of ships that are, in my opinion, S-tier for e
  - Shouhou & Unicorn
  
  - Akagi & Kaga
+ 
+ - Hiryuu & Souryuu
  
  - Zeppy
