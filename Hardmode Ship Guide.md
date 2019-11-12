@@ -13,6 +13,8 @@ This guide serves as a collection of ships that are, in my opinion, S-tier for e
  
  - Ayanami
  
+ - Shigure
+ 
  - Shiranui
  
  - Yukikaze
