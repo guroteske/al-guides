@@ -1,5 +1,5 @@
 # Hardmode Ship Guide
-This guide serves as a collection of ships that are, in my opinion, S-tier for event hardmode clearing and farming. This is not a tier list per se, but it can serve as a guide for which ships to invest in for event purposes. Ships are rated on a number of criteria related to their applicability in filling ship locks and meeting stat requirements for event hardmodes. It is not meant to imply that all of these ships are on even footing in terms of combat capabilities, and a ship's combat performance is covered in their description.
+This guide serves as a collection of ships that are noteworthy for event hardmode clearing and farming. This is not a tier list per se, but it can serve as a guide for which ships to invest in for event purposes. Ships are rated on a number of criteria related to their applicability in filling ship locks and meeting stat requirements for event hardmodes. It is not meant to imply that all of these ships are on even footing in terms of combat capabilities, and a ship's combat performance is covered in their description.
 
 All listed ships with remodels are assumed to have been remodeled.
 
