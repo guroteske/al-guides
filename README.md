@@ -22,7 +22,14 @@ If you have any questions or comments, feel free to post an issue on github, or 
 ```
 CHANGELOG
 ---------
-2019-10-xx
+2020-01-27
+  added equipment from royal maid notrerun to equipment guide.md:
+    130mm single, 134mm twin high-angle
+  added equipment from core data to auxiliary guide.md and core data guide.md:
+    ocean soul camo
+  minor adjustments to equipment guide.md and core data guide.md
+    
+2019-10-24
   linked bazzra's airstrike calculator
 
 2019-10-20
