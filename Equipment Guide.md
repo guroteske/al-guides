@@ -22,7 +22,7 @@ This guide is meant to serve as both an in-depth guide to end-game equipment and
 [![120mm Twin](/resources/120mm%20twin%20gr_a.png)](https://azurlane.koumakan.jp/Twin_120mm_(QF_Mark_XII))
 [![127mm Single](/resources/127mm%20single%20gr_a.png)](https://azurlane.koumakan.jp/Single_127mm_(5%22/38_Mk30))
 [![127mm Twin](/resources/127mm%20twin%20gr_a.png)](https://azurlane.koumakan.jp/Twin_127mm_(5%22/38_Mk38))
-[![100mm Twin](/resources/100mm%20twin%20gr_b.png)](https://azurlane.koumakan.jp/Twin_100mm_(Type_98))
+[![100mm Twin](/resources/100mm%20twin%20gr_a.png)](https://azurlane.koumakan.jp/Twin_100mm_(Type_98))
 
  - **[138mm Single Mle1929](https://azurlane.koumakan.jp/Single_138.6mm_(Mle_1929))** is the hardest hitting DD gun in the game, to the point where it's worth using even on ships with relatively strong barrages, despite its relatively slow fire rate. It also gives the highest firepower boost of any DD gun.
  - **[130mm Single B13 Pattern 1936](https://azurlane.koumakan.jp/Single_130mm_(B13_Pattern_1936))** sacrifices same damage compared to the 138mm single, but has a significantly faster fire rate. Most worth using on destroyers who have strong gunnery output but still value rate of fire either due to a barrage or skill proc. Like other single guns, it has a relatively high spread.
