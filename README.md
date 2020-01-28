@@ -11,8 +11,9 @@ Current recommended reading order for newbies:
 Other useful resources:
  - [Kawaii Five-O's ship tier guide](https://github.com/YourWaifuIsShip/Azur-Lane-Guides)
  - [MajorProcrastinator's eHP calculator](https://github.com/MajorProcrastinator/Auto-eHP-Calc)
+ - [Bazzra's airstrike cooldown calculator](https://bazzra.github.io/)
  - [Enbayft's AL Repository](https://github.com/Enbayft/Random-AL-Stuff)
- - [Binary102's Decompiled AL Client Source](https://github.com/Binary102/AzurLane_ClientSource)
+ - [Binary102's decompiled AL client source](https://github.com/Binary102/AzurLane_ClientSource)
  - [Azur Lane Wiki](https://azurlane.koumakan.jp/Azur_Lane_Wiki)
  - [Azur Lane Enemy Data](https://al-data.github.io/enemies)
  
@@ -21,6 +22,16 @@ If you have any questions or comments, feel free to post an issue on github, or 
 ```
 CHANGELOG
 ---------
+2020-01-27
+  added equipment from royal maid notrerun to equipment guide.md:
+    130mm single, 134mm twin high-angle
+  added equipment from core data to auxiliary guide.md and core data guide.md:
+    ocean soul camo
+  minor adjustments to equipment guide.md and core data guide.md
+    
+2019-10-24
+  linked bazzra's airstrike calculator
+
 2019-10-20
   linked binary102's decompiled client source
   adjusted recommendations between t1 and sh shells based on new information:

@@ -18,41 +18,36 @@ This guide is meant to serve as both an in-depth guide to end-game equipment and
 ## Destroyer (DD) Guns
 **General Primaries** <br/>
 [![138mm Single](/resources/138mm%20single%20gr_s.png)](https://azurlane.koumakan.jp/Single_138.6mm_(Mle_1929))
+[![130mm Single](/resources/130mm%20single%20gr_s.png)](https://azurlane.koumakan.jp/Single_130mm_(B13_Pattern_1936))
 [![120mm Twin](/resources/120mm%20twin%20gr_a.png)](https://azurlane.koumakan.jp/Twin_120mm_(QF_Mark_XII))
 [![127mm Single](/resources/127mm%20single%20gr_a.png)](https://azurlane.koumakan.jp/Single_127mm_(5%22/38_Mk30))
 [![127mm Twin](/resources/127mm%20twin%20gr_a.png)](https://azurlane.koumakan.jp/Twin_127mm_(5%22/38_Mk38))
-[![100mm Twin](/resources/100mm%20twin%20gr_b.png)](https://azurlane.koumakan.jp/Twin_100mm_(Type_98))
+[![100mm Twin](/resources/100mm%20twin%20gr_a.png)](https://azurlane.koumakan.jp/Twin_100mm_(Type_98))
+[![120mm Single](/resources/120mm%20single%20gr_b.png)](https://azurlane.koumakan.jp/Single_120mm_(QF_Mark_IX))
+[![76mm Single](/resources/76mm%20single%20gr_b.png)](https://azurlane.koumakan.jp/Single_76mm_(3%E2%80%B3/50_caliber_gun))
 
  - **[138mm Single Mle1929](https://azurlane.koumakan.jp/Single_138.6mm_(Mle_1929))** is the hardest hitting DD gun in the game, to the point where it's worth using even on ships with relatively strong barrages, despite its relatively slow fire rate. It also gives the highest firepower boost of any DD gun.
+ - **[130mm Single B13 Pattern 1936](https://azurlane.koumakan.jp/Single_130mm_(B13_Pattern_1936))** sacrifices same damage compared to the 138mm single, but has a significantly faster fire rate. Most worth using on destroyers who have strong gunnery output but still value rate of fire either due to a barrage or skill proc. Like other single guns, it has a relatively high spread.
  - **[120mm Twin QF Mark XII](https://azurlane.koumakan.jp/Twin_120mm_(QF_Mark_XII))** is the strongest readily accessible general-use main gun. It has high damage output with an average reload speed for damage-focused guns, and great accuracy. Its only downside is normal shells deal drastically reduced damage against heavy armour enemies.
  - **[127mm Single Mk30](https://azurlane.koumakan.jp/Single_127mm_(5%22/38_Mk30))** is the fastest firing HE gun, while also having very high damage stats. It's a good choice for destroyers with both strong barrages and high gunnery stats. Its mild accuracy problems reduce its direct gun dpm somewhat, making it a poor choice for destroyers with weak barrages.
  - **[127mm Twin Mk38](https://azurlane.koumakan.jp/Twin_127mm_(5%22/38_Mk38))** provides a split of firepower and anti-air boosts. While its damage is good, its low firepower boost and relatively slow rate of fire cause it to fall behind other, more accessible alternatives.
  - **[100mm Twin Type 98](https://azurlane.koumakan.jp/Twin_100mm_(Type_98))** is generally used on ships with strong barrages. However, its damage output isn't too far behind other alternatives against most targets and its volume of fire is higher than any other gun.
- 
- **Barrage Primaries** <br/>
- [![100mm Twin](/resources/100mm%20twin%20gr_s.png)](https://azurlane.koumakan.jp/Twin_100mm_(Type_98))
- [![138mm Single](/resources/138mm%20single%20gr_s.png)](https://azurlane.koumakan.jp/Single_138.6mm_(Mle_1929))
- [![127mm Single](/resources/127mm%20single%20gr_a.png)](https://azurlane.koumakan.jp/Single_127mm_(5%22/38_Mk30))
- [![120mm Single](/resources/120mm%20single%20gr_b.png)](https://azurlane.koumakan.jp/Single_120mm_(QF_Mark_IX))
- [![76mm Single](/resources/76mm%20single%20gr_b.png)](https://azurlane.koumakan.jp/Single_76mm_(3%E2%80%B3/50_caliber_gun))
- 
- - **[100mm Twin Type 98](https://azurlane.koumakan.jp/Twin_100mm_(Type_98))** has an incredibly fast fire rate while still having good damage and is the strongest readily accessible barrage-focused gun. It's a reliable gun for all destroyers with a strong barrage, even if another barrage-focused gun might be more optimal.
- - **[138mm Single Mle1929](https://azurlane.koumakan.jp/Single_138.6mm_(Mle_1929))** makes up for its slow reload speed with sheer damage output and is best used on destroyers who have both strong barrages and high gunnery statistics.
- - **[127mm Single Mk30](https://azurlane.koumakan.jp/Single_127mm_(5%22/38_Mk30))** is a decent and accessible gun for ships with strong barrages and high gunnery statistics. Its strongest use-case is an alternative to the 100mm T98 when fighting heavy armour bosses and the increased gunnery dpm makes up for the loss of barrage dpm.
  - **[120mm Single QF Mark IX](https://azurlane.koumakan.jp/Single_120mm_(QF_Mark_IX))** and **[76mm Single](https://azurlane.koumakan.jp/Single_76mm_(3%E2%80%B3/50_caliber_gun))** are the fastest destroyer guns in the game and used on an incredibly small handful of ships who are willing to sacrifice nearly all gunnery dpm for faster barrage triggers and/or skill procs. The 120mm trades a very small amount of reload speed compared to the 76mm for higher base damage and longer range.
  
  **Vanguard Auxiliaries** <br/>
- [![138mm Single](/resources/138mm%20single%20gr_s.png)](https://azurlane.koumakan.jp/Single_138.6mm_(Mle_1929))
- [![100mm Twin](/resources/100mm%20twin%20gr_s.png)](https://azurlane.koumakan.jp/Twin_100mm_(Type_98))
- [![120mm Twin](/resources/120mm%20twin%20gr_a.png)](https://azurlane.koumakan.jp/Twin_120mm_(QF_Mark_XII))
- [![127mm Single](/resources/127mm%20single%20gr_a.png)](https://azurlane.koumakan.jp/Single_127mm_(5%22/38_Mk30))
- [![127mm Twin](/resources/127mm%20twin%20gr_a.png)](https://azurlane.koumakan.jp/Twin_127mm_(5%22/38_Mk38))
+[![138mm Single](/resources/138mm%20single%20gr_s.png)](https://azurlane.koumakan.jp/Single_138.6mm_(Mle_1929))
+[![100mm Twin](/resources/100mm%20twin%20gr_s.png)](https://azurlane.koumakan.jp/Twin_100mm_(Type_98))
+[![130mm Single](/resources/130mm%20single%20gr_a.png)](https://azurlane.koumakan.jp/Single_130mm_(B13_Pattern_1936))
+[![120mm Twin](/resources/120mm%20twin%20gr_a.png)](https://azurlane.koumakan.jp/Twin_120mm_(QF_Mark_XII))
+[![127mm Single](/resources/127mm%20single%20gr_a.png)](https://azurlane.koumakan.jp/Single_127mm_(5%22/38_Mk30))
+[![127mm Twin](/resources/127mm%20twin%20gr_a.png)](https://azurlane.koumakan.jp/Twin_127mm_(5%22/38_Mk38))
  
   - **[138mm Single Mle1929](https://azurlane.koumakan.jp/Single_138.6mm_(Mle_1929))** gives the highest firepower boost and has very high volume of fire despite its long reload time.
   - **[100mm Twin Type 98](https://azurlane.koumakan.jp/Twin_100mm_(Type_98))** has relatively weak raw damage output. It's not too far behind the more damage focused guns on its own, but its low firepower boost widens the gap slightly more. However, the T98 has the highest volume of fire, which can assist in breaking enemy shields faster, increasing its performance beyond what stats would imply. Additionally, the T98 provides the highest anti-air boost.
+  - **[130mm Single B13 Pattern 1936](https://azurlane.koumakan.jp/Single_130mm_(B13_Pattern_1936))** provides the same firepower boost as the 120mm Twin. While it has a less accurate firing pattern, it has significantly higher base damage and its HE shells give it an advantage when fighting heavy armour enemies.
   - **[120mm Twin QF Mark XII](https://azurlane.koumakan.jp/Twin_120mm_(QF_Mark_XII))** has the highest firepower boost of any readily accessible gun with an accurate firing pattern.
-  - **[127mm Single Mk30](https://azurlane.koumakan.jp/Single_127mm_(5%22/38_Mk30))** provides the same firepower boost as the 120mm Twin. While it has a less accurate firing pattern, its HE shells give it an advantage when fighting heavy armour enemies or if the ability to refresh burn DOTs is desired.
-  - **[127mm Twin Mk38](https://azurlane.koumakan.jp/Twin_127mm_(5%22/38_Mk38))** provides a split of firepower and anti-air, causing its effective damage output to be lower than its stats would imply. Its HE shells give it the same advantages as the 127mm Single, but with the same downsides.
+  - **[127mm Single Mk30](https://azurlane.koumakan.jp/Single_127mm_(5%22/38_Mk30))** is a more readily accessible alternative to the 130mm Single. Has the same downsides, but without the damage to compensate. Only useful when fighting heavy armour enemies.
+  - **[127mm Twin Mk38](https://azurlane.koumakan.jp/Twin_127mm_(5%22/38_Mk38))** provides a split of firepower and anti-air, causing its effective damage output to be lower than its stats would imply. Its HE shells give it advantages against heavy armour, but the low shell velocity of HE shells cause it minor accuracy issues compared to the 120mm Twin despite the two guns having superficially identical shot patterns.
  
  **Main Fleet Auxiliaries** <br/>
  [![128mm Twin](/resources/128mm%20twin%20gr_s.png)](https://azurlane.koumakan.jp/Twin_128mm_(SK_C/41))
@@ -209,15 +204,15 @@ This guide is meant to serve as both an in-depth guide to end-game equipment and
 
 **Dive Bombers** <br/>
 [![SB2C Helldiver](/resources/sb2c%20helldiver%20gr_s.png)](https://azurlane.koumakan.jp/SB2C_Helldiver)
-[![Ju-87c](/resources/ju-87c%20gr_a.png)](https://azurlane.koumakan.jp/Junkers_Ju-87C)
+[![Firefly](/resources/firefly%20gr_s.png)](https://azurlane.koumakan.jp/Fairey_Firefly)
 [![Suisei](/resources/suisei%20gr_a.png)](https://azurlane.koumakan.jp/D4Y_Suisei)
-[![Firefly](/resources/firefly%20gr_b.png)](https://azurlane.koumakan.jp/Fairey_Firefly)
+[![Ju-87c](/resources/ju-87c%20gr_a.png)](https://azurlane.koumakan.jp/Junkers_Ju-87C)
 
  - Bomb damage does not scale linearly with payload weight, and larger bombs only provide a small increase in damage. As such, quantity of bombs is generally preferred to quality of bombs. Additionally, the damage stat shown in-game for any given dive bomber is a meaningless, arbitrary number that is in no way related to the bomber's actual performance.
  - **[SB2C Helldiver](https://azurlane.koumakan.jp/SB2C_Helldiver)** has the strongest bomb loadout of any dive bomber by a wide margin, but is also the slowest. Strongest dive bomber for general use, especially on carriers with strong dive bombers.
- - **[Ju-87c 'Stuka'](https://azurlane.koumakan.jp/Junkers_Ju-87C)** is the only other bomber that can compete with the Helldiver in terms of raw damage potential. It reloads slightly faster, but its 100lb bombs have a small blast radius, which can cut into overall reliability.
- - **[D4Y Suisei](https://azurlane.koumakan.jp/D4Y_Suisei)** has a relatively weak payload, but is the fastest true dive bomber. It has niche use in reload tuning and can be a strong choice on carriers with weak dive bombers, or in situations where a stronger dive bomber would overkill enemies.
  - **[Fairey Firefly](https://azurlane.koumakan.jp/Fairey_Firefly)** has an average reload speed with average damage, but its main appeal is its anti-air guns. Equipped with the same autocannons found on Royal fighters, the Firefly is capable of dealing fighter-tier anti-air damage, but as a dive bomber, is incapable of the same automatic interception as a real fighter, its guns only being beneficial after launching a full airstrike.
+ - **[D4Y Suisei](https://azurlane.koumakan.jp/D4Y_Suisei)** has a relatively weak payload, but is the fastest true dive bomber. It has niche use in reload tuning and can be a strong choice on carriers with weak dive bombers, or in situations where a stronger dive bomber would overkill enemies.
+ - **[Ju-87c 'Stuka'](https://azurlane.koumakan.jp/Junkers_Ju-87C)** is the only other bomber that can compete with the Helldiver in terms of raw damage potential. It reloads slightly faster, but its 100lb bombs have a small blast radius, which can cut into overall reliability.
 
 **Torpedo Bombers** <br/>
 [![Ryuusei](/resources/ryuusei%20gr_s.png)](https://azurlane.koumakan.jp/Aichi_B7A_Ryuusei)
@@ -243,12 +238,14 @@ This guide is meant to serve as both an in-depth guide to end-game equipment and
 [![40mm Quad Bofors](/resources/40mm%20quad%20bofors%20gr_s.png)](https://azurlane.koumakan.jp/Quadruple_40mm_L60_Mk2_Bofors)
 [![40mm 8x Pom-Pom](/resources/40mm%208x%20pom-pom%20gr_s.png)](https://azurlane.koumakan.jp/Octuple_40mm_Pom-Pom)
 [![113mm Twin](/resources/113mm%20twin%20gr_s.png)](https://azurlane.koumakan.jp/Twin_113mm_(4.5%22/45_QF_Mk_I))
+[![134mm Twin High-Angle](/resources/134mm%20twin%20high-angle%20gr_a.png)](https://azurlane.koumakan.jp/Twin_134mm_High-Angle_(QF_Mk_I))
 [![100mm Twin High-Angle](/resources/100mm%20twin%20high-angle%20gr_a.png)](https://azurlane.koumakan.jp/Twin_100mm_High-Angle_(Type_98))
 [![105mm Twin SKC](/resources/105mm%20twin%20skc%20gr_a.png)](https://azurlane.koumakan.jp/Twin_105mm_(SK_C/33))
 
  - **[40mm Quad Bofors](https://azurlane.koumakan.jp/Quadruple_40mm_L60_Mk2_Bofors)** can fill the niche of both an accelerator and damage AA gun, and forms the foundation of a strong AA setup. While a mix of different types of AA guns will always provide the most gains, a setup that uses exclusively quad Bofors will be stronger than any other mono-gun setup.
  - **[40mm 8x Pom-Pom](https://azurlane.koumakan.jp/Octuple_40mm_Pom-Pom)** is one of the strongest damage-focused AA guns, with the second highest base damage per hit and a relatively fast reload speed. While it has a low base range, as range is calculated based on the average range of all AA guns in your fleet, this is generally a non-concern unless you're attempting to utilise more than one Pom-Pom.
- - **[113mm Twin QF Mk I](https://azurlane.koumakan.jp/Twin_113mm_(4.5%22/45_QF_Mk_I))** has the highest base damage and range of any AA gun, but it also has the longest reload speed of any gold rarity AA gun. This gun has potential to be incredibly powerful when used responsibly, but poor usage will only cut into your tick rate, decreasing your margin of error and providing very little tangible benefits.
+ - **[113mm Twin QF Mk I](https://azurlane.koumakan.jp/Twin_113mm_(4.5%22/45_QF_Mk_I))** has the second highest base damage and range of any AA gun, but it also has a relatively long reload speed. This gun has potential to be incredibly powerful when used responsibly, but poor usage will only cut into your tick rate, decreasing your margin of error and providing very little tangible benefits.
+ - **[134mm Twin High-Angle QF Mk I](https://azurlane.koumakan.jp/Twin_134mm_High-Angle_(QF_Mk_I))** has marginally higher base damage than the 113mm Twin, but with a significantly longer reload time. Generally less useful as an actual anti-air gun, but it does give a small boost to firepower. The stat boost is mostly only useful on destroyers, who also have the reload stat necessary to best compensate for the long reload speed.
  - **[100mm Twin High-Angle T98](https://azurlane.koumakan.jp/Twin_100mm_High-Angle_(Type_98))** and **[105mm Twin SK C/33](https://azurlane.koumakan.jp/Twin_105mm_(SK_C/33))** are strong guns if you lack other gold AA guns, but have lower damage than both the 113mm and Pom-Pom, making them suboptimal in all scenarios.
 
 **Accelerator Guns** <br/>

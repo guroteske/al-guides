@@ -10,6 +10,7 @@ This guide for auxiliary equipment is split off from the rest due to the relativ
 [![Repair Kit](/resources/repair%20kit%20no_gr.png)](https://azurlane.koumakan.jp/Repair_Toolkit)
 [![Pyoko-Pyoko](/resources/pyoko-pyoko%20no_gr.png)](https://azurlane.koumakan.jp/Pyoko-Pyoko)
 [![Fuel Filter](/resources/fuel%20filter%20no_gr.png)](https://azurlane.koumakan.jp/Fuel_Filter)
+[![Ocean Soul Camo](/resources/ocean%20soul%20camo%20no_gr.png)](https://azurlane.koumakan.jp/Ocean_Soul_Camouflage)
 [![Naval Camo](/resources/naval%20camo%20no_gr.png)](https://azurlane.koumakan.jp/Naval_Camouflage)
 [![Hydraulic Rudder](/resources/hydraulic%20rudder%20no_gr.png)](https://azurlane.koumakan.jp/Hydraulic_Steering_Gear)
 
@@ -23,7 +24,9 @@ This guide for auxiliary equipment is split off from the rest due to the relativ
  
  - **[Fuel Filter](https://azurlane.koumakan.jp/Fuel_Filter)** gives a moderate boost to HP and a small boost to evasion, while also having no bonus skill effect. It is suboptimal in nearly every situation.
  
- - **[Naval Camo](https://azurlane.koumakan.jp/Naval_Camouflage)** and **[Hydraulic Rudder](https://azurlane.koumakan.jp/Hydraulic_Steering_Gear)** provide the exact same stats boost with no bonus skill effect, with a focus on boosting evasion. Despite their low rarity, they are the strongest evasion-focused auxiliary equips after the improved rudder and beaver badge and are not limited per ship.
+ - **[Ocean Soul Camo](https://azurlane.koumakan.jp/Ocean_Soul_Camouflage)** provides a marginal boost over standard naval camo making it technically the strongest evasion-focused auxiliary equip after the Improved Rudder and Beaver Badge, but its status as core data equipment makes it a relatively poor investment.
+ 
+ - **[Naval Camo](https://azurlane.koumakan.jp/Naval_Camouflage)** and **[Hydraulic Rudder](https://azurlane.koumakan.jp/Hydraulic_Steering_Gear)** provide the exact same stats boost with no bonus skill effect, with a focus on boosting evasion. Despite their low rarity, they're very potent especially compared to their ease of access.
 
 **Specialty Auxiliaries**<br/>
 [![Fire Extinguisher](/resources/fire%20extinguisher%20no_gr.png)](https://azurlane.koumakan.jp/Fire_Extinguisher)
