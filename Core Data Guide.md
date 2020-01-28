@@ -36,10 +36,14 @@ Cognition chips are a well-justified value proposition. Their core data cost is 
 
 ## Questionable Equipment
 [![SBD Dauntless (McClusky)](/resources/dauntless%20mcclusky%20no_gr.png)](https://azurlane.koumakan.jp/Douglas_SBD_Dauntless_(McClusky))
+[![Barracuda (831 Squadron)](/resources/barracuda%20831%20no_gr.png)](https://azurlane.koumakan.jp/Fairey_Barracuda_(831_Squadron))
+[![Ocean Soul Camo](/resources/ocean%20soul%20camo%20no_gr.png)](https://azurlane.koumakan.jp/Ocean_Soul_Camouflage)
 [![100/150 AV Gas](/resources/av%20gas%20no_gr.png)](https://azurlane.koumakan.jp/100/150_Aviation_Gasoline)
 [![Type 98 FDD](/resources/t98%20fdd%20no_gr.png)](https://azurlane.koumakan.jp/Type_98_Delayed_Firing_Device)
 [![TBM Avenger (ASW)](/resources/tbm%20avenger%20asw%20no_gr.png)](https://azurlane.koumakan.jp/General_Motors_TBM-3_Avenger_(ASW))
  - **[SBD Dauntless (McClusky)](https://azurlane.koumakan.jp/Douglas_SBD_Dauntless_(McClusky))** - The damage boost against carriers doesn't make up for the loss in base damage compared to a more damage-focused bomber like the SB2C Helldiver with one specific exception: Ark Royal. Ark's dive bomber slot represents a small enough portion of her damage that the damage boost becomes relevant for her and her alone.
+ - **[Fairey Barracuda (831 Squadron)](https://azurlane.koumakan.jp/Fairey_Barracuda_(831_Squadron))** - What if you took a Suisei, made it deal half damage, and gave its bombs an abysmally low 24% chance to inflict a debuff that increases gunnery damage dealt to the target by 8% for 6s. While almost entirely useless for PVE, it happens to deal the same base crash damage as the torpedo bomber Barracuda, making it useful for PVP.
+ - **[Ocean Soul Camo](https://azurlane.koumakan.jp/Ocean_Soul_Camouflage)** - While technically stronger than blue rarity naval camo, it's by a very minor amount, while being more expensive to invest in thanks to its rarity and status as core data equipment. New players will want to spend their data and upgrade plates on stronger equipment, while veterans likely have enough improved rudders to not need this item's minor stat boosts.
  - **[100/150 Aviation Gas](https://azurlane.koumakan.jp/100/150_Aviation_Gasoline)** - Only useful in PVP.
  - **[Type 98 Firing Delay Device](https://azurlane.koumakan.jp/Type_98_Delayed_Firing_Device)** - Reduces spread of the main gun by a negligible amount. Has potential to improve clear consistency and therefore average clear time in incredibly select scenarios, but is typically going to be less useful than a different offensive aux.
  - **[TBM-3 Avenger (ASW)](https://azurlane.koumakan.jp/General_Motors_TBM-3_Avenger_(ASW))** - Incredibly strong anti-submarine weapon. Is equipped in the auxiliary slot of light carriers, not a standard plane slot. Given the relative ease of ASW fights, it's an unnecessary purchase. Treat as a luxury.
@@ -47,11 +51,9 @@ Cognition chips are a well-justified value proposition. Their core data cost is 
 ## Bad Equipment
 [![Improved Storage Battery](/resources/battery%20no_gr.png)](https://azurlane.koumakan.jp/Improved_Storage_Battery)
 [![F2A Buffalo (Thach)](/resources/f2a%20buffalo%20thach%20no_gr.png)](https://azurlane.koumakan.jp/Brewster_F2A_Buffalo_(Thach_Squadron))
-[![Barracuda (831 Squadron)](/resources/barracuda%20831%20no_gr.png)](https://azurlane.koumakan.jp/Fairey_Barracuda_(831_Squadron))
 [![Skyrocket](/resources/skyrocket%20no_gr.png)](https://azurlane.koumakan.jp/Grumman_XF5F_Skyrocket)
 [![T94 HA Director](/resources/t94%20director%20no_gr.png)](https://azurlane.koumakan.jp/Type_94_High_Angle_Director)
  - **[Improved Storage Battery](https://azurlane.koumakan.jp/Improved_Storage_Battery)** - Wholly obsoleted by Meowficers, while also occupying a valuable submarine auxiliary slot.
  - **[Brewster F2A Buffalo (Thach Squadron)](https://azurlane.koumakan.jp/Brewster_F2A_Buffalo_(Thach_Squadron))** - No bombs, below-average aa guns, slower than the Me-155A. Its skill effect fails to make up for its downsides.
- - **[Fairey Barracuda (831 Squadron)](https://azurlane.koumakan.jp/Fairey_Barracuda_(831_Squadron))** - What if you took a Suisei, made it deal half damage, and gave its bombs an abysmally low 24% chance to inflict a debuff that increases gunnery damage dealt to the target by 8% for 6s. Hard pass.
  - **[XF5F Skyrocket](https://azurlane.koumakan.jp/Grumman_XF5F_Skyrocket)** - It go fast.
  - **[Type 94 High-Angle Director](https://azurlane.koumakan.jp/Type_94_High_Angle_Director)** - Only good for cooking rice.
