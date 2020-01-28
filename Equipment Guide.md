@@ -204,15 +204,15 @@ This guide is meant to serve as both an in-depth guide to end-game equipment and
 
 **Dive Bombers** <br/>
 [![SB2C Helldiver](/resources/sb2c%20helldiver%20gr_s.png)](https://azurlane.koumakan.jp/SB2C_Helldiver)
-[![Ju-87c](/resources/ju-87c%20gr_a.png)](https://azurlane.koumakan.jp/Junkers_Ju-87C)
+[![Firefly](/resources/firefly%20gr_s.png)](https://azurlane.koumakan.jp/Fairey_Firefly)
 [![Suisei](/resources/suisei%20gr_a.png)](https://azurlane.koumakan.jp/D4Y_Suisei)
-[![Firefly](/resources/firefly%20gr_b.png)](https://azurlane.koumakan.jp/Fairey_Firefly)
+[![Ju-87c](/resources/ju-87c%20gr_a.png)](https://azurlane.koumakan.jp/Junkers_Ju-87C)
 
  - Bomb damage does not scale linearly with payload weight, and larger bombs only provide a small increase in damage. As such, quantity of bombs is generally preferred to quality of bombs. Additionally, the damage stat shown in-game for any given dive bomber is a meaningless, arbitrary number that is in no way related to the bomber's actual performance.
  - **[SB2C Helldiver](https://azurlane.koumakan.jp/SB2C_Helldiver)** has the strongest bomb loadout of any dive bomber by a wide margin, but is also the slowest. Strongest dive bomber for general use, especially on carriers with strong dive bombers.
- - **[Ju-87c 'Stuka'](https://azurlane.koumakan.jp/Junkers_Ju-87C)** is the only other bomber that can compete with the Helldiver in terms of raw damage potential. It reloads slightly faster, but its 100lb bombs have a small blast radius, which can cut into overall reliability.
- - **[D4Y Suisei](https://azurlane.koumakan.jp/D4Y_Suisei)** has a relatively weak payload, but is the fastest true dive bomber. It has niche use in reload tuning and can be a strong choice on carriers with weak dive bombers, or in situations where a stronger dive bomber would overkill enemies.
  - **[Fairey Firefly](https://azurlane.koumakan.jp/Fairey_Firefly)** has an average reload speed with average damage, but its main appeal is its anti-air guns. Equipped with the same autocannons found on Royal fighters, the Firefly is capable of dealing fighter-tier anti-air damage, but as a dive bomber, is incapable of the same automatic interception as a real fighter, its guns only being beneficial after launching a full airstrike.
+ - **[D4Y Suisei](https://azurlane.koumakan.jp/D4Y_Suisei)** has a relatively weak payload, but is the fastest true dive bomber. It has niche use in reload tuning and can be a strong choice on carriers with weak dive bombers, or in situations where a stronger dive bomber would overkill enemies.
+ - **[Ju-87c 'Stuka'](https://azurlane.koumakan.jp/Junkers_Ju-87C)** is the only other bomber that can compete with the Helldiver in terms of raw damage potential. It reloads slightly faster, but its 100lb bombs have a small blast radius, which can cut into overall reliability.
 
 **Torpedo Bombers** <br/>
 [![Ryuusei](/resources/ryuusei%20gr_s.png)](https://azurlane.koumakan.jp/Aichi_B7A_Ryuusei)
@@ -238,12 +238,14 @@ This guide is meant to serve as both an in-depth guide to end-game equipment and
 [![40mm Quad Bofors](/resources/40mm%20quad%20bofors%20gr_s.png)](https://azurlane.koumakan.jp/Quadruple_40mm_L60_Mk2_Bofors)
 [![40mm 8x Pom-Pom](/resources/40mm%208x%20pom-pom%20gr_s.png)](https://azurlane.koumakan.jp/Octuple_40mm_Pom-Pom)
 [![113mm Twin](/resources/113mm%20twin%20gr_s.png)](https://azurlane.koumakan.jp/Twin_113mm_(4.5%22/45_QF_Mk_I))
+[![134mm Twin High-Angle](/resources/134mm%20twin%20high-angle%20gr_a.png)](https://azurlane.koumakan.jp/Twin_134mm_High-Angle_(QF_Mk_I))
 [![100mm Twin High-Angle](/resources/100mm%20twin%20high-angle%20gr_a.png)](https://azurlane.koumakan.jp/Twin_100mm_High-Angle_(Type_98))
 [![105mm Twin SKC](/resources/105mm%20twin%20skc%20gr_a.png)](https://azurlane.koumakan.jp/Twin_105mm_(SK_C/33))
 
  - **[40mm Quad Bofors](https://azurlane.koumakan.jp/Quadruple_40mm_L60_Mk2_Bofors)** can fill the niche of both an accelerator and damage AA gun, and forms the foundation of a strong AA setup. While a mix of different types of AA guns will always provide the most gains, a setup that uses exclusively quad Bofors will be stronger than any other mono-gun setup.
  - **[40mm 8x Pom-Pom](https://azurlane.koumakan.jp/Octuple_40mm_Pom-Pom)** is one of the strongest damage-focused AA guns, with the second highest base damage per hit and a relatively fast reload speed. While it has a low base range, as range is calculated based on the average range of all AA guns in your fleet, this is generally a non-concern unless you're attempting to utilise more than one Pom-Pom.
- - **[113mm Twin QF Mk I](https://azurlane.koumakan.jp/Twin_113mm_(4.5%22/45_QF_Mk_I))** has the highest base damage and range of any AA gun, but it also has the longest reload speed of any gold rarity AA gun. This gun has potential to be incredibly powerful when used responsibly, but poor usage will only cut into your tick rate, decreasing your margin of error and providing very little tangible benefits.
+ - **[113mm Twin QF Mk I](https://azurlane.koumakan.jp/Twin_113mm_(4.5%22/45_QF_Mk_I))** has the second highest base damage and range of any AA gun, but it also has a relatively long reload speed. This gun has potential to be incredibly powerful when used responsibly, but poor usage will only cut into your tick rate, decreasing your margin of error and providing very little tangible benefits.
+ - **[134mm Twin High-Angle QF Mk I](https://azurlane.koumakan.jp/Twin_134mm_High-Angle_(QF_Mk_I))** has marginally higher base damage than the 113mm Twin, but with a significantly longer reload time. Generally less useful as an actual anti-air gun, but it does give a small boost to firepower. The stat boost is mostly only useful on destroyers, who also have the reload stat necessary to best compensate for the long reload speed.
  - **[100mm Twin High-Angle T98](https://azurlane.koumakan.jp/Twin_100mm_High-Angle_(Type_98))** and **[105mm Twin SK C/33](https://azurlane.koumakan.jp/Twin_105mm_(SK_C/33))** are strong guns if you lack other gold AA guns, but have lower damage than both the 113mm and Pom-Pom, making them suboptimal in all scenarios.
 
 **Accelerator Guns** <br/>
